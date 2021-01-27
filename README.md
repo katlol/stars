@@ -71,6 +71,9 @@
 
 ## C 
 
+- [AmongUsMenu](https://github.com/std-nullptr/AmongUsMenu) - AmongUsMenu is a Cheat Menu for the popular Game Among Us.
+- [libhydrogen](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments.
+- [libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer(s) are not tracking  this git mirror.
 - [UltraGrid](https://github.com/CESNET/UltraGrid) - UltraGrid low-latency audio and video network transmission system
 - [bddisasm](https://github.com/bitdefender/bddisasm) - bddisasm is a fast, lightweight, x86/x64 instruction decoder.  The project also features a fast, basic, x86/x64 instruction emulator, designed specifically to detect shellcode-like behavior.
@@ -277,6 +280,13 @@
 
 ## Go 
 
+- [keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
+- [arkade](https://github.com/alexellis/arkade) - Open Source Kubernetes Marketplace
+- [inlets-operator](https://github.com/inlets/inlets-operator) - Add public LoadBalancers to your local Kubernetes clusters
+- [werf](https://github.com/werf/werf) - GitOps delivery tool
+- [orbos](https://github.com/caos/orbos) - ORBOS - GitOps everything
+- [boom](https://github.com/caos/boom) - Operator to deploy a defined toolsets into K8s, think paas but less lock-in
+- [flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [hydra-maester](https://github.com/ory/hydra-maester) - Kuberenetes CRD Controller for ORY Hydra
 - [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [mllp](https://github.com/GoogleCloudPlatform/mllp) - The MLLP (Short for "Minimal Lower Layer Protocol") adapter is a component that runs on GKE (https://cloud.google.com/kubernetes-engine/), receives HL7v2 messages via MLLP/TCP, and forwards messages received to Cloud HL7v2 API.
@@ -284,7 +294,7 @@
 - [service-catalog](https://github.com/kubernetes-sigs/service-catalog) - Consume services in Kubernetes using the Open Service Broker API
 - [kokotap](https://github.com/redhat-nfvpe/kokotap) - Tools for kubernetes pod network tapping
 - [gangway](https://github.com/heptiolabs/gangway) - An application that can be used to easily enable authentication flows via OIDC for a kubernetes cluster.
-- [kiosk](https://github.com/kiosk-sh/kiosk) - kiosk 🏢 Multi-Tenancy Extension For Kubernetes - Secure Cluster Sharing & Self-Service Namespace Provisioning
+- [kiosk](https://github.com/loft-sh/kiosk) - kiosk 🏢 Multi-Tenancy Extension For Kubernetes - Secure Cluster Sharing & Self-Service Namespace Provisioning
 - [simhospital](https://github.com/google/simhospital) - 
 - [rbac-manager](https://github.com/FairwindsOps/rbac-manager) - A Kubernetes operator that simplifies the management of Role Bindings and Service Accounts.
 - [rabbitmq_exporter](https://github.com/kbudde/rabbitmq_exporter) - Prometheus exporter for RabbitMQ
@@ -558,7 +568,6 @@
 - [kubicorn](https://github.com/kubicorn/kubicorn) - Created by @kris-nova Kris Nóva. Simple, cloud native infrastructure for Kubernetes.
 - [externalsecret-operator](https://github.com/ContainerSolutions/externalsecret-operator) - An operator to fetch secrets from cloud services and inject them in Kubernetes
 - [terrastate](https://github.com/webhippie/terrastate) - Terraform HTTP remote state storage
-- [keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
 - [shellz](https://github.com/evilsocket/shellz) - shellz is a small utility to track and control your ssh, telnet, web and custom shells and tunnels.
 - [kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 - [textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
@@ -614,6 +623,7 @@
 
 ## HTML 
 
+- [speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
 - [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 "Kubernetes Certified Security Specialist" Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you.
 - [matrix-chart](https://github.com/dacruz21/matrix-chart) - Helm chart for deploying a Matrix homeserver stack
@@ -680,8 +690,10 @@
 
 ## JavaScript 
 
+- [Twitch-watcher](https://github.com/D3vl0per/Twitch-watcher) - Automatic watching the twitch to get Valorant drop
 - [stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [element-desktop](https://github.com/vector-im/element-desktop) - A glossy Matrix collaboration client for desktop.
+- [dumbdown](https://github.com/treenotation/dumbdown) - The dumb alternative to markdown. The keyword for title is title.
 - [googleimagesrestored](https://github.com/fanfare/googleimagesrestored) - This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019.
 - [hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [ssb-minimal-pub-server](https://github.com/ssb-junkyard/ssb-minimal-pub-server) - A minimal version of ssb-server aimed at pubs
@@ -707,7 +719,6 @@
 - [whack_a_pod](https://github.com/tpryan/whack_a_pod) - A demo application that turns a Kubernetes cluster into a Whack a Mole game, where the moles are pods.
 - [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [refined-hacker-news](https://github.com/plibither8/refined-hacker-news) - ✨ Hacker News, but refined — Interface tweaks and features to make the HN experience better
-- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [rtmp-to-webrtc](https://github.com/notedit/rtmp-to-webrtc) - rtmp to  webrtc
 - [xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster
 - [metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
@@ -727,7 +738,7 @@
 - [HLS-Proxy](https://github.com/warren-bank/HLS-Proxy) - Node.js server to proxy HLS video streams
 - [comicslack](https://github.com/TheSkorm/comicslack) - 
 - [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
-- [country-flags](https://github.com/hjnilsson/country-flags) - SVG and PNG renders of all countries' flags.
+- [country-flags](https://github.com/hampusborgos/country-flags) - SVG and PNG renders of all countries' flags.
 - [Shinobi](https://github.com/moeiscool/Shinobi) - :peace_symbol: :palestinian_territories: Shinobi CE - The Free Open Source CCTV platform written in Node.JS (Camera Recorder - Security Surveillance Software - Restreamer
 - [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
 - [sync](https://github.com/calzoneman/sync) - Node.JS Server and JavaScript/HTML Client for synchronizing online media
@@ -880,6 +891,7 @@
 
 ## OCaml 
 
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [jackline](https://github.com/hannesm/jackline) - minimalistic secure XMPP client in OCaml
 
 ## Objective-C 
@@ -899,7 +911,9 @@
 
 ## Others 
 
-- [dumbdown](https://github.com/treenotation/dumbdown) - The dumb alternative to markdown. The keyword for title is title.
+- [spec](https://github.com/ulid/spec) - The canonical spec for ulid
+- [stars](https://github.com/sim1/stars) - sim1/stars - An awesome list of my starred repositories
+- [stars](https://github.com/underyx/stars) - 
 - [kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [rbac.dev](https://github.com/mhausenblas/rbac.dev) - A collection of good practices and tools for Kubernetes RBAC
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
@@ -1037,6 +1051,9 @@
 
 ## Python 
 
+- [kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
+- [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist REST and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [timeflake](https://github.com/anthonynsimon/timeflake) - Timeflake is a 128-bit, roughly-ordered, URL-safe UUID.
 - [pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments
 - [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [aws-leastprivilege](https://github.com/iann0036/aws-leastprivilege) - Generates an IAM policy for the CloudFormation service role that adheres to least privilege.
