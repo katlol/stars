@@ -71,7 +71,9 @@
 
 ## C 
 
-- [AmongUsMenu](https://github.com/std-nullptr/AmongUsMenu) - AmongUsMenu is a Cheat Menu for the popular Game Among Us.
+- [derasterize](https://github.com/csdvrx/derasterize) - textmode supremacy
+- [tf2_bot_detector](https://github.com/PazerOP/tf2_bot_detector) - Automatically detects and votekicks cheaters/bots in TF2 casual.
+- [AmongUsMenu](https://github.com/BitCrackers/AmongUsMenu) - AmongUsMenu is a Cheat Menu for the popular Game Among Us.
 - [libhydrogen](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments.
 - [libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [file](https://github.com/file/file) - Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer(s) are not tracking  this git mirror.
@@ -280,6 +282,8 @@
 
 ## Go 
 
+- [kustomize-sops](https://github.com/viaduct-ai/kustomize-sops) - KSOPS - A Flexible Kustomize Plugin for SOPS Encrypted Resources
+- [kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
 - [keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
 - [arkade](https://github.com/alexellis/arkade) - Open Source Kubernetes Marketplace
 - [inlets-operator](https://github.com/inlets/inlets-operator) - Add public LoadBalancers to your local Kubernetes clusters
@@ -308,7 +312,7 @@
 - [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
 - [dns](https://github.com/kubernetes/dns) - Kubernetes DNS service
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-- [sealos](https://github.com/fanux/sealos) - 只能用丝滑一词形容的kubernetes高可用安装（kubernetes install）工具，一条命令，离线安装，包含所有依赖，内核负载不依赖haproxy keepalived,纯golang开发,99年证书,支持v1.16 v1.15 v1.17 v1.18 v1.19 v1.20集成containerd离线包!
+- [sealos](https://github.com/fanux/sealos) - 一条命令安装kubernetes，超全版本，支持国产化，生产环境中稳如老狗，99年证书，0依赖，去haproxy keepalived，v1.20支持containerd！
 - [machine-controller](https://github.com/kubermatic/machine-controller) - 
 - [cluster-addons](https://github.com/kubernetes-sigs/cluster-addons) - Addon operators for Kubernetes clusters.
 - [scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
@@ -325,7 +329,7 @@
 - [postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
 - [cluster-lifecycle-manager](https://github.com/zalando-incubator/cluster-lifecycle-manager) - Cluster Lifecycle Manager (CLM) to provision and update multiple Kubernetes clusters
 - [kube-metrics-adapter](https://github.com/zalando-incubator/kube-metrics-adapter) - General purpose metrics adapter for Kubernetes HPA metrics
-- [k8s-prometheus-adapter](https://github.com/DirectXMan12/k8s-prometheus-adapter) - An implementation of the custom.metrics.k8s.io API using Prometheus
+- [prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) - An implementation of the custom.metrics.k8s.io API using Prometheus
 - [aws-controllers-k8s](https://github.com/aws/aws-controllers-k8s) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
 - [descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
@@ -364,7 +368,7 @@
 - [Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly is an intelligent P2P based image and file distribution system.
 - [csi-rclone](https://github.com/wunderio/csi-rclone) - CSI driver for rclone
 - [kubernetes-update-manager](https://github.com/xcnt/kubernetes-update-manager) - A manager to update deployments with migration jobs in Kubernetes.
-- [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble and more with REST API (mattermost not required!)
+- [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [kubermatic](https://github.com/kubermatic/kubermatic) - Kubermatic Kubernetes Platform - the Central Kubernetes Management Platform For Any Infrastructure
 - [fate](https://github.com/pteichman/fate) - ngram text synthesis with delusions of grandeur
 - [wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager
@@ -640,7 +644,7 @@
 - [website](https://github.com/hopjb/website) - The hopjb.com website
 - [steam-phishing-analysis](https://github.com/nneonneo/steam-phishing-analysis) - Analysis and dissection of a Steam login phishing site.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [kube-rclone](https://github.com/zee-ahmed/kube-rclone) - kube-rclone is a rclone mount solution for Kubernetes
+- [kube-rclone](https://github.com/simplyzee/kube-rclone) - kube-rclone is a rclone mount solution for Kubernetes
 - [docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [CloudComparer](https://github.com/ilyas-it83/CloudComparer) - Compare the various managed cloud services offered by the major public cloud providers in the market.
@@ -658,7 +662,7 @@
 
 ## Java 
 
-- [airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you consolidate your data in your warehouses, lakes and databases.
+- [airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
 - [BlocksHub](https://github.com/SBPrime/BlocksHub) - API that provides easy access to block loggers and block access controls
 - [openvidu](https://github.com/OpenVidu/openvidu) - OpenVidu Platform main repository
 - [Amnesia](https://github.com/dTsitsigkos/Amnesia) - Amnesia
@@ -690,6 +694,7 @@
 
 ## JavaScript 
 
+- [Accelerator](https://github.com/cracker0dks/Accelerator) - Online Conference and Collaboration Tool
 - [Twitch-watcher](https://github.com/D3vl0per/Twitch-watcher) - Automatic watching the twitch to get Valorant drop
 - [stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [element-desktop](https://github.com/vector-im/element-desktop) - A glossy Matrix collaboration client for desktop.
@@ -700,7 +705,7 @@
 - [ssb-server](https://github.com/ssbc/ssb-server) - The gossip and replication server for Secure Scuttlebutt - a distributed social network
 - [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
 - [unity-builder](https://github.com/game-ci/unity-builder) - Build Unity projects for different platforms
-- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person profile across 300+ social media websites (Detections are updated regularly)
+- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 300+ social media websites (Detections are updated regularly)
 - [TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech.
 - [TwitchControlsMinecraft](https://github.com/braydo25/TwitchControlsMinecraft) - Twitch Controls Minecraft is a Minecraft mod that lets your chat vote to make things happen in your minecraft server in real time. The options presented to vote on are entirely randomized and voting rounds by default last 60 seconds.
@@ -790,6 +795,7 @@
 - [bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check
 - [docker-hub-rss](https://github.com/TheConnMan/docker-hub-rss) - RSS feed for Docker Hub images
 - [Gmail_GeoIPTagger](https://github.com/benjojo/Gmail_GeoIPTagger) - An app script that will label your email from where in the world it was sent from
+- [setup](https://github.com/Strajk/setup) - 
 - [office-simulator](https://github.com/tholman/office-simulator) - Miss the office life? You won't any more with this wonderful office slack simulator.
 - [codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [awsdetailedbilling](https://github.com/heroku/awsdetailedbilling) - A toolkit for importing AWS detailed billing reports into Redshift
@@ -911,6 +917,7 @@
 
 ## Others 
 
+- [sre-book-in-audio](https://github.com/chiaen/sre-book-in-audio) - Google Site Reliability Engineering book converted in audio
 - [spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [stars](https://github.com/sim1/stars) - sim1/stars - An awesome list of my starred repositories
 - [stars](https://github.com/underyx/stars) - 
@@ -959,7 +966,6 @@
 - [google-overlay](https://github.com/kube-platform/google-overlay) - kustomize overlay for Google GKE/GCP
 - [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
 - [awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
-- [awesome-zero-trust](https://github.com/pomerium/awesome-zero-trust) - A curated collection of awesome resources for the zero-trust security model.
 - [lessobviouschecklist](https://github.com/mxsasha/lessobviouschecklist) - The Less Obvious Conference Checklist
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [Kubernetes-Certified-Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator) - Online resources that will help you prepare for taking the CNCF CKA  2020 "Kubernetes Certified Administrator" Certification exam. with time, This is not likely the comprehensive up to date list  - please make a pull request if there something that should be added here.
@@ -1051,6 +1057,7 @@
 
 ## Python 
 
+- [open-lpr](https://github.com/faisalthaheem/open-lpr) - Open Source and Free License Plate Recognition Software
 - [kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
 - [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist REST and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [timeflake](https://github.com/anthonynsimon/timeflake) - Timeflake is a 128-bit, roughly-ordered, URL-safe UUID.
@@ -1177,7 +1184,7 @@
 - [WebTools.bundle](https://github.com/ukdtom/WebTools.bundle) - WebTools is a collection of tools for Plex Media Server. Like the Unsupported AppStore (UAS)
 - [microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 - [iris](https://github.com/doitintl/iris) - Automatically tag Google Cloud resources for better manageability and billing reporting
-- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [titletoimagebot](https://github.com/CalicoCatalyst/titletoimagebot) - rewrite of reddit bot for adding submission title to linked image
 - [subshell](https://github.com/threatexpress/subshell) - SubShell is a python command shell used to control and execute commands through HTTP requests to a webshell. SubShell acts as the interface to the remote webshells.
@@ -1269,7 +1276,7 @@
 - [tplmap](https://github.com/epinna/tplmap) - Server-Side Template Injection and Code Injection Detection and Exploitation Tool
 - [MorphAES](https://github.com/cryptolok/MorphAES) - IDPS & SandBox & AntiVirus STEALTH KILLER. MorphAES is the world's first polymorphic shellcode engine, with metamorphic properties and capability to bypass sandboxes, which makes it undetectable for an IDPS, it's cross-platform as well and library-independent.
 - [grab](https://github.com/lorien/grab) - Web Scraping Framework
-- [healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django
+- [healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [acd_cli](https://github.com/yadayada/acd_cli) - An unmaintained command line interface and FUSE filesystem for Amazon (Cloud) Drive
 - [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
@@ -1313,7 +1320,6 @@
 - [slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
 - [facebook_data_analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - Analyze facebook copy of your data with ruby language. Download zip file from facebook and get info about friends ranking by message, vocabulary,  contacts, friends added statistics and more
 - [audit-aws-s3](https://github.com/CloudCoreo/audit-aws-s3) - 
-- [setup](https://github.com/Strajk/setup) - 
 - [ansible-consul](https://github.com/mattfinlayson/ansible-consul) - Ansible role for consul
 - [minicron](https://github.com/jamesrwhite/minicron) - 🕰️ Monitor your cron jobs
 - [diffmon](https://github.com/stevewoodcock/diffmon) - Watch URLs for changes and turn into RSS feed
