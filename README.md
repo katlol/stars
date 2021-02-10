@@ -71,6 +71,7 @@
 
 ## C 
 
+- [openaptx](https://github.com/Arkq/openaptx) - Reverse-engineered apt-X audio codec
 - [derasterize](https://github.com/csdvrx/derasterize) - textmode supremacy
 - [tf2_bot_detector](https://github.com/PazerOP/tf2_bot_detector) - Automatically detects and votekicks cheaters/bots in TF2 casual.
 - [AmongUsMenu](https://github.com/BitCrackers/AmongUsMenu) - AmongUsMenu is a Cheat Menu for the popular Game Among Us.
@@ -282,6 +283,11 @@
 
 ## Go 
 
+- [terraform-provider-flux](https://github.com/fluxcd/terraform-provider-flux) - Terraform provider for Flux version 2
+- [porter](https://github.com/kubesphere/porter) - Bare Metal Load-balancer for Kubernetes Cluster
+- [iamlive](https://github.com/iann0036/iamlive) - Generate a basic IAM policy from AWS client-side monitoring (CSM)
+- [faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
+- [rbac-lookup](https://github.com/FairwindsOps/rbac-lookup) - Easily find roles and cluster roles attached to any user, service account, or group name in your Kubernetes cluster
 - [kustomize-sops](https://github.com/viaduct-ai/kustomize-sops) - KSOPS - A Flexible Kustomize Plugin for SOPS Encrypted Resources
 - [kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
 - [keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
@@ -330,7 +336,7 @@
 - [cluster-lifecycle-manager](https://github.com/zalando-incubator/cluster-lifecycle-manager) - Cluster Lifecycle Manager (CLM) to provision and update multiple Kubernetes clusters
 - [kube-metrics-adapter](https://github.com/zalando-incubator/kube-metrics-adapter) - General purpose metrics adapter for Kubernetes HPA metrics
 - [prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) - An implementation of the custom.metrics.k8s.io API using Prometheus
-- [aws-controllers-k8s](https://github.com/aws/aws-controllers-k8s) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
+- [community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
 - [descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [shell-operator](https://github.com/flant/shell-operator) - Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster
 - [hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) - Kubernetes cloud-controller-manager for Hetzner Cloud
@@ -507,7 +513,7 @@
 - [tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
 - [gatekeeper](https://github.com/open-policy-agent/gatekeeper) - Gatekeeper - Policy Controller for Kubernetes
 - [test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
-- [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
+- [argo-workflows](https://github.com/argoproj/argo-workflows) - Argo Workflows: Get stuff done with Kubernetes.
 - [argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [mattermost-cloud](https://github.com/mattermost/mattermost-cloud) - Tools and services for running Mattermost Cloud :cloud:
 - [secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) - Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.
@@ -619,6 +625,7 @@
 
 ## HCL 
 
+- [eks-example](https://github.com/PropellerAero/eks-example) - A simplified example of the terraform configuration that Propeller uses to quickly deploy and set up new EKS clusters
 - [Self-Hosted](https://github.com/starise/Self-Hosted) - Self-Hosted Docker services over HTTPS via Traefik on Raspberry Pi 4 Model B Server
 - [terraform-module-k3s](https://github.com/xunleii/terraform-module-k3s) - Terraform module to install K3S on all given instances
 - [gke-security-scenarios-demo](https://github.com/GoogleCloudPlatform/gke-security-scenarios-demo) - This project demonstrates a series of best practices for improving the security of containerized applications deployed to Kubernetes Engine. You will deploy multiple instances of the same container image with a variety of security settings to illustrate the use of RBAC, security contexts, and AppArmor policies.
@@ -627,6 +634,7 @@
 
 ## HTML 
 
+- [supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
 - [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 "Kubernetes Certified Security Specialist" Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you.
@@ -668,6 +676,7 @@
 - [Amnesia](https://github.com/dTsitsigkos/Amnesia) - Amnesia
 - [LuckysheetServer](https://github.com/mengshukeji/LuckysheetServer) - Luckysheet java backend
 - [kardio](https://github.com/tmobile/kardio) - Service Health Dashboard for Kubernetes, Containers and more...
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 - [poli](https://github.com/shzlw/poli) - An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights.
 - [Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server) - Ant Media Server supports RTMP, RTSP, WebRTC and Adaptive Bitrate. It can also record videos in MP4, HLS and FLV
@@ -694,6 +703,7 @@
 
 ## JavaScript 
 
+- [reveal.js-docker](https://github.com/cloudogu/reveal.js-docker) - Docker images providing easier to use, opinionated reveal.js web apps - web-based slides/presentations
 - [Accelerator](https://github.com/cracker0dks/Accelerator) - Online Conference and Collaboration Tool
 - [Twitch-watcher](https://github.com/D3vl0per/Twitch-watcher) - Automatic watching the twitch to get Valorant drop
 - [stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
@@ -718,7 +728,7 @@
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [buster](https://github.com/dessant/buster) - Captcha solver extension for humans
 - [matrix-puppet-steam](https://github.com/ananace/matrix-puppet-steam) - Puppeting Steam bridge for Matrix
-- [headless-recorder](https://github.com/checkly/headless-recorder) - Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
+- [headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
 - [meshery](https://github.com/layer5io/meshery) - Meshery, the service mesh management plane
 - [tar1090](https://github.com/wiedehopf/tar1090) - Provides an improved webinterface for use with ADS-B decoders readsb / dump1090-fa
 - [whack_a_pod](https://github.com/tpryan/whack_a_pod) - A demo application that turns a Kubernetes cluster into a Whack a Mole game, where the moles are pods.
@@ -749,7 +759,7 @@
 - [sync](https://github.com/calzoneman/sync) - Node.JS Server and JavaScript/HTML Client for synchronizing online media
 - [pipeline](https://github.com/alcideio/pipeline) - Alcide Kubernetes Advisor ... Cluster Hygiene & Security Scanner - Pipeline Integration
 - [uBlockProtector](https://github.com/jspenguin2017/uBlockProtector) - An anti-adblock defuser for Nano Adblocker and uBlock Origin
-- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
+- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
 - [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [MMM-RAIN-RADAR](https://github.com/jojoduquartier/MMM-RAIN-RADAR) - Magic Mirror Module to display precipitation radar
@@ -897,7 +907,6 @@
 
 ## OCaml 
 
-- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [jackline](https://github.com/hannesm/jackline) - minimalistic secure XMPP client in OCaml
 
 ## Objective-C 
@@ -925,7 +934,6 @@
 - [rbac.dev](https://github.com/mhausenblas/rbac.dev) - A collection of good practices and tools for Kubernetes RBAC
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [toc](https://github.com/cncf/toc) - ⚖️Technical Oversight Committee (TOC)
-- [awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - Awesome projects involving running Kubernetes at home
 - [pikvm](https://github.com/pikvm/pikvm) - Open and cheap DIY IP-KVM based on Raspberry Pi
 - [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
 - [ms-teams-rce](https://github.com/oskarsve/ms-teams-rce) - 
@@ -1087,7 +1095,7 @@
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [aiodns](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio
 - [furl](https://github.com/gruns/furl) - 🌐 URL parsing and manipulation made easy.
-- [ics.py](https://github.com/C4ptainCrunch/ics.py) - Pythonic and easy iCalendar library (rfc5545)
+- [ics-py](https://github.com/ics-py/ics-py) - Pythonic and easy iCalendar library (rfc5545)
 - [yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader and library for various sites.
 - [knausj_talon](https://github.com/knausj85/knausj_talon) - Config for talon for Mac, Windows and Linux. Very much in progress.
 - [synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix reference homeserver
@@ -1139,7 +1147,7 @@
 - [flask-webauthn-example](https://github.com/bodik/flask-webauthn-example) - Example web application for WebAuthn authentication presentation
 - [rele](https://github.com/mercadona/rele) - Easy to use Google Pub/Sub
 - [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
-- [PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
+- [PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
 - [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
 - [kasane](https://github.com/google/kasane) - A simple kubernetes deployment manager
@@ -1328,6 +1336,7 @@
 
 ## Rust 
 
+- [kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
 - [vas-quod](https://github.com/flouthoc/vas-quod) - :aerial_tramway: Minimal linux container runtime.
 - [sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [Mayastor](https://github.com/openebs/Mayastor) - A cloud native declarative data plane in containers for containers
@@ -1354,6 +1363,7 @@
 - [astronomer](https://github.com/astronomer/astronomer) - Helm Charts for the Astronomer Platform, Apache Airflow as a Service on Kubernetes
 - [ssb-pub](https://github.com/ahdinosaur/ssb-pub) - easily host your own Secure ScuttleButt (SSB) pub in a docker container
 - [Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
+- [awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - Awesome projects involving running Kubernetes at home
 - [jitsi-deployment](https://github.com/hpi-schul-cloud/jitsi-deployment) - Auto-scalable Jitsi Meet for Kubernetes
 - [kubernetes-in-kubernetes](https://github.com/kvaps/kubernetes-in-kubernetes) - Deploy Kubernetes in Kubernetes using Helm
 - [docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
@@ -1451,6 +1461,7 @@
 
 ## TypeScript 
 
+- [turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
 - [matrix-appservice-discord](https://github.com/Half-Shot/matrix-appservice-discord) - A bridge between Matrix and Discord.
 - [backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
