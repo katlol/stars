@@ -179,6 +179,9 @@
 
 ## C++ 
 
+- [untrunc](https://github.com/ponchio/untrunc) - Restore a damaged (truncated) mp4, m4v, mov, 3gp video. Provided you have a similar not broken video.
+- [win3wm](https://github.com/McYoloSwagHam/win3wm) - A Tiling Window Manager for windows 10, Inspired by  i3wm
+- [ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on Intel GPUs
 - [re3](https://github.com/GTAmodding/re3) - GTA III, Vice City
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
@@ -244,7 +247,7 @@
 
 ## Clojure 
 
-- [titanoboa](https://github.com/mikub/titanoboa) - Titanoboa makes complex workflows easy. It is a workflow orchestration platform for JVM - distributed, highly scalable and fault tolerant.
+- [titanoboa](https://github.com/mikub/titanoboa) - Titanoboa makes complex workflows easy. It is a low-code workflow orchestration platform for JVM - distributed, highly scalable and fault tolerant.
 - [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
 - [konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
 - [FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
@@ -288,6 +291,15 @@
 
 ## Go 
 
+- [sping](https://github.com/benjojo/sping) - Split ping, see what direction the loss or latency is on
+- [contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
+- [mysql-operator](https://github.com/presslabs/mysql-operator) - Bulletproof MySQL on Kubernetes using Percona Server
+- [wordpress-operator](https://github.com/presslabs/wordpress-operator) - WordPress operator for Kubernetes
+- [traitor](https://github.com/liamg/traitor) - Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones:
+- [sops-operator](https://github.com/craftypath/sops-operator) - A Kubernetes operator for Mozilla SOPS
+- [secreter](https://github.com/amaizfinance/secreter) - Kubernetes operator and CLI tool for encrypting and managing Kubernetes secrets
+- [kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd.
+- [k3d](https://github.com/rancher/k3d) - Little helper to run Rancher Lab's k3s in Docker
 - [horoscope-api](https://github.com/knrz/horoscope-api) - An API server for The Onion's horoscopes
 - [flynn](https://github.com/flynn/flynn) - [UNMAINTAINED] A next generation open source platform as a service (PaaS)
 - [porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
@@ -295,7 +307,7 @@
 - [perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [terraform-provider-flux](https://github.com/fluxcd/terraform-provider-flux) - Terraform provider for Flux version 2
 - [porter](https://github.com/kubesphere/porter) - Bare Metal Load-balancer for Kubernetes Cluster
-- [iamlive](https://github.com/iann0036/iamlive) - Generate a basic IAM policy from AWS client-side monitoring (CSM)
+- [iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy
 - [faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [rbac-lookup](https://github.com/FairwindsOps/rbac-lookup) - Easily find roles and cluster roles attached to any user, service account, or group name in your Kubernetes cluster
 - [kustomize-sops](https://github.com/viaduct-ai/kustomize-sops) - KSOPS - A Flexible Kustomize Plugin for SOPS Encrypted Resources
@@ -497,7 +509,7 @@
 - [source-chat-relay](https://github.com/rumblefrog/source-chat-relay) - Communicate between Discord & In-Game, monitor server without being in-game, control the flow of messages and user base engagement!
 - [kubeplus](https://github.com/cloud-ark/kubeplus) - CRD for CRDs to design multi-tenant platform services from Helm charts
 - [kube-ovn](https://github.com/kubeovn/kube-ovn) - A Kubernetes Network Fabric for Enterprises that is Rich in Functions and Easy in Operations
-- [postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgresSQL metric exporter for Prometheus
+- [postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [plik](https://github.com/root-gg/plik) - Plik is a scalable & friendly temporary file upload system ( wetransfer like ) in golang.
 - [octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
@@ -688,7 +700,6 @@
 - [Amnesia](https://github.com/dTsitsigkos/Amnesia) - Amnesia
 - [LuckysheetServer](https://github.com/mengshukeji/LuckysheetServer) - Luckysheet java backend
 - [kardio](https://github.com/tmobile/kardio) - Service Health Dashboard for Kubernetes, Containers and more...
-- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 - [poli](https://github.com/shzlw/poli) - An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights.
 - [Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server) - Ant Media Server supports RTMP, RTSP, WebRTC and Adaptive Bitrate. It can also record videos in MP4, HLS and FLV
@@ -715,6 +726,8 @@
 
 ## JavaScript 
 
+- [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
+- [glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
 - [node-steam-user](https://github.com/DoctorMcKay/node-steam-user) - Allows interaction with the Steam network via the Steam client protocol
 - [howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
@@ -724,7 +737,7 @@
 - [Twitch-watcher](https://github.com/D3vl0per/Twitch-watcher) - Automatic watching the twitch to get Valorant drop
 - [stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [element-desktop](https://github.com/vector-im/element-desktop) - A glossy Matrix collaboration client for desktop.
-- [dumbdown](https://github.com/treenotation/dumbdown) - The dumb alternative to markdown. The keyword for title is title. Also includes Scroll static publishing software. Everything is public domain.
+- [scroll](https://github.com/publicdomaincompany/scroll) - Scroll is public domain static publishing software with a newspaper feel built on Tree Notation.
 - [googleimagesrestored](https://github.com/fanfare/googleimagesrestored) - This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019.
 - [hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [ssb-minimal-pub-server](https://github.com/ssb-junkyard/ssb-minimal-pub-server) - A minimal version of ssb-server aimed at pubs
@@ -889,6 +902,7 @@
 - [text2emoji](https://github.com/TetsumichiUmada/text2emoji) - Predict an emoji that is associated with a text
 - [CoronaWatchNL](https://github.com/J535D165/CoronaWatchNL) - Numbers concerning COVID-19 disease cases in The Netherlands by RIVM, LCPS, NICE, ECML, and Rijksoverheid.
 - [urban-object-detection](https://github.com/maartensukel/urban-object-detection) - PyTorch implementation of an urban object detection model.
+- [cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [AdvBox](https://github.com/advboxes/AdvBox) - Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.  Advbox give a command line tool to generate adversarial examples with Zero-Coding.
 - [community](https://github.com/kubernetes/community) - Kubernetes community content
 - [Google-Location-History](https://github.com/Kshitij68/Google-Location-History) - Data Analysis on my Google Location History data
@@ -924,6 +938,7 @@
 
 ## OCaml 
 
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [jackline](https://github.com/hannesm/jackline) - minimalistic secure XMPP client in OCaml
 
 ## Objective-C 
@@ -943,6 +958,7 @@
 
 ## Others 
 
+- [awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [genshin-impact.loader](https://github.com/leeza007/genshin-impact.loader) - 💉 Genshin Impact - Loader: Easily inject into miHoYo's Genshin Impact
 - [k8s-is-not-a-paas](https://github.com/EngineerBetter/k8s-is-not-a-paas) - 
 - [sre-book-in-audio](https://github.com/chiaen/sre-book-in-audio) - Google Site Reliability Engineering book converted in audio
@@ -1084,6 +1100,7 @@
 
 ## Python 
 
+- [ambassador](https://github.com/datawire/ambassador) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 - [fastapi-users](https://github.com/frankie567/fastapi-users) - Ready-to-use and customizable users management for FastAPI
 - [fastapi-sqla](https://github.com/dialoguemd/fastapi-sqla) - A highly opinionated SQLAlchemy extension for FastAPI.
 - [fastapi-plugins](https://github.com/madkote/fastapi-plugins) - FastAPI framework plugins
@@ -1150,7 +1167,6 @@
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 - [asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
 - [black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [foolbox](https://github.com/bethgelab/foolbox) - A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX
 - [iqdb_tagger](https://github.com/rachmadaniHaryono/iqdb_tagger) - Search IQDB from CLI
 - [DeepDanbooru](https://github.com/KichangKim/DeepDanbooru) - AI based multi-label girl image classification system, implemented by using TensorFlow.
@@ -1215,7 +1231,7 @@
 - [WebTools.bundle](https://github.com/ukdtom/WebTools.bundle) - WebTools is a collection of tools for Plex Media Server. Like the Unsupported AppStore (UAS)
 - [microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 - [iris](https://github.com/doitintl/iris) - Automatically tag Google Cloud resources for better manageability and billing reporting
-- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [titletoimagebot](https://github.com/CalicoCatalyst/titletoimagebot) - rewrite of reddit bot for adding submission title to linked image
 - [subshell](https://github.com/threatexpress/subshell) - SubShell is a python command shell used to control and execute commands through HTTP requests to a webshell. SubShell acts as the interface to the remote webshells.
@@ -1301,7 +1317,7 @@
 - [deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules.
 - [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [HTPC-Manager](https://github.com/Hellowlol/HTPC-Manager) - A fully responsive interface to manage all your favorite software on your Htpc.
-- [sanic](https://github.com/sanic-org/sanic) - Async Python 3.6+ web server/framework | Build fast. Run fast.
+- [sanic](https://github.com/sanic-org/sanic) - Async Python 3.7+ web server/framework | Build fast. Run fast.
 - [python-consul](https://github.com/cablehead/python-consul) - Python client for Consul (http://www.consul.io/)
 - [autosub](https://github.com/agermanidis/autosub) - [NO LONGER MAINTAINED] Command-line utility for auto-generating subtitles for any video file
 - [tplmap](https://github.com/epinna/tplmap) - Server-Side Template Injection and Code Injection Detection and Exploitation Tool
@@ -1360,6 +1376,7 @@
 
 ## Rust 
 
+- [WSL-Hello-sudo](https://github.com/nullpo-head/WSL-Hello-sudo) - Let's sudo by face recognition of Windows Hello on Windows Subsystem for Linux (WSL). It runs on both WSL 1 and WSL 2. This is a PAM module for Linux on WSL.
 - [kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
 - [vas-quod](https://github.com/flouthoc/vas-quod) - :aerial_tramway: Minimal linux container runtime.
 - [sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
@@ -1384,6 +1401,7 @@
 
 ## Shell 
 
+- [cloud-run-for-anthos-labs](https://github.com/subfuzion/cloud-run-for-anthos-labs) - Learn about the serverless experience for your enterprise applications with Cloud Run for Anthos
 - [astronomer](https://github.com/astronomer/astronomer) - Helm Charts for the Astronomer Platform, Apache Airflow as a Service on Kubernetes
 - [ssb-pub](https://github.com/ahdinosaur/ssb-pub) - easily host your own Secure ScuttleButt (SSB) pub in a docker container
 - [Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
@@ -1486,6 +1504,7 @@
 
 ## TypeScript 
 
+- [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
