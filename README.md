@@ -179,6 +179,8 @@
 
 ## C++ 
 
+- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [untrunc](https://github.com/ponchio/untrunc) - Restore a damaged (truncated) mp4, m4v, mov, 3gp video. Provided you have a similar not broken video.
 - [win3wm](https://github.com/McYoloSwagHam/win3wm) - A Tiling Window Manager for windows 10, Inspired by  i3wm
 - [ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on Intel GPUs
@@ -202,6 +204,7 @@
 - [cathook](https://github.com/nullworks/cathook) - Training Software for the game Team Fortress 2
 - [srs](https://github.com/ossrs/srs) - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
 - [sourcemod-resources](https://github.com/Drixevel/sourcemod-resources) - Assets and resources to help build and maintain Sourcemod projects/plugins.
+- [source-chat-relay](https://github.com/rumblefrog/source-chat-relay) - Communicate between Discord & In-Game, monitor server without being in-game, control the flow of messages and user base engagement!
 - [puffer](https://github.com/StanfordSNR/puffer) - Puffer is a free live TV streaming website and a research study at Stanford using machine learning to improve video streaming
 - [OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
 - [ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
@@ -248,7 +251,7 @@
 ## Clojure 
 
 - [titanoboa](https://github.com/mikub/titanoboa) - Titanoboa makes complex workflows easy. It is a low-code workflow orchestration platform for JVM - distributed, highly scalable and fault tolerant.
-- [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
+- [athens](https://github.com/athensresearch/athens) - Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-mac-1, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens
 - [konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
 - [FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
@@ -291,6 +294,15 @@
 
 ## Go 
 
+- [revolut-stocks-list](https://github.com/nmapx/revolut-stocks-list) - Extract Revolut stocks list from the list screenshot(s).
+- [photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
+- [kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with ORY-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headles, API-only - without templating or themeing headaches.
+- [emojisum](https://github.com/emojisum/emojisum) - :pray: :paperclip: Emoji that checksum! :tada: :poop:
+- [metrics](https://github.com/kubernetes/metrics) - Kubernetes metrics-related API types and clients
+- [nodepool-labels-operator](https://github.com/banzaicloud/nodepool-labels-operator) - Nodepool Labels operator for Kubernetes
+- [finalizers](https://github.com/ibuildthecloud/finalizers) - Stupid Finalizers
+- [goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
+- [oathkeeper-maester](https://github.com/ory/oathkeeper-maester) - Kuberenetes CRD Controller for ORY Oathkeeper
 - [sping](https://github.com/benjojo/sping) - Split ping, see what direction the loss or latency is on
 - [contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [mysql-operator](https://github.com/presslabs/mysql-operator) - Bulletproof MySQL on Kubernetes using Percona Server
@@ -306,7 +318,7 @@
 - [scan](https://github.com/jamesog/scan) - Import and display Masscan data
 - [perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [terraform-provider-flux](https://github.com/fluxcd/terraform-provider-flux) - Terraform provider for Flux version 2
-- [porter](https://github.com/kubesphere/porter) - Bare Metal Load-balancer for Kubernetes Cluster
+- [porterlb](https://github.com/kubesphere/porterlb) - Bare Metal Load-balancer for Kubernetes Cluster
 - [iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy
 - [faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [rbac-lookup](https://github.com/FairwindsOps/rbac-lookup) - Easily find roles and cluster roles attached to any user, service account, or group name in your Kubernetes cluster
@@ -419,7 +431,7 @@
 - [klum](https://github.com/ibuildthecloud/klum) - Kubernetes Lazy User Manager
 - [argo-kube-notifier](https://github.com/argoproj-labs/argo-kube-notifier) - Argo Kube Notifier controller monitors Kubernetes resources
 - [rootlesskit](https://github.com/rootless-containers/rootlesskit) - Linux-native "fake root" for implementing rootless containers
-- [tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go
+- [tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [etcd-manager](https://github.com/kopeio/etcd-manager) - 
 - [kube-query](https://github.com/aquasecurity/kube-query) - [EXPERIMENTAL] Extend osquery to report on Kubernetes
 - [spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
@@ -506,7 +518,6 @@
 - [gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
 - [flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
-- [source-chat-relay](https://github.com/rumblefrog/source-chat-relay) - Communicate between Discord & In-Game, monitor server without being in-game, control the flow of messages and user base engagement!
 - [kubeplus](https://github.com/cloud-ark/kubeplus) - CRD for CRDs to design multi-tenant platform services from Helm charts
 - [kube-ovn](https://github.com/kubeovn/kube-ovn) - A Kubernetes Network Fabric for Enterprises that is Rich in Functions and Easy in Operations
 - [postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
@@ -560,7 +571,7 @@
 - [waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all the URLs that the Wayback Machine knows about for a domain
 - [brigade](https://github.com/brigadecore/brigade) - Event-driven scripting for Kubernetes
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel for APIs
+- [inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel
 - [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Github or other providers.
 - [baxx](https://github.com/jackdoe/baxx) - ssh register@ui.baxx.dev [shutdown due to covid-19]
 - [pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
@@ -658,6 +669,7 @@
 - [apollo](https://github.com/wearep3r/apollo) - apollo - Platform as a Service toolkit
 - [supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+- [scroll](https://github.com/publicdomaincompany/scroll) - Static publishing software with a newspaper feel built on Tree Notation. Scroll is public domain software.
 - [hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
 - [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 "Kubernetes Certified Security Specialist" Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you.
 - [matrix-chart](https://github.com/dacruz21/matrix-chart) - Helm chart for deploying a Matrix homeserver stack
@@ -726,6 +738,7 @@
 
 ## JavaScript 
 
+- [external-auth-server](https://github.com/travisghansen/external-auth-server) - easy auth for reverse proxies
 - [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
 - [glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
 - [node-steam-user](https://github.com/DoctorMcKay/node-steam-user) - Allows interaction with the Steam network via the Steam client protocol
@@ -737,14 +750,13 @@
 - [Twitch-watcher](https://github.com/D3vl0per/Twitch-watcher) - Automatic watching the twitch to get Valorant drop
 - [stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [element-desktop](https://github.com/vector-im/element-desktop) - A glossy Matrix collaboration client for desktop.
-- [scroll](https://github.com/publicdomaincompany/scroll) - Scroll is public domain static publishing software with a newspaper feel built on Tree Notation.
 - [googleimagesrestored](https://github.com/fanfare/googleimagesrestored) - This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019.
 - [hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [ssb-minimal-pub-server](https://github.com/ssb-junkyard/ssb-minimal-pub-server) - A minimal version of ssb-server aimed at pubs
 - [ssb-server](https://github.com/ssbc/ssb-server) - The gossip and replication server for Secure Scuttlebutt - a distributed social network
 - [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
 - [unity-builder](https://github.com/game-ci/unity-builder) - Build Unity projects for different platforms
-- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)
+- [social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)
 - [TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech.
 - [TwitchControlsMinecraft](https://github.com/braydo25/TwitchControlsMinecraft) - Twitch Controls Minecraft is a Minecraft mod that lets your chat vote to make things happen in your minecraft server in real time. The options presented to vote on are entirely randomized and voting rounds by default last 60 seconds.
@@ -753,7 +765,7 @@
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
 - [forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
-- [22120](https://github.com/c9fe/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
+- [22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [buster](https://github.com/dessant/buster) - Captcha solver extension for humans
 - [matrix-puppet-steam](https://github.com/ananace/matrix-puppet-steam) - Puppeting Steam bridge for Matrix
@@ -813,7 +825,7 @@
 - [unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
 - [proxy-s3-google-oauth](https://github.com/halkeye/proxy-s3-google-oauth) - 
 - [openscope](https://github.com/openscope/openscope) - openScope Air Traffic Control Simulator
-- [cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, encrypted and open-source.
+- [cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, end-to-end encrypted and open-source.
 - [house](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
 - [GeneticAlgorithm-TSP](https://github.com/parano/GeneticAlgorithm-TSP) - Applying Genetic Algorithm to Travelling Salesman Problem
 - [contain-facebook](https://github.com/mozilla/contain-facebook) - Facebook Container isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies.
@@ -958,6 +970,7 @@
 
 ## Others 
 
+- [PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 - [awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [genshin-impact.loader](https://github.com/leeza007/genshin-impact.loader) - 💉 Genshin Impact - Loader: Easily inject into miHoYo's Genshin Impact
 - [k8s-is-not-a-paas](https://github.com/EngineerBetter/k8s-is-not-a-paas) - 
@@ -1100,6 +1113,8 @@
 
 ## Python 
 
+- [ClusterSecret](https://github.com/zakkg3/ClusterSecret) - Kubernetes ClusterSecret operator.
+- [revolut-python](https://github.com/tducret/revolut-python) - Non-official client for the Revolut Bank
 - [ambassador](https://github.com/datawire/ambassador) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 - [fastapi-users](https://github.com/frankie567/fastapi-users) - Ready-to-use and customizable users management for FastAPI
 - [fastapi-sqla](https://github.com/dialoguemd/fastapi-sqla) - A highly opinionated SQLAlchemy extension for FastAPI.
@@ -1120,7 +1135,7 @@
 - [GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Investigate Google Accounts with emails.
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-- [fairgame](https://github.com/Hari-Nagarajan/fairgame) - Tool to help us buy a GPU in 2020
+- [fairgame](https://github.com/Hari-Nagarajan/fairgame) - Tool to help us buy hard to find items.
 - [legendary](https://github.com/derrod/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django
@@ -1401,6 +1416,7 @@
 
 ## Shell 
 
+- [klipper-lb](https://github.com/k3s-io/klipper-lb) - Embedded service load balancer in Klipper
 - [cloud-run-for-anthos-labs](https://github.com/subfuzion/cloud-run-for-anthos-labs) - Learn about the serverless experience for your enterprise applications with Cloud Run for Anthos
 - [astronomer](https://github.com/astronomer/astronomer) - Helm Charts for the Astronomer Platform, Apache Airflow as a Service on Kubernetes
 - [ssb-pub](https://github.com/ahdinosaur/ssb-pub) - easily host your own Secure ScuttleButt (SSB) pub in a docker container
