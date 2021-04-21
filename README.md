@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [AGS Script](#ags-script)
   - [ActionScript](#actionscript)
   - [Assembly](#assembly)
   - [Batchfile](#batchfile)
@@ -58,6 +59,10 @@
   - [Vim script](#vim-script)
   - [Visual Basic](#visual-basic)
   - [Vue](#vue)
+
+## AGS Script 
+
+- [walidshaari/Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 "Kubernetes Certified Security Specialist" Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you.
 
 ## ActionScript 
 
@@ -194,7 +199,6 @@
 - [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) - Free open-source game cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by Dear ImGui.
 - [Francesco149/tos-tools](https://github.com/Francesco149/tos-tools) - a big mess of scripts I used to archive TempleOS
 - [Gramps/GodotSteam](https://github.com/Gramps/GodotSteam) - Steam API for the Godot game engine
-- [mastercomfig/team-comtress-2](https://github.com/mastercomfig/team-comtress-2) - Team Fortress 2, but with a lot of fixes, QoL improvements and performance optimizations!
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [AirenSoft/OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine) - OvenMediaEngine (OME) is a streaming engine for real-time live broadcasting with sub-second latency.
 - [Inori/GPCS4](https://github.com/Inori/GPCS4) - A Playstation 4 emulator just begin
@@ -203,7 +207,7 @@
 - [sysown/proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [nullworks/cathook](https://github.com/nullworks/cathook) - Training Software for the game Team Fortress 2
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181/RTSP.
 - [Drixevel/sourcemod-resources](https://github.com/Drixevel/sourcemod-resources) - Assets and resources to help build and maintain Sourcemod projects/plugins.
 - [StanfordSNR/puffer](https://github.com/StanfordSNR/puffer) - Puffer is a free live TV streaming website and a research study at Stanford using machine learning to improve video streaming
 - [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
@@ -355,7 +359,7 @@
 - [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
 - [kubernetes/dns](https://github.com/kubernetes/dns) - Kubernetes DNS service
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-- [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装kubernetes，超全版本，支持国产化，生产环境中稳如老狗，99年证书，0依赖，去haproxy keepalived，v1.20支持containerd！
+- [fanux/sealos](https://github.com/fanux/sealos) - sealos即将贡献给阿里，更名为sealer，继续保持开源，详情见readme，一条命令离线安装kubernetes，超全版本，支持国产化，生产环境中稳如老狗，99年证书，0依赖，去haproxy keepalived，v1.20支持containerd！
 - [kubermatic/machine-controller](https://github.com/kubermatic/machine-controller) - 
 - [kubernetes-sigs/cluster-addons](https://github.com/kubernetes-sigs/cluster-addons) - Addon operators for Kubernetes clusters.
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
@@ -669,12 +673,11 @@
 
 ## HTML 
 
-- [wearep3r/apollo](https://github.com/wearep3r/apollo) - apollo - Platform as a Service toolkit
+- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [publicdomaincompany/scroll](https://github.com/publicdomaincompany/scroll) - Build your own public domain newspaper.
 - [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
-- [walidshaari/Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 "Kubernetes Certified Security Specialist" Certification exam.  Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you.
 - [dacruz21/matrix-chart](https://github.com/dacruz21/matrix-chart) - Helm chart for deploying a Matrix homeserver stack
 - [t0mer/broadlinkmanager-docker](https://github.com/t0mer/broadlinkmanager-docker) - Broadlink Manager is a python based project that allows you to contorol your broadlink devices. Discover, Leran and send command in a very easy way
 - [cloudflare/isbgpsafeyet.com](https://github.com/cloudflare/isbgpsafeyet.com) - Is BGP safe yet?
@@ -683,7 +686,6 @@
 - [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 - [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from github, bitbucket and gitlab, but with the correct content types
 - [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 - [caffeine-overload/bandinchina](https://github.com/caffeine-overload/bandinchina) - Naming and shaming companies who kowtow to Chinese censorship requests
 - [koutsie/vac.fail](https://github.com/koutsie/vac.fail) - Valve Anti Cheat revolution!
 - [hopjb/website](https://github.com/hopjb/website) - The hopjb.com website
@@ -760,7 +762,7 @@
 - [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [ssb-junkyard/ssb-minimal-pub-server](https://github.com/ssb-junkyard/ssb-minimal-pub-server) - A minimal version of ssb-server aimed at pubs
 - [ssbc/ssb-server](https://github.com/ssbc/ssb-server) - The gossip and replication server for Secure Scuttlebutt - a distributed social network
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
@@ -768,6 +770,7 @@
 - [braydo25/TwitchControlsMinecraft](https://github.com/braydo25/TwitchControlsMinecraft) - Twitch Controls Minecraft is a Minecraft mod that lets your chat vote to make things happen in your minecraft server in real time. The options presented to vote on are entirely randomized and voting rounds by default last 60 seconds.
 - [trailofbits/tubertc](https://github.com/trailofbits/tubertc) - Peer-to-Peer Video Chat for Corporate LANs
 - [gjovanov/roomler](https://github.com/gjovanov/roomler) - Roomler - Multi-party Video Conferencing & Team Collaboration Tool using WebRTC (Janus Gateway)
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
@@ -806,7 +809,6 @@
 - [alcideio/pipeline](https://github.com/alcideio/pipeline) - Alcide Kubernetes Advisor ... Cluster Hygiene & Security Scanner - Pipeline Integration
 - [jspenguin2017/uBlockProtector](https://github.com/jspenguin2017/uBlockProtector) - An anti-adblock defuser for Nano Adblocker and uBlock Origin
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [jojoduquartier/MMM-RAIN-RADAR](https://github.com/jojoduquartier/MMM-RAIN-RADAR) - Magic Mirror Module to display precipitation radar
 - [astefanutti/kubebox](https://github.com/astefanutti/kubebox) - ⎈❏ Terminal and Web console for Kubernetes
 - [Edivad99/NJS-ErgastF1API](https://github.com/Edivad99/NJS-ErgastF1API) - Conversion of the ergast.com API from PHP to nodeJS
@@ -904,6 +906,8 @@
 
 ## Jinja 
 
+- [wearep3r/apollo](https://github.com/wearep3r/apollo) - apollo - Platform as a Service toolkit
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 
 ## Jsonnet 
@@ -935,7 +939,6 @@
 
 ## Lua 
 
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [gawen/WireHub](https://github.com/gawen/WireHub) - 🌍 Decentralized, peer-to-peer and secure overlay networks
 - [stevesloka/kubecraft](https://github.com/stevesloka/kubecraft) - Kubernetes + Minecraft = Kubecraft
@@ -1042,7 +1045,6 @@
 - [chris1111/Wireless-USB-Adapter-Clover](https://github.com/chris1111/Wireless-USB-Adapter-Clover) - Visit BLOG : https://com-chris1111.github.io
 - [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
 - [kai5263499/osx-security-awesome](https://github.com/kai5263499/osx-security-awesome) - A collection of OSX and iOS security resources
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [GoogleCloudPlatform/compute-ansible-gluster](https://github.com/GoogleCloudPlatform/compute-ansible-gluster) - Ansible Playbook to Deploy Gluster in Google Cloud Platform
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [voltapp/volt](https://github.com/voltapp/volt) - 300 KB desktop client for Slack, Skype, Twitter, Telegram, and more
@@ -1127,6 +1129,7 @@
 
 ## Python 
 
+- [philippnormann/nvidia-sniper](https://github.com/philippnormann/nvidia-sniper) - 🎯 Autonomously buy Nvidia Founders Edition GPUs as soon as they become available.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and webapp - powerful open source team chat
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [Paperspace/gradient-cli](https://github.com/Paperspace/gradient-cli) - The command line interface for Gradient - https://gradient.paperspace.com
@@ -1234,7 +1237,7 @@
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [SmCTwelve/f1-bot](https://github.com/SmCTwelve/f1-bot) - 🏁 A Discord bot to view F1 stats.
 - [agsimeonov/StalkerTalker](https://github.com/agsimeonov/StalkerTalker) - 
-- [aliparlakci/bulk-downloader-for-reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Downloads content from reddit
+- [aliparlakci/bulk-downloader-for-reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Downloads and archives content from reddit
 - [shadowmoose/RedditDownloader](https://github.com/shadowmoose/RedditDownloader) - Scrapes Reddit to download media of your choice.
 - [wee-slack/wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
 - [pyeve/eve](https://github.com/pyeve/eve) - REST API framework designed for human beings
@@ -1407,6 +1410,7 @@
 
 ## Rust 
 
+- [xsznix/keygen](https://github.com/xsznix/keygen) - An(other) algorithm for generating optimal keyboard layouts.
 - [nullpo-head/WSL-Hello-sudo](https://github.com/nullpo-head/WSL-Hello-sudo) - Let's sudo by face recognition of Windows Hello on Windows Subsystem for Linux (WSL). It runs on both WSL 1 and WSL 2. This is a PAM module for Linux on WSL.
 - [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
 - [flouthoc/vas-quod](https://github.com/flouthoc/vas-quod) - :aerial_tramway: Minimal linux container runtime.
@@ -1475,6 +1479,7 @@
 - [brett-owen/tf2-docker-sm](https://github.com/brett-owen/tf2-docker-sm) - Docker container for creating a tf2 server with metamod:source and sourcemod.
 - [OpenSourceLAN/gameservers-docker](https://github.com/OpenSourceLAN/gameservers-docker) - A bunch of game servers I use, dockerised
 - [pieterlange/kube-openvpn](https://github.com/pieterlange/kube-openvpn) - :closed_lock_with_key: Kubernetes native OpenVPN
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [microservices-demo/microservices-demo](https://github.com/microservices-demo/microservices-demo) - Deployment scripts & config for Sock Shop
 - [andreas131989/spire-demo](https://github.com/andreas131989/spire-demo) - 
 - [mrchrd/k3s-quickstart](https://github.com/mrchrd/k3s-quickstart) - Get started with k3s, istio and openebs in 10 minutes (guaranteed)
@@ -1507,6 +1512,7 @@
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Discover the attack surface and prioritize risks with our continuous Attack Surface Management (ASM) platform - Sn1per Professional #pentest #redteam #bugbounty
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [laurent-malvert/docker-registry-proxy-cache](https://github.com/laurent-malvert/docker-registry-proxy-cache) - A simple script + docker-compose setup to auto-deploy a local proxy of the Docker Registry on Mac OS X hosts (and others).
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [finboxio/rancher-lb](https://github.com/finboxio/rancher-lb) - Active HAProxy Load Balancer as a Rancher Service
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [gliderlabs/docker-alpine](https://github.com/gliderlabs/docker-alpine) - Alpine Linux Docker image. Win at minimalism!
@@ -1539,6 +1545,7 @@
 
 ## TypeScript 
 
+- [calendso/calendso](https://github.com/calendso/calendso) - The open-source Calendly alternative.
 - [pulumi/pulumi-query](https://github.com/pulumi/pulumi-query) - Write SQL-like queries over JavaScript data structures
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) - 
