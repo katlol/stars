@@ -32,6 +32,7 @@
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Makefile](#makefile)
+  - [Mathematica](#mathematica)
   - [MoonScript](#moonscript)
   - [Mustache](#mustache)
   - [OCaml](#ocaml)
@@ -152,7 +153,6 @@
 - [xTCry/automuteus-plugin](https://github.com/xTCry/automuteus-plugin) - Impostor plugin for automuteus
 - [TauAkiou/amonguscapture-gtk](https://github.com/TauAkiou/amonguscapture-gtk) - Capture of the local Among Us executable state
 - [Impostor/Impostor](https://github.com/Impostor/Impostor) - Impostor - An open source reimplementation of the Among Us Server
-- [game-ci/unity-actions](https://github.com/game-ci/unity-actions) - Github actions for testing and building Unity projects
 - [FlipWebApps/GameFramework](https://github.com/FlipWebApps/GameFramework) - A free framework for Unity that will help drastically increase the development speed and feature set of your games.
 - [mikecann/Unity-Helpers](https://github.com/mikecann/Unity-Helpers) - A set of utils and extensions for making unity development easier
 - [raisinrand/BulletSharpUnity3d](https://github.com/raisinrand/BulletSharpUnity3d) - A fork of the BulletSharp project to make the Bullet Physics Engine usable from C# code in Unity3d
@@ -301,7 +301,7 @@
 
 ## Go 
 
-- [Azure/orkestra](https://github.com/Azure/orkestra) - Orkestra is a cloud-native release orchestration and lifecycle management (LCM) platform for fine-grained orchestration a group of inter-dependent "Applications" (and their intra-dependent subcharts).
+- [Azure/orkestra](https://github.com/Azure/orkestra) - Orkestra is a cloud-native release orchestration and lifecycle management (LCM) platform for fine-grained orchestration of a group of inter-dependent "Applications" (and their intra-dependent sub-charts).
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - The External Secrets Kubernetes operator reads information from a third party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [kubernetes-sigs/nfs-ganesha-server-and-external-provisioner](https://github.com/kubernetes-sigs/nfs-ganesha-server-and-external-provisioner) - NFS Ganesha Server and Volume Provisioner.
 - [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
@@ -371,7 +371,7 @@
 - [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
 - [kubernetes/dns](https://github.com/kubernetes/dns) - Kubernetes DNS service
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-- [fanux/sealos](https://github.com/fanux/sealos) - sealos即将贡献给阿里，更名为sealer，继续保持开源，详情见readme，一条命令离线安装kubernetes，超全版本，支持国产化，生产环境中稳如老狗，99年证书，0依赖，去haproxy keepalived，v1.20支持containerd！
+- [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，快：3min， 轻：700M ，稳：生产级可用，99年证书0依赖
 - [kubermatic/machine-controller](https://github.com/kubermatic/machine-controller) - 
 - [kubernetes-sigs/cluster-addons](https://github.com/kubernetes-sigs/cluster-addons) - Addon operators for Kubernetes clusters.
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
@@ -539,7 +539,7 @@
 - [solo-io/gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
-- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Create SaaS on Kubernetes from Helm charts
+- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Framework to create SaaS from Helm charts
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) - A Kubernetes Network Fabric for Enterprises that is Rich in Functions and Easy in Operations
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a scalable & friendly temporary file upload system ( wetransfer like ) in golang.
@@ -733,7 +733,7 @@
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 - [shzlw/poli](https://github.com/shzlw/poli) - An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights.
 - [ant-media/Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server) - Ant Media Server supports RTMP, RTSP, WebRTC and Adaptive Bitrate. It can also record videos in MP4, HLS and FLV
-- [Erudika/scoold](https://github.com/Erudika/scoold) - A Stack Overflow clone for teams (self-hosted)
+- [Erudika/scoold](https://github.com/Erudika/scoold) - A Stack Overflow clone for teams (self-hosted or hosted)
 - [futurice/meeting-room-tablet](https://github.com/futurice/meeting-room-tablet) - Google Apps compatible meeting room reservator
 - [java-operator-sdk/java-operator-sdk](https://github.com/java-operator-sdk/java-operator-sdk) - Java SDK for building Kubernetes Operators
 - [adam-sandor/microservice-doom](https://github.com/adam-sandor/microservice-doom) - 
@@ -778,7 +778,7 @@
 - [ssb-junkyard/ssb-minimal-pub-server](https://github.com/ssb-junkyard/ssb-minimal-pub-server) - A minimal version of ssb-server aimed at pubs
 - [ssbc/ssb-server](https://github.com/ssbc/ssb-server) - The gossip and replication server for Secure Scuttlebutt - a distributed social network
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media \ websites (Detections are updated regularly)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across social media \ websites (Detections are updated regularly)
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech.
 - [braydo25/TwitchControlsMinecraft](https://github.com/braydo25/TwitchControlsMinecraft) - Twitch Controls Minecraft is a Minecraft mod that lets your chat vote to make things happen in your minecraft server in real time. The options presented to vote on are entirely randomized and voting rounds by default last 60 seconds.
@@ -967,6 +967,10 @@
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [patrickod/docker-tor](https://github.com/patrickod/docker-tor) - A docker'ized internal-only tor relay.
 
+## Mathematica 
+
+- [game-ci/unity-actions](https://github.com/game-ci/unity-actions) - Github actions for testing and building Unity projects
+
 ## MoonScript 
 
 - [NotMyWing/GarrysModAmongUs](https://github.com/NotMyWing/GarrysModAmongUs) - Among Us, re-imagined in Garry's Mod
@@ -1078,7 +1082,7 @@
 ## PHP 
 
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - An open source eCommerce plugin for WordPress.
-- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is a fully scalable open source e-commerce solution.
+- [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is an Open Source e-commerce platform, committed to providing the best shopping cart experience for both merchants and customers.
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [FikaWorks/website](https://github.com/FikaWorks/website) - FikaWorks website
 - [jcnewell/ergast-f1-api](https://github.com/jcnewell/ergast-f1-api) - A PHP-based read-only API for the Ergast Formula One MySQL database
