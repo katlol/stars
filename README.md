@@ -283,7 +283,7 @@
 - [ironpeakservices/iron-debian](https://github.com/ironpeakservices/iron-debian) - Hardened debian linux baseimage for Docker.
 - [imtbl/hydrus-server-docker](https://github.com/imtbl/hydrus-server-docker) - hydrus server running on Debian
 - [utensils/docker-opengl](https://github.com/utensils/docker-opengl) - Multi-Arch Docker - Mesa 3D OpenGL Software Rendering (Gallium) - LLVMpipe, and OpenSWR Drivers
-- [RanadeepPolavarapu/docker-nginx-http3](https://github.com/RanadeepPolavarapu/docker-nginx-http3) - Alpine Linux image with Nginx 1.19.4 (mainline) with HTTP/3 (QUIC), TLSv1.3, 0-RTT, brotli, NJS support, and 10 MB size. All built on the bleeding edge for max performance. Built on the edge, for the edge.
+- [RanadeepPolavarapu/docker-nginx-http3](https://github.com/RanadeepPolavarapu/docker-nginx-http3) - Alpine Linux image with Nginx 1.19.5 (mainline) with HTTP/3 (QUIC), TLSv1.3, 0-RTT, brotli, NJS support, and 10 MB size. All built on the bleeding edge for max performance. Built on the edge, for the edge.
 - [shyd/docker-instagram-scraper](https://github.com/shyd/docker-instagram-scraper) - Docker image with instagram-scraper in it.
 - [tiredofit/docker-jitsi-meet](https://github.com/tiredofit/docker-jitsi-meet) - Docker Jitsi Meet WebRTC conferencing system w/Prosody XMPP and s6 overlay
 - [tiredofit/docker-tinc](https://github.com/tiredofit/docker-tinc) - Docker Tinc VPN Mesh server w/S6 Overlay Init, Zabbix Monitoring, and distributed configuration updating based on Alpine
@@ -301,6 +301,7 @@
 
 ## Go 
 
+- [efokschaner/terraform-provider-factorio](https://github.com/efokschaner/terraform-provider-factorio) - The Terraform Provider for Factorio
 - [Azure/orkestra](https://github.com/Azure/orkestra) - Orkestra is a cloud-native release orchestration and lifecycle management (LCM) platform for fine-grained orchestration of a group of inter-dependent "Applications" (and their intra-dependent sub-charts).
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - The External Secrets Kubernetes operator reads information from a third party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [kubernetes-sigs/nfs-ganesha-server-and-external-provisioner](https://github.com/kubernetes-sigs/nfs-ganesha-server-and-external-provisioner) - NFS Ganesha Server and Volume Provisioner.
@@ -539,7 +540,7 @@
 - [solo-io/gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
-- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Framework to create SaaS from Helm charts
+- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Turnkey solution to create Cloud Native SaaS on Kubernetes
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) - A Kubernetes Network Fabric for Enterprises that is Rich in Functions and Easy in Operations
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a scalable & friendly temporary file upload system ( wetransfer like ) in golang.
@@ -1148,6 +1149,7 @@
 
 ## Python 
 
+- [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [opencredo/kubefuse](https://github.com/opencredo/kubefuse) - Kubernetes as a FUSE Filesystem
 - [Rhilip/AutoRclone](https://github.com/Rhilip/AutoRclone) - A project that allows you copy large folders to Shared Drives.
 - [l3uddz/cloudplow](https://github.com/l3uddz/cloudplow) - Automatic rclone remote uploader, with support for multiple remote/folder pairings.  UnionFS Cleaner functionality: Deletion of UnionFS whiteout files  and their corresponding files on rclone remotes. Automatic remote syncer: Sync between different remotes via a Scaleway server instance, that is created and destroyed at every sync.
@@ -1170,7 +1172,7 @@
 - [kapicorp/kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
 - [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist REST and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [anthonynsimon/timeflake](https://github.com/anthonynsimon/timeflake) - Timeflake is a 128-bit, roughly-ordered, URL-safe UUID.
-- [pipxproject/pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments
+- [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [iann0036/aws-leastprivilege](https://github.com/iann0036/aws-leastprivilege) - Generates an IAM policy for the CloudFormation service role that adheres to least privilege.
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) - Python wrapper for the GitLab API
@@ -1240,7 +1242,7 @@
 - [Viblast/hls-proxy](https://github.com/Viblast/hls-proxy) - Easy downloading and mirroring of HLS streams
 - [Ibonok/elastic_scan](https://github.com/Ibonok/elastic_scan) - Dump elasticsearch instance
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
-- [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) - vulnx 🕷️ is an intelligent bot auto shell injector that detect vulnerabilities in multiple types of cms { `wordpress , joomla , drupal , prestashop .. `}
+- [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) - vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collection (including sub-domain name, ip address, country information, organizational information and time zone, etc.) and vulnerability scanning.
 - [kevinabrandon/AboveTustin](https://github.com/kevinabrandon/AboveTustin) - ADS-B Twitter Bot.  Uses dump1090-mutability to track airplanes and then tweets whenever an airplane flies overhead.
 - [bodik/flask-webauthn-example](https://github.com/bodik/flask-webauthn-example) - Example web application for WebAuthn authentication presentation
 - [mercadona/rele](https://github.com/mercadona/rele) - Easy to use Google Pub/Sub
@@ -1438,6 +1440,7 @@
 
 ## Rust 
 
+- [oreqizer/minecraft](https://github.com/oreqizer/minecraft) - Minecraft clone written in Rust :crab: and Vulkan. :volcano:
 - [1Password/electron-hardener](https://github.com/1Password/electron-hardener) - A fast and small Rust library to make Electron apps more secure.
 - [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [xsznix/keygen](https://github.com/xsznix/keygen) - An(other) algorithm for generating optimal keyboard layouts.
@@ -1629,6 +1632,7 @@
 
 ## Vim script 
 
+- [underyx/dotfiles](https://github.com/underyx/dotfiles) - a collection of dotfiles, as may be obvious
 - [altercation/solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
 
 ## Visual Basic 
@@ -1637,6 +1641,7 @@
 
 ## Vue 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative
 - [pixel-point/kube-forwarder](https://github.com/pixel-point/kube-forwarder) - Easy to use Kubernetes port forwarding manager
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
