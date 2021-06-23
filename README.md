@@ -149,6 +149,7 @@
 
 ## C# # 
 
+- [Dradonhunter11/tModLoader64bit](https://github.com/Dradonhunter11/tModLoader64bit) - 
 - [akiver/CSGO-Demos-Manager](https://github.com/akiver/CSGO-Demos-Manager) - 
 - [josdion/subbuzz](https://github.com/josdion/subbuzz) - Subtitles plugin for emby and jellyfin
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -215,7 +216,6 @@
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [nullworks/cathook](https://github.com/nullworks/cathook) - Training Software for the game Team Fortress 2
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.
-- [Drixevel/sourcemod-resources](https://github.com/Drixevel/sourcemod-resources) - Assets and resources to help build and maintain Sourcemod projects/plugins.
 - [StanfordSNR/puffer](https://github.com/StanfordSNR/puffer) - Puffer is a free live TV streaming website and a research study at Stanford using machine learning to improve video streaming
 - [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
@@ -305,10 +305,12 @@
 
 ## Go 
 
+- [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
+- [talos-systems/sidero](https://github.com/talos-systems/sidero) - Sidero is a bare metal provisioning system with support for Kubernetes Cluster API.
 - [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) - Kubernetes Cloud Controller Manager for Scaleway
 - [raxod502/upm](https://github.com/raxod502/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [efokschaner/terraform-provider-factorio](https://github.com/efokschaner/terraform-provider-factorio) - The Terraform Provider for Factorio
-- [Azure/orkestra](https://github.com/Azure/orkestra) - Orkestra is a cloud-native release orchestration and lifecycle management (LCM) platform for fine-grained orchestration of a group of inter-dependent "Applications" (and their intra-dependent sub-charts).
+- [Azure/orkestra](https://github.com/Azure/orkestra) - Orkestra is a cloud-native release orchestration and lifecycle management (LCM) platform for the fine-grained orchestration of inter-dependent helm charts and their dependencies
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - The External Secrets Kubernetes operator reads information from a third party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [kubernetes-sigs/nfs-ganesha-server-and-external-provisioner](https://github.com/kubernetes-sigs/nfs-ganesha-server-and-external-provisioner) - NFS Ganesha Server and Volume Provisioner.
 - [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
@@ -333,7 +335,7 @@
 - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [presslabs/mysql-operator](https://github.com/presslabs/mysql-operator) - Bulletproof MySQL on Kubernetes using Percona Server
 - [presslabs/wordpress-operator](https://github.com/presslabs/wordpress-operator) - WordPress operator for Kubernetes
-- [liamg/traitor](https://github.com/liamg/traitor) - Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins :arrow_up: :skull_and_crossbones:
+- [liamg/traitor](https://github.com/liamg/traitor) - Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket :arrow_up: :skull_and_crossbones:
 - [craftypath/sops-operator](https://github.com/craftypath/sops-operator) - A Kubernetes operator for Mozilla SOPS
 - [amaizfinance/secreter](https://github.com/amaizfinance/secreter) - Kubernetes operator and CLI tool for encrypting and managing Kubernetes secrets
 - [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd.
@@ -524,7 +526,7 @@
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [open-policy-agent/opa-envoy-plugin](https://github.com/open-policy-agent/opa-envoy-plugin) - A plugin to enforce OPA policies with Envoy
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.
-- [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images
+- [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [balena-os/balena-engine](https://github.com/balena-os/balena-engine) - Moby-based Container Engine for Embedded, IoT, and Edge uses
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for the Cluster Management API work, a subproject of sig-cluster-lifecycle
@@ -698,7 +700,6 @@
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
-- [publicdomaincompany/scroll](https://github.com/publicdomaincompany/scroll) - Build your own public domain newspaper.
 - [t0mer/broadlinkmanager-docker](https://github.com/t0mer/broadlinkmanager-docker) - Broadlink Manager is a python based project that allows you to contorol your broadlink devices. Discover, Leran and send command in a very easy way
 - [cloudflare/isbgpsafeyet.com](https://github.com/cloudflare/isbgpsafeyet.com) - Is BGP safe yet?
 - [littleblah/senior-engineer-checklist](https://github.com/littleblah/senior-engineer-checklist) - Senior Engineer CheckList
@@ -764,6 +765,7 @@
 
 ## JavaScript 
 
+- [mthenw/frontail](https://github.com/mthenw/frontail) - 📝 streaming logs to the browser
 - [Renovamen/playground-macos](https://github.com/Renovamen/playground-macos) - My portfolio website simulating macOS's GUI, developed with React and Tailwind CSS.
 - [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
 - [FooBallZ/pulsar](https://github.com/FooBallZ/pulsar) - Network footprint scanner platform. Discover domains and run your custom checks periodically.
@@ -781,6 +783,7 @@
 - [D3vl0per/Twitch-watcher](https://github.com/D3vl0per/Twitch-watcher) - Automatic watching the twitch to get Valorant drop
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [vector-im/element-desktop](https://github.com/vector-im/element-desktop) - A glossy Matrix collaboration client for desktop.
+- [publicdomaincompany/scroll](https://github.com/publicdomaincompany/scroll) - Build your own public domain newspaper.
 - [fanfare/googleimagesrestored](https://github.com/fanfare/googleimagesrestored) - This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019.
 - [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [ssb-junkyard/ssb-minimal-pub-server](https://github.com/ssb-junkyard/ssb-minimal-pub-server) - A minimal version of ssb-server aimed at pubs
@@ -1009,6 +1012,8 @@
 
 ## Others 
 
+- [peng-zhihui/XUAN-Bike](https://github.com/peng-zhihui/XUAN-Bike) - 
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [akmanu/kustomize-bump](https://github.com/akmanu/kustomize-bump) - Bump all the images defined in kustomization.yaml to the (hopefully) latest version
 - [raxod502/riju](https://github.com/raxod502/riju) - ⚡ Extremely fast online playground for every programming language.
 - [88lex/sa-guide](https://github.com/88lex/sa-guide) - Guide to creating multiple service accounts and using them with rclone sync or copy
@@ -1157,6 +1162,9 @@
 
 ## Python 
 
+- [vstinner/hachoir](https://github.com/vstinner/hachoir) - Hachoir is a Python library to view and edit a binary stream field by field
+- [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller.
+- [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [opencredo/kubefuse](https://github.com/opencredo/kubefuse) - Kubernetes as a FUSE Filesystem
 - [Rhilip/AutoRclone](https://github.com/Rhilip/AutoRclone) - A project that allows you copy large folders to Shared Drives.
@@ -1165,7 +1173,7 @@
 - [Kelwing/aiotwitch](https://github.com/Kelwing/aiotwitch) - An asyncio API Wrapper for the Twitch Helix API
 - [Teekeks/pyTwitchAPI](https://github.com/Teekeks/pyTwitchAPI) - A Python 3.7 implementation of the Twitch API and its Webhook
 - [philippnormann/nvidia-sniper](https://github.com/philippnormann/nvidia-sniper) - 🎯 Autonomously buy Nvidia Founders Edition GPUs as soon as they become available.
-- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and webapp - powerful open source team chat
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [Paperspace/gradient-cli](https://github.com/Paperspace/gradient-cli) - The command line interface for Gradient - https://gradient.paperspace.com
 - [Paperspace/paperspace-python](https://github.com/Paperspace/paperspace-python) - Paperspace API for python
@@ -1429,7 +1437,6 @@
 - [inspec/inspec](https://github.com/inspec/inspec) - InSpec: Auditing and Testing Framework
 - [orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
 - [billaul/period](https://github.com/billaul/period) - Smart-Period aims to simplify Time-range manipulation
-- [nectar-cs/mosaic](https://github.com/nectar-cs/mosaic) - A platform for doing, solving, and learning in Kubernetes, without changing or hiding Kubernetes.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [statico/spittoon](https://github.com/statico/spittoon) - 🖼 Sequential-art comic-strip generator written in Ruby which uses RMagick (2005)
 - [coreinfrastructure/best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - 🏆Core Infrastructure Initiative Best Practices Badge
@@ -1447,6 +1454,7 @@
 
 ## Rust 
 
+- [NotUnlikeTheWaves/dxhdr](https://github.com/NotUnlikeTheWaves/dxhdr) - dxhd rewrite in rust, using lessons learned about developing a hotkey daemon
 - [oreqizer/minecraft](https://github.com/oreqizer/minecraft) - Minecraft clone written in Rust :crab: and Vulkan. :volcano:
 - [1Password/electron-hardener](https://github.com/1Password/electron-hardener) - A fast and small Rust library to make Electron apps more secure.
 - [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
@@ -1576,6 +1584,7 @@
 ## SourcePawn 
 
 - [Deathknife/sourcemod-discord](https://github.com/Deathknife/sourcemod-discord) - Discord API for Sourcemod
+- [Drixevel/sourcemod-resources](https://github.com/Drixevel/sourcemod-resources) - Assets and resources to help build and maintain Sourcemod projects/plugins.
 - [PaxPlay/discord-chat-relay](https://github.com/PaxPlay/discord-chat-relay) - Sourcemod &lt;-&gt; Discord chat relay with cross server functionality.
 
 ## Standard ML 
