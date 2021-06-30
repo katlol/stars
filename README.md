@@ -85,7 +85,6 @@
 - [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [Arkq/openaptx](https://github.com/Arkq/openaptx) - Reverse-engineered apt-X audio codec
 - [csdvrx/derasterize](https://github.com/csdvrx/derasterize) - textmode supremacy
-- [PazerOP/tf2_bot_detector](https://github.com/PazerOP/tf2_bot_detector) - Automatically detects and votekicks cheaters/bots in TF2 casual.
 - [BitCrackers/AmongUsMenu](https://github.com/BitCrackers/AmongUsMenu) - AmongUsMenu is a Cheat Menu for the popular Game Among Us.
 - [jedisct1/libhydrogen](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments.
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
@@ -199,6 +198,7 @@
 - [McYoloSwagHam/win3wm](https://github.com/McYoloSwagHam/win3wm) - A Tiling Window Manager for windows 10, Inspired by  i3wm
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on Intel GPUs
 - [GTAmodding/re3](https://github.com/GTAmodding/re3) - GTA III, Vice City
+- [PazerOP/tf2_bot_detector](https://github.com/PazerOP/tf2_bot_detector) - Automatically detects and votekicks cheaters/bots in TF2 casual.
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
@@ -281,6 +281,7 @@
 
 ## Dockerfile 
 
+- [ihadeed/pavlov-vr-server](https://github.com/ihadeed/pavlov-vr-server) - Docker image to run Pavlov VR Dedicated Server
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [odarriba/docker-timemachine](https://github.com/odarriba/docker-timemachine) - A docker container that compiles the lastest Netatalk to run a Time Machine server.
 - [Rfvgyhn/tmodloader-docker](https://github.com/Rfvgyhn/tmodloader-docker) - Terraria server with tModLoader
@@ -305,6 +306,7 @@
 
 ## Go 
 
+- [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee) - Connect your devices into a single secure private WireGuard®-based mesh network.
 - [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
 - [talos-systems/sidero](https://github.com/talos-systems/sidero) - Sidero is a bare metal provisioning system with support for Kubernetes Cluster API.
 - [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) - Kubernetes Cloud Controller Manager for Scaleway
@@ -490,12 +492,11 @@
 - [solo-io/autopilot](https://github.com/solo-io/autopilot) - The Service Mesh SDK
 - [gerald1248/k8s-network-policy-viewer](https://github.com/gerald1248/k8s-network-policy-viewer) - Visualizes the pod network
 - [bells17/common-network-policy-operator](https://github.com/bells17/common-network-policy-operator) - Common Network Policy Operator is auto create common network policy to all namespaces.
-- [jetstack/preflight](https://github.com/jetstack/preflight) - Automatically perform Kubernetes cluster configuration checks using Open Policy Agent (OPA)
+- [jetstack/jetstack-secure](https://github.com/jetstack/jetstack-secure) - Open source components of Jetstack Secure
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [mehrdadrad/radvpn](https://github.com/mehrdadrad/radvpn) - Decentralized VPN
 - [larrabee/s3sync](https://github.com/larrabee/s3sync) - Really fast sync tool for S3
 - [crossplane/tbs](https://github.com/crossplane/tbs) - Information and content about "The Binding Status" Crossplane focused live stream and podcast
-- [aporeto-inc/kubepox](https://github.com/aporeto-inc/kubepox) - Kubernetes network Policy eXploration tool: A simple tools that allows you to query all the defined network policies, and associated affected Pods.
 - [cyakimov/helios](https://github.com/cyakimov/helios) - Identity-Aware Proxy
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [containerd/imgcrypt](https://github.com/containerd/imgcrypt) - OCI Image Encryption Package
@@ -535,7 +536,7 @@
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [rviscarra/webrtc-remote-screen](https://github.com/rviscarra/webrtc-remote-screen) - Stream a remote desktop screen directly to your browser
 - [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
-- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - Kubernetes container platform tailored for multi-cloud and multi-cluster management
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud and multi-cluster management
 - [justinas/alice](https://github.com/justinas/alice) - Painless middleware chaining for Go
 - [golangcollege/sessions](https://github.com/golangcollege/sessions) - Session management for Go 1.11+
 - [spotahome/service-level-operator](https://github.com/spotahome/service-level-operator) - Manage application's SLI and SLO's easily with the application lifecycle inside a Kubernetes cluster
@@ -974,7 +975,7 @@
 ## Makefile 
 
 - [masipcat/wireguard-go-docker](https://github.com/masipcat/wireguard-go-docker) - Wireguard docker image
-- [unifi-poller/unifi-poller](https://github.com/unifi-poller/unifi-poller) - Application: Collect ALL UniFi Controller, Site, Device & Client Data - Export to InfluxDB or Prometheus
+- [unpoller/unpoller](https://github.com/unpoller/unpoller) - Application: Collect ALL UniFi Controller, Site, Device & Client Data - Export to InfluxDB or Prometheus
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [patrickod/docker-tor](https://github.com/patrickod/docker-tor) - A docker'ized internal-only tor relay.
 
@@ -1012,7 +1013,7 @@
 
 ## Others 
 
-- [peng-zhihui/XUAN-Bike](https://github.com/peng-zhihui/XUAN-Bike) - 
+- [peng-zhihui/XUAN](https://github.com/peng-zhihui/XUAN) - 
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [akmanu/kustomize-bump](https://github.com/akmanu/kustomize-bump) - Bump all the images defined in kustomization.yaml to the (hopefully) latest version
 - [raxod502/riju](https://github.com/raxod502/riju) - ⚡ Extremely fast online playground for every programming language.
@@ -1085,7 +1086,7 @@
 - [stonicio/stonic](https://github.com/stonicio/stonic) - Stonic Application
 - [frekele/docker-nginx-https-redirect](https://github.com/frekele/docker-nginx-https-redirect) - Nginx Redirect All to HTTPS - (s6-overlay) Docker Image
 - [omemo/gajim-omemo](https://github.com/omemo/gajim-omemo) - Gajim plugin for OMEMO Multi-End Message and Object Encryption
-- [n1trux/awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
 - [Xyl2k/TSA-Travel-Sentry-master-keys](https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys) - 3D reproduction of TSA Master keys
 - [cn-nytimes/mirrors](https://github.com/cn-nytimes/mirrors) - 
 - [IonicaBizau/reset-your-facebook-account](https://github.com/IonicaBizau/reset-your-facebook-account) - :older_man: Some scripts to delete your Facebook posts, comments and likes.
@@ -1463,7 +1464,7 @@
 - [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
 - [flouthoc/vas-quod](https://github.com/flouthoc/vas-quod) - :aerial_tramway: Minimal linux container runtime.
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
-- [openebs/Mayastor](https://github.com/openebs/Mayastor) - A cloud native declarative data plane in containers for containers
+- [openebs/mayastor](https://github.com/openebs/mayastor) - A cloud native declarative data plane in containers for containers
 - [ah-/anne-key](https://github.com/ah-/anne-key) - Firmware for Anne Pro Keyboard written in Rust
 - [humberthardy/dockerized-chromium-with-webRTC-as-VNC](https://github.com/humberthardy/dockerized-chromium-with-webRTC-as-VNC) - Proof of concept: Launch a Chromium browser (Chrome) inside docker and stream ausio and video through WebRTC using Gstreamer.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
