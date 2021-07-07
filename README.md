@@ -306,6 +306,9 @@
 
 ## Go 
 
+- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+- [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) - Command Line Interface for Scaleway
+- [dakyskye/dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon soon to be rewritten in Rust
 - [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee) - Connect your devices into a single secure private WireGuard®-based mesh network.
 - [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
 - [talos-systems/sidero](https://github.com/talos-systems/sidero) - Sidero is a bare metal provisioning system with support for Kubernetes Cluster API.
@@ -348,7 +351,7 @@
 - [jamesog/scan](https://github.com/jamesog/scan) - Import and display Masscan data
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [fluxcd/terraform-provider-flux](https://github.com/fluxcd/terraform-provider-flux) - Terraform provider for Flux version 2
-- [kubesphere/porterlb](https://github.com/kubesphere/porterlb) - Load Balancer Implementation for Bare Metal Kubernetes Cluster
+- [kubesphere/openelb](https://github.com/kubesphere/openelb) - Load Balancer Implementation for Bare Metal Kubernetes Cluster
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [FairwindsOps/rbac-lookup](https://github.com/FairwindsOps/rbac-lookup) - Easily find roles and cluster roles attached to any user, service account, or group name in your Kubernetes cluster
@@ -395,7 +398,7 @@
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure) - Cluster API implementation for Microsoft Azure
 - [aylei/kubectl-debug](https://github.com/aylei/kubectl-debug) - Debug your pod by a new container with every troubleshooting tools pre-installed
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests 💰📉
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉
 - [paulczar/oauth2-proxy-operator](https://github.com/paulczar/oauth2-proxy-operator) - oauth2 proxy operator for kubernetes
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
 - [zalando-incubator/cluster-lifecycle-manager](https://github.com/zalando-incubator/cluster-lifecycle-manager) - Cluster Lifecycle Manager (CLM) to provision and update multiple Kubernetes clusters
@@ -431,7 +434,7 @@
 - [mrzahrada/go-dd-lambda](https://github.com/mrzahrada/go-dd-lambda) - Package for sending datadog metrics from lambda
 - [spotahome/redis-operator](https://github.com/spotahome/redis-operator) - Redis Operator creates/configures/manages high availability redis with sentinel automatic failover atop Kubernetes.
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
-- [layer5io/meshery](https://github.com/layer5io/meshery) - Meshery, the service mesh management plane
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the service mesh management plane
 - [lawrencegripper/tfoperatorbridge](https://github.com/lawrencegripper/tfoperatorbridge) - 
 - [fluxcd/kustomize-controller](https://github.com/fluxcd/kustomize-controller) - The GitOps Toolkit Kustomize reconciler
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
@@ -550,7 +553,7 @@
 - [solo-io/gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
-- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Helm charts as-a-Service
+- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Framework to deliver Helm charts as-a-Service
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) - A Kubernetes Network Fabric for Enterprises that is Rich in Functions and Easy in Operations
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a scalable & friendly temporary file upload system ( wetransfer like ) in golang.
@@ -604,7 +607,7 @@
 - [brigadecore/brigade](https://github.com/brigadecore/brigade) - Event-driven scripting for Kubernetes
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [inlets/inlets](https://github.com/inlets/inlets) - Cloud Native Tunnel
-- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Github or other providers.
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [jackdoe/baxx](https://github.com/jackdoe/baxx) - ssh register@ui.baxx.dev [shutdown due to covid-19]
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [ArdaXi/nginx-fido](https://github.com/ArdaXi/nginx-fido) - 
@@ -783,7 +786,6 @@
 - [cracker0dks/Accelerator](https://github.com/cracker0dks/Accelerator) - Online Conference and Collaboration Tool
 - [D3vl0per/Twitch-watcher](https://github.com/D3vl0per/Twitch-watcher) - Automatic watching the twitch to get Valorant drop
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
-- [vector-im/element-desktop](https://github.com/vector-im/element-desktop) - A glossy Matrix collaboration client for desktop.
 - [publicdomaincompany/scroll](https://github.com/publicdomaincompany/scroll) - Build your own public domain newspaper.
 - [fanfare/googleimagesrestored](https://github.com/fanfare/googleimagesrestored) - This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019.
 - [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
@@ -813,7 +815,7 @@
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [souramoo/party](https://github.com/souramoo/party) - Multiplayer spatial video chat platform
-- [iGeeky/wolf](https://github.com/iGeeky/wolf) - Wolf is an authentication and authorization system based on Role-Based Access Control (RBAC) for http applications or http restful apis.  Wolf是一个基于基于角色访问控制（RBAC）的认证和授权系统，适用于http应用或http restful api
+- [iGeeky/wolf](https://github.com/iGeeky/wolf) - Wolf is an authentication and authorization system based on Role-Based Access Control (RBAC) for http applications or http restful apis.  Wolf是一个基于角色访问控制（RBAC）的认证和授权系统，适用于http应用或http restful api
 - [iamsammak/secrethitler](https://github.com/iamsammak/secrethitler) - Play Secret Hitler with friends @ http://secrethitler.party
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [JohnMcLear/draw](https://github.com/JohnMcLear/draw) - A real time collaborative drawing tool using nodejs, socket.io & paper.js
@@ -945,6 +947,7 @@
 
 ## Jupyter Notebook 
 
+- [underyx/visawhen](https://github.com/underyx/visawhen) - Data on US visa wait times at the National Visa Center and at US consulates.
 - [88lex/safire](https://github.com/88lex/safire) - 
 - [TetsumichiUmada/text2emoji](https://github.com/TetsumichiUmada/text2emoji) - Predict an emoji that is associated with a text
 - [J535D165/CoronaWatchNL](https://github.com/J535D165/CoronaWatchNL) - Numbers concerning COVID-19 disease cases in The Netherlands by RIVM, LCPS, NICE, ECML, and Rijksoverheid.
@@ -1163,6 +1166,10 @@
 
 ## Python 
 
+- [mnederkorn/ccq](https://github.com/mnederkorn/ccq) - Computation of minimal conjunctive queries via core graph computation
+- [mnederkorn/inv_chk](https://github.com/mnederkorn/inv_chk) - Invariant Checking of type graph language based on core graph computation
+- [mnederkorn/grest](https://github.com/mnederkorn/grest) - graph reduction and solving tool
+- [mnederkorn/CoReS](https://github.com/mnederkorn/CoReS) - Computation of Retracts encoded as SMT/SAT
 - [vstinner/hachoir](https://github.com/vstinner/hachoir) - Hachoir is a Python library to view and edit a binary stream field by field
 - [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
@@ -1605,9 +1612,10 @@
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) - 
 - [Xetera/hifumi](https://github.com/Xetera/hifumi) - 📖 An image cataloging service powered by Discord communities
-- [Eugeny/terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
+- [vector-im/element-desktop](https://github.com/vector-im/element-desktop) - A glossy Matrix collaboration client for desktop.
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
 - [game-ci/unity-builder](https://github.com/game-ci/unity-builder) - Build Unity projects for different platforms
 - [Half-Shot/matrix-appservice-discord](https://github.com/Half-Shot/matrix-appservice-discord) - A bridge between Matrix and Discord.
