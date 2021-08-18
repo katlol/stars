@@ -18,7 +18,6 @@
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Emacs Lisp](#emacs-lisp)
-  - [GLSL](#glsl)
   - [Go](#go)
   - [HCL](#hcl)
   - [HTML](#html)
@@ -302,10 +301,6 @@
 - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 - [nietaki/dotty-dotfiles](https://github.com/nietaki/dotty-dotfiles) - The simplest way I could find to sync my config files between linux / OSX machines
 
-## GLSL 
-
-- [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
-
 ## Go 
 
 - [ibuildthecloud/gitbacked-controller](https://github.com/ibuildthecloud/gitbacked-controller) - Write controller-runtime based k8s controllers that read/write to git, not k8s
@@ -335,7 +330,7 @@
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) - An experimental Kubernetes Operator that automates the deployment of Pulumi Stacks
 - [NVIDIA/kubevirt-gpu-device-plugin](https://github.com/NVIDIA/kubevirt-gpu-device-plugin) - NVIDIA k8s device plugin for Kubevirt
 - [nmapx/revolut-stocks-list](https://github.com/nmapx/revolut-stocks-list) - Extract Revolut stocks list from the list screenshot(s).
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately browse, organize, and share your photo collection. Free & Open Source. 🌈
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
 - [emojisum/emojisum](https://github.com/emojisum/emojisum) - :pray: :paperclip: Emoji that checksum! :tada: :poop:
 - [kubernetes/metrics](https://github.com/kubernetes/metrics) - Kubernetes metrics-related API types and clients
@@ -346,7 +341,7 @@
 - [benjojo/sping](https://github.com/benjojo/sping) - Split ping, see what direction the loss or latency is on
 - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [bitpoke/mysql-operator](https://github.com/bitpoke/mysql-operator) - Bulletproof MySQL on Kubernetes using Percona Server
-- [bitpoke/wordpress-operator](https://github.com/bitpoke/wordpress-operator) - WordPress operator for Kubernetes
+- [bitpoke/wordpress-operator](https://github.com/bitpoke/wordpress-operator) - Bitpoke Kubernetes operator for WordPress
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, polkit, docker socket
 - [craftypath/sops-operator](https://github.com/craftypath/sops-operator) - A Kubernetes operator for Mozilla SOPS
 - [amaizfinance/secreter](https://github.com/amaizfinance/secreter) - Kubernetes operator and CLI tool for encrypting and managing Kubernetes secrets
@@ -960,6 +955,7 @@
 - [cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [advboxes/AdvBox](https://github.com/advboxes/AdvBox) - Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.  Advbox give a command line tool to generate adversarial examples with Zero-Coding.
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
+- [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [Kshitij68/Google-Location-History](https://github.com/Kshitij68/Google-Location-History) - Data Analysis on my Google Location History data
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
 - [DmitryUlyanov/deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) - Image restoration with neural networks but without learning.
@@ -1045,6 +1041,7 @@
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and cheap DIY IP-KVM based on Raspberry Pi
 - [dreamingechoes/awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
 - [oskarsve/ms-teams-rce](https://github.com/oskarsve/ms-teams-rce) - 
+- [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
 - [jon1scr/IDA-Pro-7.3.190614](https://github.com/jon1scr/IDA-Pro-7.3.190614) - IDA Pro 7.3.190614
 - [nglgzz/awesome-clean-tech](https://github.com/nglgzz/awesome-clean-tech) - A community curated list of awesome clean tech companies
 - [maco2035/DiyHeliumHotspots](https://github.com/maco2035/DiyHeliumHotspots) - Here is a guide to build your own hotspots!
@@ -1171,6 +1168,7 @@
 
 ## Python 
 
+- [SamSchott/maestral](https://github.com/SamSchott/maestral) - Open-source Dropbox client for macOS and Linux
 - [bothmena/yolo-v3-vehicle-detection](https://github.com/bothmena/yolo-v3-vehicle-detection) - YOLO v3 trained on custom dataset to detect different types of vehicles: cars, e-scooters, Motorcycle, ...
 - [spheenik/vfio-isolate](https://github.com/spheenik/vfio-isolate) - CPU and memory isolation for VFIO
 - [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
@@ -1521,7 +1519,6 @@
 - [k8s-at-home/awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - Awesome projects involving running Kubernetes at home
 - [hpi-schul-cloud/jitsi-deployment](https://github.com/hpi-schul-cloud/jitsi-deployment) - Auto-scalable Jitsi Meet for Kubernetes
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
-- [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
 - [jas502n/IDA_Pro_7.2](https://github.com/jas502n/IDA_Pro_7.2) - IDA_Pro_7.2
 - [gluster/gluster-kubernetes](https://github.com/gluster/gluster-kubernetes) - GlusterFS Native Storage Service for Kubernetes
 - [kvaps/kubectl-build](https://github.com/kvaps/kubectl-build) - Build dockerfiles directly in your Kubernetes cluster.
@@ -1664,7 +1661,7 @@
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching.
 - [debiki/talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
 - [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
-- [forseti-security/policy-library](https://github.com/forseti-security/policy-library) - A library of constraint templates and sample constraints for Forseti Config Validator.
+- [GoogleCloudPlatform/policy-library](https://github.com/GoogleCloudPlatform/policy-library) - A library of constraint templates and sample constraints for Forseti Config Validator.
 - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
