@@ -191,6 +191,7 @@
 
 ## C++ 
 
+- [zorggish/FractalCryptGUI](https://github.com/zorggish/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set.
 - [chrxh/alien](https://github.com/chrxh/alien) - alien is a GPU-accelerated artificial life simulation program.
@@ -306,6 +307,8 @@
 
 ## Go 
 
+- [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
+- [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [justinbarrick/gitops-controller](https://github.com/justinbarrick/gitops-controller) - git-controller is a proof-of-concept GitOps controller that can sync from Git to Kubernetes or from Kubernetes to Git
 - [ibuildthecloud/gitbacked-controller](https://github.com/ibuildthecloud/gitbacked-controller) - Write controller-runtime based k8s controllers that read/write to git, not k8s
 - [rabbitmq/cluster-operator](https://github.com/rabbitmq/cluster-operator) - RabbitMQ Cluster Kubernetes Operator
@@ -382,7 +385,7 @@
 - [FairwindsOps/rbac-manager](https://github.com/FairwindsOps/rbac-manager) - A Kubernetes operator that simplifies the management of Role Bindings and Service Accounts.
 - [kbudde/rabbitmq_exporter](https://github.com/kbudde/rabbitmq_exporter) - Prometheus exporter for RabbitMQ
 - [openservicemesh/osm](https://github.com/openservicemesh/osm) - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN, DNS over TLS, with a few proxy servers built-in.
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [hashicorp/terraform-k8s](https://github.com/hashicorp/terraform-k8s) - Terraform Cloud Operator for Kubernetes
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
@@ -774,6 +777,7 @@
 
 ## JavaScript 
 
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [mthenw/frontail](https://github.com/mthenw/frontail) - 📝 streaming logs to the browser
 - [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
 - [FooBallZ/pulsar](https://github.com/FooBallZ/pulsar) - Network footprint scanner platform. Discover domains and run your custom checks periodically.
@@ -1477,6 +1481,7 @@
 
 ## Rust 
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [dank/tarkov](https://github.com/dank/tarkov) - A Rust library for the Escape from Tarkov API
 - [NotUnlikeTheWaves/dxhdr](https://github.com/NotUnlikeTheWaves/dxhdr) - dxhd rewrite in rust, using lessons learned about developing a hotkey daemon
 - [oreqizer/minecraft](https://github.com/oreqizer/minecraft) - Minecraft clone written in Rust :crab: and Vulkan. :volcano:
@@ -1609,7 +1614,7 @@
 ## SourcePawn 
 
 - [Deathknife/sourcemod-discord](https://github.com/Deathknife/sourcemod-discord) - Discord API for Sourcemod
-- [Drixevel/SM-Resources](https://github.com/Drixevel/SM-Resources) - Assets and resources to help build and maintain Sourcemod projects/plugins.
+- [Drixevel-zz/SM-Resources](https://github.com/Drixevel-zz/SM-Resources) - Assets and resources to help build and maintain Sourcemod projects/plugins.
 - [PaxPlay/discord-chat-relay](https://github.com/PaxPlay/discord-chat-relay) - Sourcemod &lt;-&gt; Discord chat relay with cross server functionality.
 
 ## Standard ML 
