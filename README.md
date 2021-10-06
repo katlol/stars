@@ -282,7 +282,7 @@
 
 ## Dart 
 
-- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dockerfile 
 
@@ -713,6 +713,7 @@
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+- [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
 - [t0mer/broadlinkmanager-docker](https://github.com/t0mer/broadlinkmanager-docker) - Broadlink Manager is a python based project that allows you to contorol your broadlink devices. Discover, Leran and send command in a very easy way
 - [cloudflare/isbgpsafeyet.com](https://github.com/cloudflare/isbgpsafeyet.com) - Is BGP safe yet?
@@ -1043,7 +1044,6 @@
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [sim1/stars](https://github.com/sim1/stars) - sim1/stars - An awesome list of my starred repositories
 - [underyx/stars](https://github.com/underyx/stars) - 
-- [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [mhausenblas/rbac.dev](https://github.com/mhausenblas/rbac.dev) - A collection of good practices and tools for Kubernetes RBAC
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [cncf/toc](https://github.com/cncf/toc) - ⚖️Technical Oversight Committee (TOC)
@@ -1245,7 +1245,7 @@
 - [ics-py/ics-py](https://github.com/ics-py/ics-py) - Pythonic and easy iCalendar library (rfc5545)
 - [blackjack4494/yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader and library for various sites.
 - [knausj85/knausj_talon](https://github.com/knausj85/knausj_talon) - Config for talon for Mac, Windows and Linux. Very much in progress.
-- [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix reference homeserver
+- [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python 3/Twisted.
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
 - [SFTtech/aiomatrix](https://github.com/SFTtech/aiomatrix) - Matrix client API for Python asyncio
 - [thefinn93/signal-weechat](https://github.com/thefinn93/signal-weechat) - Use signal in weechat
@@ -1281,7 +1281,7 @@
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [alexdredmon/cuteuid](https://github.com/alexdredmon/cuteuid) - Generate cute UIDs
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease :rocket:
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [Viblast/hls-proxy](https://github.com/Viblast/hls-proxy) - Easy downloading and mirroring of HLS streams
 - [Ibonok/elastic_scan](https://github.com/Ibonok/elastic_scan) - Dump elasticsearch instance
@@ -1591,7 +1591,7 @@
 - [lalyos/k8s-workshop](https://github.com/lalyos/k8s-workshop) - 
 - [dominictarr/JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash
 - [key-networks/ztncui-containerized](https://github.com/key-networks/ztncui-containerized) - A Docker image that contains ZeroTier One and ztncui to set up a standalone ZeroTier network controller with a web user interface in a container.
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Discover the attack surface and prioritize risks with our continuous Attack Surface Management (ASM) platform - Sn1per Professional #pentest #redteam #bugbounty
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform | Sn1perSecurity LLC
 - [walidshaari/Kubernetes-Certified-Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator) - Online resources that will help you prepare for taking the CNCF CKA  2020 "Kubernetes Certified Administrator" Certification exam. with time, This is not likely the comprehensive up to date list  - please make a pull request if there something that should be added here.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [laurent-malvert/docker-registry-proxy-cache](https://github.com/laurent-malvert/docker-registry-proxy-cache) - A simple script + docker-compose setup to auto-deploy a local proxy of the Docker Registry on Mac OS X hosts (and others).
@@ -1692,7 +1692,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🎃  🎃  The Open Source Airtable alternative
 - [pixel-point/kube-forwarder](https://github.com/pixel-point/kube-forwarder) - Easy to use Kubernetes port forwarding manager
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
