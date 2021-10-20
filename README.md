@@ -173,7 +173,7 @@
 - [Soluto/kamus](https://github.com/Soluto/kamus) - An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
-- [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex or Emby? Use Ombi!
+- [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 - [Jessecar96/SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app
 - [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
@@ -307,6 +307,7 @@
 
 ## Go 
 
+- [m3o/m3o](https://github.com/m3o/m3o) - The open source public cloud platform. An AWS alternative for the next generation of developers.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
@@ -337,7 +338,7 @@
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 - [NVIDIA/kubevirt-gpu-device-plugin](https://github.com/NVIDIA/kubevirt-gpu-device-plugin) - NVIDIA k8s device plugin for Kubevirt
 - [nmapx/revolut-stocks-list](https://github.com/nmapx/revolut-stocks-list) - Extract Revolut stocks list from the list screenshot(s).
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open Source Photos App powered by Go and Google TensorFlow 🌈
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
 - [emojisum/emojisum](https://github.com/emojisum/emojisum) - :pray: :paperclip: Emoji that checksum! :tada: :poop:
 - [kubernetes/metrics](https://github.com/kubernetes/metrics) - Kubernetes metrics-related API types and clients
@@ -368,7 +369,7 @@
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
 - [keel-hq/keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Kubernetes Marketplace
-- [inlets/inlets-operator](https://github.com/inlets/inlets-operator) - Add public LoadBalancers to your local Kubernetes clusters
+- [inlets/inlets-operator](https://github.com/inlets/inlets-operator) - Get public LoadBalancers on your local Kubernetes clusters
 - [werf/werf](https://github.com/werf/werf) - GitOps delivery tool
 - [caos/orbos](https://github.com/caos/orbos) - ORBOS - GitOps everything
 - [caos/boom](https://github.com/caos/boom) - Operator to deploy a defined toolsets into K8s, think paas but less lock-in
@@ -606,7 +607,7 @@
 - [GoogleCloudPlatform/berglas](https://github.com/GoogleCloudPlatform/berglas) - A tool for managing secrets on Google Cloud
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [ibuildthecloud/k3os](https://github.com/ibuildthecloud/k3os) - nothing to see here
-- [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - :gorilla: Kong for Kubernetes: the official Ingress Controller for Kubernetes.
+- [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - :gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
 - [plexdrive/plexdrive](https://github.com/plexdrive/plexdrive) - Plexdrive mounts your Google Drive FUSE filesystem (optimized for media playback)
 - [GoogleCloudPlatform/metacontroller](https://github.com/GoogleCloudPlatform/metacontroller) - Lightweight Kubernetes controllers as a service
@@ -708,7 +709,6 @@
 
 ## HTML 
 
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
@@ -1283,7 +1283,7 @@
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [alexdredmon/cuteuid](https://github.com/alexdredmon/cuteuid) - Generate cute UIDs
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [Viblast/hls-proxy](https://github.com/Viblast/hls-proxy) - Easy downloading and mirroring of HLS streams
 - [Ibonok/elastic_scan](https://github.com/Ibonok/elastic_scan) - Dump elasticsearch instance
@@ -1486,7 +1486,6 @@
 
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [dank/tarkov](https://github.com/dank/tarkov) - A Rust library for the Escape from Tarkov API
-- [NotUnlikeTheWaves/dxhdr](https://github.com/NotUnlikeTheWaves/dxhdr) - dxhd rewrite in rust, using lessons learned about developing a hotkey daemon
 - [oreqizer/minecraft](https://github.com/oreqizer/minecraft) - Minecraft clone written in Rust :crab: and Vulkan. :volcano:
 - [1Password/electron-hardener](https://github.com/1Password/electron-hardener) - A fast and small Rust library to make Electron apps more secure.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
@@ -1635,6 +1634,7 @@
 - [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 - [Renovamen/playground-macos](https://github.com/Renovamen/playground-macos) - My portfolio website simulating macOS's GUI, developed with React and Tailwind CSS.
+- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone.
 - [pulumi/pulumi-query](https://github.com/pulumi/pulumi-query) - Write SQL-like queries over JavaScript data structures
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
@@ -1694,7 +1694,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire:  :fire: The Open Source Airtable Alternative - Powered by Vue.js :heart:
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js :heart:
 - [pixel-point/kube-forwarder](https://github.com/pixel-point/kube-forwarder) - Easy to use Kubernetes port forwarding manager
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
