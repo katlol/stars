@@ -220,7 +220,7 @@
 - [sysown/proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [nullworks/cathook](https://github.com/nullworks/cathook) - Training Software for the game Team Fortress 2
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT and GB28181.
 - [StanfordSNR/puffer](https://github.com/StanfordSNR/puffer) - Puffer is a free live TV streaming website and a research study at Stanford using machine learning to improve video streaming
 - [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
@@ -307,7 +307,7 @@
 
 ## Go 
 
-- [m3o/m3o](https://github.com/m3o/m3o) - The open source public cloud platform. We are building an AWS alternative for the next generation of developers.
+- [m3o/m3o](https://github.com/m3o/m3o) - The open source public cloud platform. We are building an AWS alternative for the Next generation of developers.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
@@ -338,7 +338,7 @@
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 - [NVIDIA/kubevirt-gpu-device-plugin](https://github.com/NVIDIA/kubevirt-gpu-device-plugin) - NVIDIA k8s device plugin for Kubevirt
 - [nmapx/revolut-stocks-list](https://github.com/nmapx/revolut-stocks-list) - Extract Revolut stocks list from the list screenshot(s).
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open Source Photos App powered by Go and Google TensorFlow 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
 - [emojisum/emojisum](https://github.com/emojisum/emojisum) - :pray: :paperclip: Emoji that checksum! :tada: :poop:
 - [kubernetes/metrics](https://github.com/kubernetes/metrics) - Kubernetes metrics-related API types and clients
@@ -370,7 +370,7 @@
 - [keel-hq/keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Kubernetes Marketplace
 - [inlets/inlets-operator](https://github.com/inlets/inlets-operator) - Get public LoadBalancers on your local Kubernetes clusters
-- [werf/werf](https://github.com/werf/werf) - GitOps delivery tool
+- [werf/werf](https://github.com/werf/werf) - The CLI tool glueing Git, Docker, Helm and Kubernetes with any CI system to implement CI/CD and Giterminism
 - [caos/orbos](https://github.com/caos/orbos) - ORBOS - GitOps everything
 - [caos/boom](https://github.com/caos/boom) - Operator to deploy a defined toolsets into K8s, think paas but less lock-in
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
@@ -562,7 +562,7 @@
 - [shadowsocks/v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) - A SIP003 plugin based on v2ray
 - [solo-io/gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator to deliver Helm charts as-a-service
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) - A Kubernetes Network Fabric for Enterprises that is Rich in Functions and Easy in Operations
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
@@ -590,6 +590,7 @@
 - [kragniz/tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - Gatekeeper - Policy Controller for Kubernetes
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [mattermost/mattermost-cloud](https://github.com/mattermost/mattermost-cloud) - Tools and services for running Mattermost Cloud :cloud:
 - [kubernetes-sigs/secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) - Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.
@@ -712,7 +713,6 @@
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
-- [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
 - [t0mer/broadlinkmanager-docker](https://github.com/t0mer/broadlinkmanager-docker) - Broadlink Manager is a python based project that allows you to contorol your broadlink devices. Discover, Leran and send command in a very easy way
 - [cloudflare/isbgpsafeyet.com](https://github.com/cloudflare/isbgpsafeyet.com) - Is BGP safe yet?
 - [littleblah/senior-engineer-checklist](https://github.com/littleblah/senior-engineer-checklist) - Senior Engineer CheckList
@@ -729,7 +729,6 @@
 - [simplyzee/kube-rclone](https://github.com/simplyzee/kube-rclone) - kube-rclone is a rclone mount solution for Kubernetes
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
-- [ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer) - Compare the various managed cloud services offered by the major public cloud providers in the market.
 - [joostvdg/joostvdg.github.io](https://github.com/joostvdg/joostvdg.github.io) - Joost van der Griendt's GitHub Pages
 - [ContainerSolutions/ws-k8s-foundation-sample-app](https://github.com/ContainerSolutions/ws-k8s-foundation-sample-app) - 
 - [ContainerSolutions/ServerlessDaysAmsterdam](https://github.com/ContainerSolutions/ServerlessDaysAmsterdam) - ServerlessDays London Website
@@ -1277,7 +1276,7 @@
 - [KichangKim/DeepDanbooru](https://github.com/KichangKim/DeepDanbooru) - AI based multi-label girl image classification system, implemented by using TensorFlow.
 - [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
 - [sfanous/IPTVProxy](https://github.com/sfanous/IPTVProxy) - A playlist generator and PVR for IPTV providers written in Python 3
-- [UnitedIncome/slackbot-destroyer](https://github.com/UnitedIncome/slackbot-destroyer) - :mega: :x: Slack integration that can destroy all incoming messages from Slackbot.
+- [capitalone/slackbot-destroyer](https://github.com/capitalone/slackbot-destroyer) - :mega: :x: Slack integration that can destroy all incoming messages from Slackbot.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [alexdredmon/cuteuid](https://github.com/alexdredmon/cuteuid) - Generate cute UIDs
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
@@ -1321,7 +1320,6 @@
 - [ansible/awx](https://github.com/ansible/awx) - AWX Project
 - [mewwts/addict](https://github.com/mewwts/addict) - The Python Dict that's better than heroin.
 - [zalando-incubator/kopf](https://github.com/zalando-incubator/kopf) - A Python framework to write Kubernetes operators in just few lines of code.
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [pritunl/pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server
 - [weskerfoot/DeleteFB](https://github.com/weskerfoot/DeleteFB) - Automate Scrubbing your Facebook Presence
 - [marcbelmont/cnn-watermark-removal](https://github.com/marcbelmont/cnn-watermark-removal) - Fully convolutional deep neural network to remove transparent overlays from images
@@ -1372,7 +1370,7 @@
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [getsentry/sentry-plugins](https://github.com/getsentry/sentry-plugins) - Official plugins for Sentry server
 - [python-security/pyt](https://github.com/python-security/pyt) - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications
-- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python 3 and 2 (PEP 484)
+- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [joker25000/Devploit](https://github.com/joker25000/Devploit) - 🌐 Devploit  v 3.6 Information Gathering Tool
 - [coala/documentation](https://github.com/coala/documentation) - The official documentation for coala
 - [pallets-eco/flask-caching](https://github.com/pallets-eco/flask-caching) - A caching extension for Flask
@@ -1507,6 +1505,8 @@
 ## SCSS 
 
 - [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+).
+- [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
+- [ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer) - Compare the various managed cloud services offered by the major public cloud providers in the market.
 
 ## Scala 
 
