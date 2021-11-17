@@ -307,7 +307,8 @@
 
 ## Go 
 
-- [m3o/m3o](https://github.com/m3o/m3o) - The open source public cloud platform. We are building an AWS alternative for the Next generation of developers.
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
+- [m3o/m3o](https://github.com/m3o/m3o) - The open source AWS alternative. We are building a new cloud platform for the Next generation of developers.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
@@ -319,7 +320,7 @@
 - [shyiko/kubesec](https://github.com/shyiko/kubesec) - Secure Secret management for Kubernetes (with gpg, Google Cloud KMS and AWS KMS backends)
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) - Command Line Interface for Scaleway
-- [dakyskye/dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon soon to be rewritten in Rust
+- [dakyskye/dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon
 - [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee) - Connect your devices into a single secure private WireGuard®-based mesh network.
 - [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
 - [talos-systems/sidero](https://github.com/talos-systems/sidero) - Sidero is a bare metal provisioning system with support for Kubernetes Cluster API.
@@ -680,7 +681,7 @@
 - [ovh/tat](https://github.com/ovh/tat) - Tat Engine - Text And Tags
 - [oreqizer/slack-leet](https://github.com/oreqizer/slack-leet) - :rice_cracker: A script made for writing 13:37 every day at 13:37 to a given slack channel.
 - [dtan4/k8sec](https://github.com/dtan4/k8sec) - CLI tool to manage Kubernetes Secrets easily
-- [drone/drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
+- [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [eliukblau/pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
 - [irccloud/irccat](https://github.com/irccloud/irccat) - cat to IRC
@@ -713,6 +714,7 @@
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
+- [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
 - [t0mer/broadlinkmanager-docker](https://github.com/t0mer/broadlinkmanager-docker) - Broadlink Manager is a python based project that allows you to contorol your broadlink devices. Discover, Leran and send command in a very easy way
 - [cloudflare/isbgpsafeyet.com](https://github.com/cloudflare/isbgpsafeyet.com) - Is BGP safe yet?
 - [littleblah/senior-engineer-checklist](https://github.com/littleblah/senior-engineer-checklist) - Senior Engineer CheckList
@@ -1188,7 +1190,6 @@
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [mnederkorn/ccq](https://github.com/mnederkorn/ccq) - Computation of minimal conjunctive queries via core graph computation
 - [mnederkorn/inv_chk](https://github.com/mnederkorn/inv_chk) - Invariant Checking of type graph language based on core graph computation
-- [mnederkorn/grest](https://github.com/mnederkorn/grest) - graph reduction and solving tool
 - [mnederkorn/CoReS](https://github.com/mnederkorn/CoReS) - Computation of Retracts encoded as SMT/SAT
 - [vstinner/hachoir](https://github.com/vstinner/hachoir) - Hachoir is a Python library to view and edit a binary stream field by field
 - [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller.
@@ -1489,7 +1490,7 @@
 - [xsznix/keygen](https://github.com/xsznix/keygen) - An(other) algorithm for generating optimal keyboard layouts.
 - [nullpo-head/WSL-Hello-sudo](https://github.com/nullpo-head/WSL-Hello-sudo) - Let's sudo by face recognition of Windows Hello on Windows Subsystem for Linux (WSL). It runs on both WSL 1 and WSL 2. This is a PAM module for Linux on WSL.
 - [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
-- [flouthoc/vas-quod](https://github.com/flouthoc/vas-quod) - :aerial_tramway: Minimal linux container runtime.
+- [flouthoc/vas-quod](https://github.com/flouthoc/vas-quod) - :aerial_tramway: Minimal linux container runtime
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [openebs/mayastor](https://github.com/openebs/mayastor) - A cloud native declarative data plane in containers for containers
 - [ah-/anne-key](https://github.com/ah-/anne-key) - Firmware for Anne Pro Keyboard written in Rust
@@ -1505,7 +1506,6 @@
 ## SCSS 
 
 - [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+).
-- [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
 - [ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer) - Compare the various managed cloud services offered by the major public cloud providers in the market.
 
 ## Scala 
@@ -1694,7 +1694,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js :heart:
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
 - [pixel-point/kube-forwarder](https://github.com/pixel-point/kube-forwarder) - Easy to use Kubernetes port forwarding manager
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
