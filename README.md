@@ -190,6 +190,7 @@
 
 ## C++ 
 
+- [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
 - [zorggish/FractalCryptGUI](https://github.com/zorggish/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set.
@@ -308,7 +309,7 @@
 ## Go 
 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
-- [m3o/m3o](https://github.com/m3o/m3o) - The open source AWS alternative
+- [m3o/m3o](https://github.com/m3o/m3o) - Next Generation Cloud Platform
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
@@ -397,7 +398,7 @@
 - [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
 - [kubernetes/dns](https://github.com/kubernetes/dns) - Kubernetes DNS service
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-- [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，生产环境稳如老狗
+- [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗
 - [kubermatic/machine-controller](https://github.com/kubermatic/machine-controller) - 
 - [kubernetes-sigs/cluster-addons](https://github.com/kubernetes-sigs/cluster-addons) - Addon operators for Kubernetes clusters.
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
@@ -586,7 +587,7 @@
 - [ameier38/onepassword](https://github.com/ameier38/onepassword) - Thin wrapper around the 1Password CLI for use in Golang
 - [GoogleCloudPlatform/terraform-validator](https://github.com/GoogleCloudPlatform/terraform-validator) - Terraform Validator can run pre-deployment checks on Terraform plans for policy compliance.
 - [google/cloudprober](https://github.com/google/cloudprober) - [Moved to cloudprober/cloudprober] An active monitoring software to detect failures before your customers do.
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [ipfs-inactive/kubernetes-ipfs](https://github.com/ipfs-inactive/kubernetes-ipfs) - [ARCHIVED] kubernetes-ipfs
 - [kragniz/tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - Gatekeeper - Policy Controller for Kubernetes
@@ -780,10 +781,11 @@
 
 ## JavaScript 
 
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
+- [victornpb/deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages) - Undiscord - Delete all messages in a Discord channel or DM (Easy and fast) Bulk delete
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [mthenw/frontail](https://github.com/mthenw/frontail) - 📝 streaming logs to the browser. Sponsored by https://cloudash.dev
 - [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
-- [FooBallZ/pulsar](https://github.com/FooBallZ/pulsar) - Network footprint scanner platform. Discover domains and run your custom checks periodically.
+- [0x0FB0/pulsar](https://github.com/0x0FB0/pulsar) - Network footprint scanner platform. Discover domains and run your custom checks periodically.
 - [elpatronaco/pccomponentes-buy-bot](https://github.com/elpatronaco/pccomponentes-buy-bot) - A script made to buy any out-of-stock product off spanish stores
 - [juvian/discord-image-dupe](https://github.com/juvian/discord-image-dupe) - Bot that detects image duplicates posted in a server
 - [travisghansen/external-auth-server](https://github.com/travisghansen/external-auth-server) - easy auth for reverse proxies
@@ -806,7 +808,6 @@
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections are updated regularly by automated systems)
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
-- [braydo25/TwitchControlsMinecraft](https://github.com/braydo25/TwitchControlsMinecraft) - Twitch Controls Minecraft is a Minecraft mod that lets your chat vote to make things happen in your minecraft server in real time. The options presented to vote on are entirely randomized and voting rounds by default last 60 seconds.
 - [trailofbits/tubertc](https://github.com/trailofbits/tubertc) - Peer-to-Peer Video Chat for Corporate LANs
 - [gjovanov/roomler](https://github.com/gjovanov/roomler) - Roomler - Multi-party Video Conferencing & Team Collaboration Tool using WebRTC (Janus Gateway)
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
@@ -852,7 +853,7 @@
 - [astefanutti/kubebox](https://github.com/astefanutti/kubebox) - ⎈❏ Terminal and Web console for Kubernetes
 - [Edivad99/NJS-ErgastF1API](https://github.com/Edivad99/NJS-ErgastF1API) - Conversion of the ergast.com API from PHP to nodeJS
 - [qwebirc/qwebirc](https://github.com/qwebirc/qwebirc) - fast, easy to use, free and open source web IRC client
-- [datarhei/restreamer](https://github.com/datarhei/restreamer) - Datarhei/Restreamer allows you to do h.264 real-time video streaming on your website without a streaming provider
+- [datarhei/restreamer](https://github.com/datarhei/restreamer) - datarhei/Restreamer allows you to do h.264 real-time video streaming on your website without a streaming provider
 - [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [outsideris/slack-invite-automation](https://github.com/outsideris/slack-invite-automation) - A tiny web application to invite a user into your slack team.
 - [jure/pubsweet-blogger](https://github.com/jure/pubsweet-blogger) - Hackity hack
@@ -1130,7 +1131,6 @@
 - [jung35/VacStatus](https://github.com/jung35/VacStatus) - Keep track of people's VAC ban status in a list (shutdown)
 - [easy-wi/developer](https://github.com/easy-wi/developer) - Gameserver, Voiceserver, Rootserver Webinterface
 - [oderwat/hubic2swiftgate](https://github.com/oderwat/hubic2swiftgate) - A HubiC.com to OpenStack Swift Gateway
-- [r-sal/PushBullet](https://github.com/r-sal/PushBullet) - PushBullet PHP API
 - [joetannenbaum/phpushbullet](https://github.com/joetannenbaum/phpushbullet) - A PHP library for the Pushbullet API
 - [ikoniaris/kippo-graph](https://github.com/ikoniaris/kippo-graph) - Visualize statistics from a Kippo SSH honeypot
 - [php/web-php](https://github.com/php/web-php) - The www.php.net site
@@ -1355,7 +1355,7 @@
 - [mantl/mantl](https://github.com/mantl/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
-- [mia-0/0x0](https://github.com/mia-0/0x0) - No-bullshit file hosting and URL shortening service
+- [mia-0/0x0](https://github.com/mia-0/0x0) - No-bullshit file hosting and URL shortening service. Mirror of https://git.0x0.st/mia/0x0
 - [python-trio/trustme](https://github.com/python-trio/trustme) - #1 quality TLS certs while you wait, for the discerning tester
 - [kaniini/antissh](https://github.com/kaniini/antissh) - An IRC bot which monitors for compromised embedded devices being used as proxies.
 - [gbin/err-backend-discord](https://github.com/gbin/err-backend-discord) - Backend for Discord for Errbot
