@@ -215,7 +215,7 @@
 - [Francesco149/tos-tools](https://github.com/Francesco149/tos-tools) - a big mess of scripts I used to archive TempleOS
 - [Gramps/GodotSteam](https://github.com/Gramps/GodotSteam) - Steam API for the Godot game engine
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
-- [AirenSoft/OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine) - OvenMediaEngine (OME) is a Streaming Server for Sub-Second Latency. It supports WebRTC, RTMP, SRT, MPEG-2 TS, RTSP as input, WebRTC, LL-DASH, MPEG-DASH, HLS as output.
+- [AirenSoft/OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine) - OvenMediaEngine (OME) is an Open-Source Streaming Server that enables Large-Scale and Sub-Second Latency Live Streaming.
 - [Inori/GPCS4](https://github.com/Inori/GPCS4) - A Playstation 4 emulator just begin
 - [scylladb/scylla](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
 - [brpc/media-server](https://github.com/brpc/media-server) - A brpc-based server to host and proxy live streams
@@ -344,7 +344,7 @@
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 - [NVIDIA/kubevirt-gpu-device-plugin](https://github.com/NVIDIA/kubevirt-gpu-device-plugin) - NVIDIA k8s device plugin for Kubevirt
 - [nmapx/revolut-stocks-list](https://github.com/nmapx/revolut-stocks-list) - Extract Revolut stocks list from the list screenshot(s).
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 🎄
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
 - [emojisum/emojisum](https://github.com/emojisum/emojisum) - :pray: :paperclip: Emoji that checksum! :tada: :poop:
 - [kubernetes/metrics](https://github.com/kubernetes/metrics) - Kubernetes metrics-related API types and clients
@@ -413,7 +413,7 @@
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
 - [kubernetes-sigs/cluster-api-provider-azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure) - Cluster API implementation for Microsoft Azure
-- [aylei/kubectl-debug](https://github.com/aylei/kubectl-debug) - Debug your pod by a new container with every troubleshooting tools pre-installed
+- [aylei/kubectl-debug](https://github.com/aylei/kubectl-debug) - This repository is no longer maintained, please checkout https://github.com/JamesTGrant/kubectl-debug.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
 - [paulczar/oauth2-proxy-operator](https://github.com/paulczar/oauth2-proxy-operator) - oauth2 proxy operator for kubernetes
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
@@ -665,6 +665,7 @@
 - [dinedal/textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [stitchfix/flotilla-os](https://github.com/stitchfix/flotilla-os) - Open source Flotilla
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [gobuild/gobuild](https://github.com/gobuild/gobuild) - Compile your github Go repo into binary. (still in beta)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -720,7 +721,6 @@
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
-- [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
 - [t0mer/broadlinkmanager-docker](https://github.com/t0mer/broadlinkmanager-docker) - Broadlink Manager is a python based project that allows you to contorol your broadlink devices. Discover, Leran and send command in a very easy way
 - [cloudflare/isbgpsafeyet.com](https://github.com/cloudflare/isbgpsafeyet.com) - Is BGP safe yet?
 - [littleblah/senior-engineer-checklist](https://github.com/littleblah/senior-engineer-checklist) - Senior Engineer CheckList
@@ -1115,7 +1115,7 @@
 ## PHP 
 
 - [roots/bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with Composer, easier configuration, and an improved folder structure
-- [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - An open source eCommerce plugin for WordPress.
+- [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source eCommerce platform built on WordPress. Build any commerce solution you can imagine.
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is an Open Source e-commerce platform, committed to providing the best shopping cart experience for both merchants and customers.
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [jcnewell/ergast-f1-api](https://github.com/jcnewell/ergast-f1-api) - A PHP-based read-only API for the Ergast Formula One MySQL database
@@ -1514,6 +1514,7 @@
 ## SCSS 
 
 - [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+).
+- [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
 - [ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer) - Compare the various managed cloud services offered by the major public cloud providers in the market.
 
 ## Scala 
@@ -1622,7 +1623,7 @@
 ## SourcePawn 
 
 - [Deathknife/sourcemod-discord](https://github.com/Deathknife/sourcemod-discord) - Discord API for Sourcemod
-- [Drixevel-zz/SM-Resources](https://github.com/Drixevel-zz/SM-Resources) - Assets and resources to help build and maintain Sourcemod projects/plugins.
+- [Drixevel-Archive/SM-Resources](https://github.com/Drixevel-Archive/SM-Resources) - Assets and resources to help build and maintain Sourcemod projects/plugins.
 - [PaxPlay/discord-chat-relay](https://github.com/PaxPlay/discord-chat-relay) - Sourcemod &lt;-&gt; Discord chat relay with cross server functionality.
 
 ## Standard ML 
@@ -1632,7 +1633,6 @@
 ## Starlark 
 
 - [amaizfinance/redis-operator](https://github.com/amaizfinance/redis-operator) - Redis Operator for Kubernetes
-- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
 ## TypeScript 
 
