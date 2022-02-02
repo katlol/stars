@@ -163,6 +163,7 @@
 - [raisinrand/BulletSharpUnity3d](https://github.com/raisinrand/BulletSharpUnity3d) - A fork of the BulletSharp project to make the Bullet Physics Engine usable from C# code in Unity3d
 - [NewEraCracker/LOIC](https://github.com/NewEraCracker/LOIC) - Low Orbit Ion Cannon - An open source network stress tool, written in C#. Based on Praetox's LOIC project. USE ON YOUR OWN RISK. WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES.
 - [BeardedManStudios/ForgeNetworkingRemastered](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - In short, Forge Networking is a free and open source multiplayer game (multi-user) networking system that has a very good integration with the Unity game engine. You wanna make a multiplayer game or real time multi-user application? This is the library for you.
+- [Azure/EasyAuthForK8s](https://github.com/Azure/EasyAuthForK8s) - Easily add Azure AD Authentication to any app running in Kubernetes (Get your EAK on)
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of idling Steam cards from multiple accounts simultaneously.
 - [Ezzpify/FindLowDigAccounts](https://github.com/Ezzpify/FindLowDigAccounts) - Scan Steam account digit range
@@ -195,7 +196,7 @@
 - [zorggish/FractalCryptGUI](https://github.com/zorggish/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set.
-- [chrxh/alien](https://github.com/chrxh/alien) - alien is a CUDA-powered artificial life simulation program.
+- [chrxh/alien](https://github.com/chrxh/alien) - ALIEN is a CUDA-powered artificial life simulation program.
 - [beastdjw/bluetoothGameControllerESP32](https://github.com/beastdjw/bluetoothGameControllerESP32) - Make a bluetooth (ble  &gt;bt4.2) connection with your own buttons, rotary encoder, potentiometer
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -534,7 +535,7 @@
 - [Mirantis/k8s-externalipcontroller](https://github.com/Mirantis/k8s-externalipcontroller) - External IP controller is k8s application which is deployed on top of k8s cluster and which configures External IPs on k8s worker node(s) to provide IP connectivity.
 - [zalando/skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [tonglil/labeler](https://github.com/tonglil/labeler) - Manage labels on GitHub as code
+- [tonglil/labeler](https://github.com/tonglil/labeler) - Superseded by https://github.com/apps/settings - Manage labels on GitHub as code
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [upmc-enterprises/elasticsearch-operator](https://github.com/upmc-enterprises/elasticsearch-operator) - manages elasticsearch clusters
 - [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - A Kubernetes controller for Elastic Load Balancers
@@ -750,6 +751,7 @@
 
 ## Java 
 
+- [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
 - [prometheus/cloudwatch_exporter](https://github.com/prometheus/cloudwatch_exporter) - Metrics exporter for Amazon AWS CloudWatch
 - [GoogleCloudPlatform/pubsub](https://github.com/GoogleCloudPlatform/pubsub) - This repository contains open-source projects managed by the owners of Google Cloud Pub/Sub.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
@@ -1204,7 +1206,6 @@
 - [Teekeks/pyTwitchAPI](https://github.com/Teekeks/pyTwitchAPI) - A Python 3.7 implementation of the Twitch API and its Webhook
 - [philippnormann/nvidia-sniper](https://github.com/philippnormann/nvidia-sniper) - 🎯 Autonomously buy Nvidia Founders Edition GPUs as soon as they become available.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
-- [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [Paperspace/gradient-cli](https://github.com/Paperspace/gradient-cli) - The command line interface for Gradient - https://gradient.paperspace.com
 - [Paperspace/paperspace-python](https://github.com/Paperspace/paperspace-python) - Paperspace API for python
@@ -1518,7 +1519,7 @@
 
 ## Scala 
 
-- [ornicar/lila](https://github.com/ornicar/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
+- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [zalando-incubator/fabric-gateway](https://github.com/zalando-incubator/fabric-gateway) - An API Gateway built on the Skipper Ingress Controller https://github.com/zalando/skipper
 
 ## Shell 
@@ -1542,7 +1543,6 @@
 - [gluster/gluster-kubernetes](https://github.com/gluster/gluster-kubernetes) - GlusterFS Native Storage Service for Kubernetes
 - [kvaps/kubectl-build](https://github.com/kvaps/kubectl-build) - Build dockerfiles directly in your Kubernetes cluster.
 - [piraeusdatastore/piraeus](https://github.com/piraeusdatastore/piraeus) - High Available Datastore for Kubernetes
-- [Azure/EasyAuthForK8s](https://github.com/Azure/EasyAuthForK8s) - Easily add Azure AD Authentication to any app running in Kubernetes (Get your EAK on)
 - [kayrus/kuttle](https://github.com/kayrus/kuttle) - Kubernetes wrapper for sshuttle
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [muayyad-alsadi/containerized-xorg-spice](https://github.com/muayyad-alsadi/containerized-xorg-spice) - containerized remote xorg using spice, can be accessed using included html5 client
@@ -1554,7 +1554,7 @@
 - [OpenSlides/OpenSlides](https://github.com/OpenSlides/OpenSlides) - The digital motion and assembly system
 - [NieDzejkob/cursedfs](https://github.com/NieDzejkob/cursedfs) - Make a disk image formatted with both ext2 and FAT at once
 - [weaveworks/wks-quickstart-firekube](https://github.com/weaveworks/wks-quickstart-firekube) - Example configuration to create Kubernetes clusters powered by ignite and gitops
-- [DavidZisky/60sk3s](https://github.com/DavidZisky/60sk3s) - Deploy VMs and 4 node k3s cluster on them in under 60 seconds
+- [DavidZisky/kloud3s](https://github.com/DavidZisky/kloud3s) - Deploys VMs + k3s cluster + cloud controllers
 - [lukaszlach/commando](https://github.com/lukaszlach/commando) - :whale: Container registry which provides you all the commands you need in a lightweight Alpine image. DevOps and SysOps best friend. https://command-not-found.com
 - [TheBiggerGuy/docker-ads-b](https://github.com/TheBiggerGuy/docker-ads-b) - Docker container for ADS-B
 - [jprochazka/adsb-exchange](https://github.com/jprochazka/adsb-exchange) - ADS-B Exchange Linux Setup Scripts
@@ -1643,7 +1643,7 @@
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 - [Renovamen/playground-macos](https://github.com/Renovamen/playground-macos) - My portfolio website simulating macOS's GUI, developed with React and Tailwind CSS.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [pulumi/pulumi-query](https://github.com/pulumi/pulumi-query) - Write SQL-like queries over JavaScript data structures
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) - 
