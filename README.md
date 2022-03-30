@@ -102,6 +102,7 @@
 - [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 - [hashbrowncipher/happycache](https://github.com/hashbrowncipher/happycache) - dumps and reloads page cache; happy caches for happy databases
 - [Yubico/yubico-pam](https://github.com/Yubico/yubico-pam) - Yubico Pluggable Authentication Module (PAM)
+- [MadRabbit/halmak](https://github.com/MadRabbit/halmak) - The final version of the AI designed keyboard layout
 - [danielkrupinski/VAC-Bypass-Loader](https://github.com/danielkrupinski/VAC-Bypass-Loader) - Loader for VAC Bypass written in C.
 - [danielkrupinski/VAC-Bypass](https://github.com/danielkrupinski/VAC-Bypass) - Valve Anti-Cheat bypass written in C.
 - [danielkrupinski/vac-hooks](https://github.com/danielkrupinski/vac-hooks) - Hook WinAPI functions used by Valve Anti-Cheat. Log calls and intercept arguments & return values. DLL written in C.
@@ -326,9 +327,9 @@
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) - Command Line Interface for Scaleway
 - [dakyskye/dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon
-- [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee) - Connect your devices into a single secure private WireGuard®-based mesh network.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network.
 - [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes
-- [siderolabs/sidero](https://github.com/siderolabs/sidero) - Sidero is a bare metal provisioning system with support for Kubernetes Cluster API.
+- [siderolabs/sidero](https://github.com/siderolabs/sidero) - Sidero Metal is a bare metal provisioning system with support for Kubernetes Cluster API.
 - [scaleway/scaleway-cloud-controller-manager](https://github.com/scaleway/scaleway-cloud-controller-manager) - Kubernetes Cloud Controller Manager for Scaleway
 - [raxod502/upm](https://github.com/raxod502/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [efokschaner/terraform-provider-factorio](https://github.com/efokschaner/terraform-provider-factorio) - The Terraform Provider for Factorio
@@ -338,7 +339,7 @@
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - kcp is a prototype of a multi-tenant Kubernetes control plane for workloads on many clusters
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [goodrain/rainbond](https://github.com/goodrain/rainbond) - Cloud-native and easy-to-use application management platform | 云原生且易用的应用管理平台
+- [goodrain/rainbond](https://github.com/goodrain/rainbond) - Cloud native multi cloud application management platform | 云原生多云应用管理平台
 - [spacecloud-io/space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 - [jafarlihi/rconn](https://github.com/jafarlihi/rconn) - rconn is a multiplatform program for creating generic reverse connections. Lets you consume services that are behind firewall or NAT without opening ports or port-forwarding.
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
@@ -356,7 +357,7 @@
 - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [bitpoke/mysql-operator](https://github.com/bitpoke/mysql-operator) - Asynchronous MySQL Replication on Kubernetes using Percona Server and Openark's Orchestrator.
 - [bitpoke/wordpress-operator](https://github.com/bitpoke/wordpress-operator) - Bitpoke Kubernetes operator for WordPress
-- [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
+- [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [craftypath/sops-operator](https://github.com/craftypath/sops-operator) - A Kubernetes operator for Mozilla SOPS
 - [amaizfinance/secreter](https://github.com/amaizfinance/secreter) - Kubernetes operator and CLI tool for encrypting and managing Kubernetes secrets
 - [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd.
@@ -521,7 +522,7 @@
 - [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes
 - [schweikert/fping-exporter](https://github.com/schweikert/fping-exporter) - prometheus exporter to measure network latency
 - [jtblin/kube2iam](https://github.com/jtblin/kube2iam) - kube2iam  provides different AWS IAM roles for pods running on Kubernetes
-- [bitnami-labs/kubewatch](https://github.com/bitnami-labs/kubewatch) - Watch k8s events and trigger Handlers
+- [vmware-archive/kubewatch](https://github.com/vmware-archive/kubewatch) - Watch k8s events and trigger Handlers
 - [genuinetools/pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo.
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -549,7 +550,7 @@
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [balena-os/balena-engine](https://github.com/balena-os/balena-engine) - Moby-based Container Engine for Embedded, IoT, and Edge uses
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
-- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos is a modern OS for Kubernetes.
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [rviscarra/webrtc-remote-screen](https://github.com/rviscarra/webrtc-remote-screen) - Stream a remote desktop screen directly to your browser
@@ -568,7 +569,7 @@
 - [solo-io/gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
-- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator for SaaS
+- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator for Multi-instance SaaS
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) - A Kubernetes Network Fabric for Enterprises that is Rich in Functions and Easy in Operations
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
@@ -834,7 +835,7 @@
 - [iamsammak/secrethitler](https://github.com/iamsammak/secrethitler) - Play Secret Hitler with friends @ http://secrethitler.party
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [JohnMcLear/draw](https://github.com/JohnMcLear/draw) - A real time collaborative drawing tool using nodejs, socket.io & paper.js
-- [bitnami-labs/cabin](https://github.com/bitnami-labs/cabin) - The Mobile Dashboard for Kubernetes
+- [vmware-archive/cabin](https://github.com/vmware-archive/cabin) - The Mobile Dashboard for Kubernetes
 - [forbesmyester/esqlate](https://github.com/forbesmyester/esqlate) - Build minimum viable admin panels quickly with just SQL
 - [imtbl/hyve](https://github.com/imtbl/hyve) - Expose and consume your hydrus media via HTTP API
 - [lelinhtinh/de4js](https://github.com/lelinhtinh/de4js) - JavaScript Deobfuscator and Unpacker
@@ -1074,7 +1075,6 @@
 - [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
 - [icicimov/kubernetes-bitwarden_rs](https://github.com/icicimov/kubernetes-bitwarden_rs) - Kubernetes manifests for the bitwarden_rs project https://github.com/dani-garcia/bitwarden_rs.git
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
-- [MadRabbit/halmak](https://github.com/MadRabbit/halmak) - The final version of the AI designed keyboard layout
 - [cncf/wg-networking](https://github.com/cncf/wg-networking) - 📡📶CNCF Networking WG
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
@@ -1216,7 +1216,7 @@
 - [cloudlinux/kuberdock-platform](https://github.com/cloudlinux/kuberdock-platform) - KuberDock - is a platform that allows users to run applications using Docker container images and create SaaS / PaaS based on these applications.
 - [faisalthaheem/open-lpr](https://github.com/faisalthaheem/open-lpr) - Open Source and Free License Plate Recognition Software
 - [kapicorp/kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
-- [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense data plane REST API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [anthonynsimon/timeflake](https://github.com/anthonynsimon/timeflake) - Timeflake is a 128-bit, roughly-ordered, URL-safe UUID.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
@@ -1701,7 +1701,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres database into a collaborative spreadsheet with REST APIs.
 - [pixel-point/kube-forwarder](https://github.com/pixel-point/kube-forwarder) - Easy to use Kubernetes port forwarding manager
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
