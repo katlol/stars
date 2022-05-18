@@ -80,6 +80,7 @@
 
 ## C 
 
+- [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 - [CalcProgrammer1/openrazer-win32](https://github.com/CalcProgrammer1/openrazer-win32) - Wrapper to build OpenRazer Linux driver as a Windows DLL
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [Amitie10g/loic-cli](https://github.com/Amitie10g/loic-cli) - A command line version of the LOIC for UNIX
@@ -318,7 +319,7 @@
 - [janekbaraniewski/kubeserial](https://github.com/janekbaraniewski/kubeserial) - k8s operator for managing serial devices.
 - [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated.
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
@@ -727,6 +728,7 @@
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
+- [dreamingechoes/awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
 - [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
 - [t0mer/broadlinkmanager-docker](https://github.com/t0mer/broadlinkmanager-docker) - Broadlink Manager is a python based project that allows you to contorol your broadlink devices. Discover, Leran and send command in a very easy way
 - [cloudflare/isbgpsafeyet.com](https://github.com/cloudflare/isbgpsafeyet.com) - Is BGP safe yet?
@@ -803,7 +805,6 @@
 - [DoctorMcKay/node-steam-user](https://github.com/DoctorMcKay/node-steam-user) - Allows interaction with the Steam network via the Steam client protocol
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
-- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [rampatra/photography](https://github.com/rampatra/photography) - A free online portfolio website to showcase your photos.
 - [cloudogu/reveal.js-docker](https://github.com/cloudogu/reveal.js-docker) - Docker images providing easier to use, opinionated reveal.js web apps - web-based slides/presentations
 - [cracker0dks/Accelerator](https://github.com/cracker0dks/Accelerator) - Online Conference and Collaboration Tool
@@ -863,7 +864,6 @@
 - [astefanutti/kubebox](https://github.com/astefanutti/kubebox) - ⎈❏ Terminal and Web console for Kubernetes
 - [Edivad99/NJS-ErgastF1API](https://github.com/Edivad99/NJS-ErgastF1API) - Conversion of the ergast.com API from PHP to nodeJS
 - [qwebirc/qwebirc](https://github.com/qwebirc/qwebirc) - fast, easy to use, free and open source web IRC client
-- [datarhei/restreamer](https://github.com/datarhei/restreamer) - datarhei/Restreamer allows you to do h.264 real-time video streaming on your website without a streaming provider
 - [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [outsideris/slack-invite-automation](https://github.com/outsideris/slack-invite-automation) - A tiny web application to invite a user into your slack team.
 - [jure/pubsweet-blogger](https://github.com/jure/pubsweet-blogger) - Hackity hack
@@ -1013,7 +1013,7 @@
 
 ## Mustache 
 
-- [dacruz21/matrix-chart](https://github.com/dacruz21/matrix-chart) - Helm chart for deploying a Matrix homeserver stack
+- [typokign/matrix-chart](https://github.com/typokign/matrix-chart) - Helm chart for deploying a Matrix homeserver stack
 - [MoJo2600/pihole-kubernetes](https://github.com/MoJo2600/pihole-kubernetes) - PiHole on kubernetes
 
 ## OCaml 
@@ -1057,7 +1057,6 @@
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [cncf/toc](https://github.com/cncf/toc) - ⚖️Technical Oversight Committee (TOC)
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and cheap DIY IP-KVM based on Raspberry Pi
-- [dreamingechoes/awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
 - [oskarsve/ms-teams-rce](https://github.com/oskarsve/ms-teams-rce) - 
 - [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
 - [jon1scr/IDA-Pro-7.3.190614](https://github.com/jon1scr/IDA-Pro-7.3.190614) - IDA Pro 7.3.190614
@@ -1086,6 +1085,7 @@
 - [ErikKalkoken/slackApiDoc](https://github.com/ErikKalkoken/slackApiDoc) - Documentation of undocumented Slack API methods
 - [cutenode/1x.engineer](https://github.com/cutenode/1x.engineer) - The official website of 1x Engineers around the world
 - [acheaito/nextcloud-kubernetes](https://github.com/acheaito/nextcloud-kubernetes) - A NextCloud kubernetes deployment with Apache, MariaDB, Cron, and Redis
+- [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, 
 - [paulczar/knative-samples](https://github.com/paulczar/knative-samples) - sample manifests for using with knative
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -1120,6 +1120,7 @@
 
 ## PHP 
 
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [roots/bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with Composer, easier configuration, and an improved folder structure
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source eCommerce platform built on WordPress. Build any commerce solution you can imagine.
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is an Open Source e-commerce platform, committed to providing the best shopping cart experience for both merchants and customers.
@@ -1134,7 +1135,7 @@
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
 - [arelange/owncloud-files-hubic](https://github.com/arelange/owncloud-files-hubic) - owncloud external storage support: HubiC cloud service
 - [hugues-m/phpunit-vw](https://github.com/hugues-m/phpunit-vw) - VW PHPUnit extension makes your failing test cases succeed under CI tools scrutiny
-- [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. PHP&gt;=5.3.
+- [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. PHP&gt;=5.4.
 - [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
 - [jung35/VacStatus](https://github.com/jung35/VacStatus) - Keep track of people's VAC ban status in a list (shutdown)
 - [easy-wi/developer](https://github.com/easy-wi/developer) - Gameserver, Voiceserver, Rootserver Webinterface
@@ -1643,7 +1644,7 @@
 
 ## TypeScript 
 
-- [m3o/m3o](https://github.com/m3o/m3o) - Universal public API interface
+- [m3o/m3o](https://github.com/m3o/m3o) - Unified public API catalog
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [matias-kovero/tarkov](https://github.com/matias-kovero/tarkov) - A npm library for the Escape from Tarkov API
 - [underyx/visawhen](https://github.com/underyx/visawhen) - Data on US visa wait times at the National Visa Center and at US consulates.
@@ -1657,11 +1658,12 @@
 - [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) - 
 - [Xetera/hifumi](https://github.com/Xetera/hifumi) - 📖 An image cataloging service powered by Discord communities
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 - [vector-im/element-desktop](https://github.com/vector-im/element-desktop) - A glossy Matrix collaboration client for desktop.
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
 - [game-ci/unity-builder](https://github.com/game-ci/unity-builder) - Build Unity projects for different platforms
-- [Half-Shot/matrix-appservice-discord](https://github.com/Half-Shot/matrix-appservice-discord) - A bridge between Matrix and Discord.
+- [matrix-org/matrix-appservice-discord](https://github.com/matrix-org/matrix-appservice-discord) - A bridge between Matrix and Discord.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [ottomated/CrewLink-server](https://github.com/ottomated/CrewLink-server) - Voice Relay server for CrewLink.
 - [ottomated/CrewLink](https://github.com/ottomated/CrewLink) - Free, open, Among Us Proximity Chat
