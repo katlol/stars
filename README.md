@@ -195,6 +195,7 @@
 
 ## C++ 
 
+- [devWaves/SwitchBot-MQTT-BLE-ESP32](https://github.com/devWaves/SwitchBot-MQTT-BLE-ESP32) - Allows for multiple SwitchBot bots and curtains to be controlled via MQTT sent to ESP32. ESP32 will send BLE commands to switchbots and return MQTT responses to the broker. Also supports Temperature, 
 - [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
 - [zorggish/FractalCryptGUI](https://github.com/zorggish/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -1187,6 +1188,7 @@
 
 ## Python 
 
+- [leikoilja/ha-google-home](https://github.com/leikoilja/ha-google-home) - Home Assistant Google Home custom component
 - [EMPRI-DEVOPS/git-privacy](https://github.com/EMPRI-DEVOPS/git-privacy) - Redact Git author and committer dates to keep committing behaviour more private.
 - [thesadru/genshin.py](https://github.com/thesadru/genshin.py) - Modern API wrapper for Genshin Impact & Honkai Impact 3rd built on asyncio and pydantic. 原神 & 崩坏3
 - [PythonBalkan/pyconbalkan](https://github.com/PythonBalkan/pyconbalkan) - Website for PyCon Balkan
@@ -1644,7 +1646,7 @@
 
 ## TypeScript 
 
-- [m3o/m3o](https://github.com/m3o/m3o) - Unified public API catalog
+- [m3o/m3o](https://github.com/m3o/m3o) - Universal public cloud services
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [matias-kovero/tarkov](https://github.com/matias-kovero/tarkov) - A npm library for the Escape from Tarkov API
 - [underyx/visawhen](https://github.com/underyx/visawhen) - Data on US visa wait times at the National Visa Center and at US consulates.
