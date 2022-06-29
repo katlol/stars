@@ -312,6 +312,12 @@
 
 ## Go 
 
+- [lucasepe/jumble](https://github.com/lucasepe/jumble) - Create (not just) diagrams stitching, connecting  and labelling images on a grid using HCL syntax (like terraform!).
+- [vmware-tanzu/k-bench](https://github.com/vmware-tanzu/k-bench) - Workload Benchmark for Kubernetes
+- [scaleway/scaleway-operator](https://github.com/scaleway/scaleway-operator) - Scaleway Operator for Kubernetes
+- [itzg/mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address
+- [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator
+- [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
 - [elotl/kip](https://github.com/elotl/kip) - Virtual-kubelet provider running pods in cloud instances
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [weaveworks/tf-controller](https://github.com/weaveworks/tf-controller) - A GitOps Terraform controller for Kubernetes
@@ -576,7 +582,7 @@
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator for Multi-instance SaaS
-- [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) - A Kubernetes Network Fabric for Enterprises that is Rich in Functions and Easy in Operations (Project under CNCF)
+- [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) - A Bridge between SDN and Cloud Native (Project under CNCF)
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 - [vmware-tanzu/octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
@@ -970,6 +976,7 @@
 
 ## Jupyter Notebook 
 
+- [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - 
 - [88lex/safire](https://github.com/88lex/safire) - 
 - [TetsumichiUmada/text2emoji](https://github.com/TetsumichiUmada/text2emoji) - Predict an emoji that is associated with a text
 - [J535D165/CoronaWatchNL](https://github.com/J535D165/CoronaWatchNL) - Numbers concerning COVID-19 disease cases in The Netherlands by RIVM, LCPS, NICE, ECML, and Rijksoverheid.
@@ -1189,6 +1196,10 @@
 
 ## Python 
 
+- [jerry-git/pytest-split](https://github.com/jerry-git/pytest-split) - Pytest plugin which splits the test suite to equally sized "sub suites" based on test execution time.
+- [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
+- [kyuoven/LearningMorePy](https://github.com/kyuoven/LearningMorePy) - Learning more Python the hard way.
+- [kyuoven/bunny](https://github.com/kyuoven/bunny) - ૮꒰ ˶• ༝ •˶꒱ა ♡
 - [hass-emulated-hue/core](https://github.com/hass-emulated-hue/core) - Hue Emulation for Home Assistant
 - [custom-components/alexa_media_player](https://github.com/custom-components/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
 - [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit
@@ -1507,6 +1518,7 @@
 
 ## Rust 
 
+- [x2bool/xlite](https://github.com/x2bool/xlite) - SQLite extension to query Excel (.xlsx, .xls, .ods) files as virtual tables
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [dank/tarkov](https://github.com/dank/tarkov) - A Rust library for the Escape from Tarkov API
@@ -1654,7 +1666,7 @@
 
 ## TypeScript 
 
-- [m3o/m3o](https://github.com/m3o/m3o) - Universal Micro Services
+- [m3o/m3o](https://github.com/m3o/m3o) - Universal Micro Services Gateway
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [matias-kovero/tarkov](https://github.com/matias-kovero/tarkov) - A npm library for the Escape from Tarkov API
 - [underyx/visawhen](https://github.com/underyx/visawhen) - Data on US visa wait times at the National Visa Center and at US consulates.
