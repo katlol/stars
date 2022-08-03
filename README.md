@@ -80,6 +80,7 @@
 
 ## C 
 
+- [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT&gt;IP and other formats through the unix pipe as input sources.
 - [EsotericSoftware/clippy](https://github.com/EsotericSoftware/clippy) - Multifunctional Windows productivity tool for programmers and other power users
 - [umurmur/umurmur](https://github.com/umurmur/umurmur) - Minimalistic Murmur
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
@@ -194,7 +195,7 @@
 - [Maxx53/SCMBot](https://github.com/Maxx53/SCMBot) - Steam Community Market auto-buying bot
 - [SteamRE/open-steamworks](https://github.com/SteamRE/open-steamworks) - Open Steamworks is a set of reverse engineered headers for the Valve's Steam Client. More or less abandoned now that the Steamworks SDK is publically available.
 - [SteamRE/SteamKit](https://github.com/SteamRE/SteamKit) - SteamKit2 is a .NET library designed to interoperate with Valve's Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network.
-- [VoiDeD/steam-irc-bot](https://github.com/VoiDeD/steam-irc-bot) - The Steam info IRC bot running in #opensteamworks on GameSurge.
+- [voided/steam-irc-bot](https://github.com/voided/steam-irc-bot) - The Steam info IRC bot running in #opensteamworks on GameSurge.
 
 ## C++ 
 
@@ -224,7 +225,7 @@
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [AirenSoft/OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine) - OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
 - [Inori/GPCS4](https://github.com/Inori/GPCS4) - A work-in-progress PlayStation 4 emulator.
-- [scylladb/scylla](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
+- [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
 - [brpc/media-server](https://github.com/brpc/media-server) - A brpc-based server to host and proxy live streams
 - [sysown/proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
@@ -249,7 +250,7 @@
 - [alliedmodders/metamod-source](https://github.com/alliedmodders/metamod-source) - Metamod:Source - C++ Plugin Environment and Detour Library for the Source Engine
 - [alliedmodders/sourcepawn](https://github.com/alliedmodders/sourcepawn) - A small, statically typed scripting language.
 - [pavel-odintsov/fastnetmon](https://github.com/pavel-odintsov/fastnetmon) - FastNetMon - very fast DDoS sensor with sFlow/Netflow/IPFIX/SPAN support
-- [VoiDeD/dota-voidhack](https://github.com/VoiDeD/dota-voidhack) - Proof of concept Dota 2 hack.
+- [voided/dota-voidhack](https://github.com/voided/dota-voidhack) - Proof of concept Dota 2 hack.
 - [xPaw/znc-prioritysend](https://github.com/xPaw/znc-prioritysend) - ⏫ Allows certain messages to be placed in front of the send queue
 - [mmozeiko/aes-finder](https://github.com/mmozeiko/aes-finder) - Utility to find AES keys in running processes
 - [OrfeasZ/SteamLinkFilterDisabler](https://github.com/OrfeasZ/SteamLinkFilterDisabler) - Disables Steam's check for 'malicious' links, making it instantly launch any clicked link.
@@ -315,10 +316,12 @@
 
 ## Go 
 
+- [rayed/whatsapp-iphone-backup](https://github.com/rayed/whatsapp-iphone-backup) - 
+- [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer) - An experimental package manager for distributing Kubernetes configuration as OCI artifacts.
 - [gardener-attic/gardener-extension-provider-kubevirt](https://github.com/gardener-attic/gardener-extension-provider-kubevirt) - Gardener Extension Provider for KubeVirt
 - [google/gke-policy-automation](https://github.com/google/gke-policy-automation) - Tool and policy library for reviewing Google Kubernetes Engine clusters against best practices
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
-- [infrahq/infra](https://github.com/infrahq/infra) - Infra manages access to infrastructure such as Kubernetes, with support for more connectors coming soon
+- [infrahq/infra](https://github.com/infrahq/infra) - Infra manages access to infrastructure such as Kubernetes, with support for more connectors coming soon.
 - [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
 - [jsiebens/brink](https://github.com/jsiebens/brink) - brink - a lightweight identity aware proxy
 - [lucasepe/jumble](https://github.com/lucasepe/jumble) - Create (not just) diagrams stitching, connecting  and labelling images on a grid using HCL syntax (like terraform!).
@@ -336,6 +339,7 @@
 - [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated.
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
+- [m3o/m3o](https://github.com/m3o/m3o) - Universal Micro Services
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
@@ -423,7 +427,7 @@
 - [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
 - [kubernetes/dns](https://github.com/kubernetes/dns) - Kubernetes DNS service
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-- [labring/sealos](https://github.com/labring/sealos) - sealos is a multi-tenant kubernetes distribution. You can use sealos to easily build a public or a private cloud. It is simple, flexible and powerful!
+- [labring/sealos](https://github.com/labring/sealos) - sealos is a kubernetes distribution. You can use sealos to easily build a public or a private cloud. It is simple, flexible and powerful!
 - [kubermatic/machine-controller](https://github.com/kubermatic/machine-controller) - 
 - [kubernetes-sigs/cluster-addons](https://github.com/kubernetes-sigs/cluster-addons) - Addon operators for Kubernetes clusters.
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
@@ -743,7 +747,6 @@
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [dreamingechoes/awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
 - [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
 - [t0mer/broadlinkmanager-docker](https://github.com/t0mer/broadlinkmanager-docker) - Broadlink Manager is a python based project that allows you to contorol your broadlink devices. Discover, Leran and send command in a very easy way
@@ -810,6 +813,8 @@
 
 ## JavaScript 
 
+- [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
+- [rjackson/steal-hellofresh-pdfs](https://github.com/rjackson/steal-hellofresh-pdfs) - i want all of the recipe cards without waiting for all the boxes
 - [jawerty/myAlgorithm](https://github.com/jawerty/myAlgorithm) - A self hosted recommendation feed generated from your browsing habits
 - [fosscord/fosscord](https://github.com/fosscord/fosscord) - Fosscord is a free open source selfhostable discord compatible communication platform
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
@@ -835,6 +840,7 @@
 - [ssb-junkyard/ssb-minimal-pub-server](https://github.com/ssb-junkyard/ssb-minimal-pub-server) - A minimal version of ssb-server aimed at pubs
 - [ssbc/ssb-server](https://github.com/ssbc/ssb-server) - The gossip and replication server for Secure Scuttlebutt - a distributed social network
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [trailofbits/tubertc](https://github.com/trailofbits/tubertc) - Peer-to-Peer Video Chat for Corporate LANs
@@ -1205,6 +1211,12 @@
 
 ## Python 
 
+- [ffreemt/deepl-tr-async](https://github.com/ffreemt/deepl-tr-async) - deepl translate via pyppeteer
+- [KnugiHK/Whatsapp-Chat-Exporter](https://github.com/KnugiHK/Whatsapp-Chat-Exporter) - A customizable Android and iPhone WhatsApp database parser that will give you the history of your WhatsApp conversations in HTML and JSON. Android Backup Crypt12, Crypt14 and Crypt15 supported.
+- [jfarley248/iTunes_Backup_Reader](https://github.com/jfarley248/iTunes_Backup_Reader) - Python 3 Script to parse out iTunes backups
+- [avibrazil/iOSbackup](https://github.com/avibrazil/iOSbackup) - A Python 3 class that reads and extracts files from a password-encrypted iOS backup created by iTunes on Mac and Windows. Compatible with iOS 14. Class works on Linux too.
+- [jsharkey13/iphone_backup_decrypt](https://github.com/jsharkey13/iphone_backup_decrypt) - Decrypt an encrypted iOS 13+ backup created by iTunes on Windows
+- [GuillaumeArp/Jedha_F1_Project](https://github.com/GuillaumeArp/Jedha_F1_Project) - Dashboard showing dataviz about F1 data, and best pit strategy predictor
 - [chip-red-pill/MicrocodeDecryptor](https://github.com/chip-red-pill/MicrocodeDecryptor) - 
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [MobilityData/mobility-database-catalogs](https://github.com/MobilityData/mobility-database-catalogs) - The Catalogs of Sources of the Mobility Database.
@@ -1558,7 +1570,7 @@
 
 ## SCSS 
 
-- [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+).
+- [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
 - [ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer) - Compare the various managed cloud services offered by the major public cloud providers in the market.
 
 ## Scala 
@@ -1685,7 +1697,6 @@
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [m3o/m3o](https://github.com/m3o/m3o) - Universal Micro Services Gateway
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [matias-kovero/tarkov](https://github.com/matias-kovero/tarkov) - A npm library for the Escape from Tarkov API
 - [underyx/visawhen](https://github.com/underyx/visawhen) - Data on US visa wait times at the National Visa Center and at US consulates.
@@ -1734,7 +1745,7 @@
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces
 - [debiki/talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
 - [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
-- [GoogleCloudPlatform/policy-library](https://github.com/GoogleCloudPlatform/policy-library) - A library of constraint templates and sample constraints for Forseti Config Validator.
+- [GoogleCloudPlatform/policy-library](https://github.com/GoogleCloudPlatform/policy-library) - A library of constraint templates and sample constraints for Constraint Framework tools
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
