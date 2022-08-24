@@ -343,7 +343,7 @@
 - [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated.
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
-- [m3o/m3o](https://github.com/m3o/m3o) - Universal Micro Services
+- [m3o/m3o](https://github.com/m3o/m3o) - Universal micro services
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
@@ -469,7 +469,7 @@
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [mission-liao/dingo](https://github.com/mission-liao/dingo) - An easy-to-use, distributed, extensible task/job queue framework for #golang
 - [denverquane/goblockshare](https://github.com/denverquane/goblockshare) - File-sharing torrent platform using blockchain for robust user reputation and reliability scoring
-- [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity-aware access proxy.
+- [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
 - [go-redis/cache](https://github.com/go-redis/cache) - Cache library with Redis backend for Golang
 - [kubernetes-operators-book/chapters](https://github.com/kubernetes-operators-book/chapters) - Source code for the examples in "Kubernetes Operators" by Jason Dobies and Joshua Wood, O'Reilly, 2020
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
@@ -789,7 +789,6 @@
 - [GoogleCloudPlatform/pubsub](https://github.com/GoogleCloudPlatform/pubsub) - This repository contains open-source projects managed by the owners of Google Cloud Pub/Sub.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
 - [SBPrime/BlocksHub](https://github.com/SBPrime/BlocksHub) - API that provides easy access to block loggers and block access controls
-- [OpenVidu/openvidu](https://github.com/OpenVidu/openvidu) - OpenVidu Platform main repository
 - [dTsitsigkos/Amnesia](https://github.com/dTsitsigkos/Amnesia) - Amnesia
 - [mengshukeji/LuckysheetServer](https://github.com/mengshukeji/LuckysheetServer) - Luckysheet java backend
 - [tmobile/kardio](https://github.com/tmobile/kardio) - Service Health Dashboard for Kubernetes, Containers and more...
@@ -1218,6 +1217,7 @@
 
 ## Python 
 
+- [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [Flemmarr/Flemmarr](https://github.com/Flemmarr/Flemmarr) - Flemmarr makes it easy to automate configuration for your -arr apps
@@ -1735,6 +1735,7 @@
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [ottomated/CrewLink-server](https://github.com/ottomated/CrewLink-server) - Voice Relay server for CrewLink.
 - [ottomated/CrewLink](https://github.com/ottomated/CrewLink) - Free, open, Among Us Proximity Chat
+- [OpenVidu/openvidu](https://github.com/OpenVidu/openvidu) - OpenVidu Platform main repository
 - [matrix-org/matrix-appservice-bridge](https://github.com/matrix-org/matrix-appservice-bridge) - Bridging infrastructure for Application Services
 - [Mafrans/StadiaPlus](https://github.com/Mafrans/StadiaPlus) - Extends Google's Stadia gaming platform with additional features, such as custom filters and in game network monitoring.
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
