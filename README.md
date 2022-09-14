@@ -317,6 +317,7 @@
 
 ## Go 
 
+- [caddyserver/ingress](https://github.com/caddyserver/ingress) - WIP Caddy 2 ingress controller for Kubernetes
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [utkuozdemir/pv-migrate](https://github.com/utkuozdemir/pv-migrate) - CLI tool to easily migrate Kubernetes persistent volumes
@@ -343,7 +344,7 @@
 - [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated.
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless cloud gateway
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless cloud services
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
@@ -365,7 +366,7 @@
 - [Azure/orkestra](https://github.com/Azure/orkestra) - Orkestra is a cloud-native release orchestration and lifecycle management (LCM) platform for the fine-grained orchestration of inter-dependent helm charts and their dependencies
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
-- [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - kcp is a prototype of a multi-tenant Kubernetes control plane for workloads on many clusters
+- [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - kcp is a Kubernetes-like control plane for workloads on many clusters
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [goodrain/rainbond](https://github.com/goodrain/rainbond) - Cloud native multi cloud application management platform | 云原生多云应用管理平台
@@ -724,7 +725,7 @@
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
 - [longhorn/longhorn-engine](https://github.com/longhorn/longhorn-engine) - World's smallest storage controller
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
 - [sourcegraph/thyme](https://github.com/sourcegraph/thyme) - Automatically track which applications you use and for how long.
 - [pinggg/pingd](https://github.com/pinggg/pingd) - Ping monitoring engine used in https://ping.gg
 - [benjojo/upsetsysadmins](https://github.com/benjojo/upsetsysadmins) - Corrupt stacks of arbitrary PIDs to change proctitle
@@ -1167,7 +1168,7 @@
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
 - [arelange/owncloud-files-hubic](https://github.com/arelange/owncloud-files-hubic) - owncloud external storage support: HubiC cloud service
 - [hugues-m/phpunit-vw](https://github.com/hugues-m/phpunit-vw) - VW PHPUnit extension makes your failing test cases succeed under CI tools scrutiny
-- [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. PHP&gt;=5.4.
+- [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. PHP&gt;=7.0.
 - [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
 - [jung35/VacStatus](https://github.com/jung35/VacStatus) - Keep track of people's VAC ban status in a list (shutdown)
 - [easy-wi/developer](https://github.com/easy-wi/developer) - Gameserver, Voiceserver, Rootserver Webinterface
@@ -1219,6 +1220,8 @@
 
 ## Python 
 
+- [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) - Stable Diffusion web UI
+- [neonsecret/stable-diffusion-webui](https://github.com/neonsecret/stable-diffusion-webui) - Stable Diffusion web UI (neonsecret fork)
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [ekutner/home-connect-hass](https://github.com/ekutner/home-connect-hass) - Alternative (and improved) Home Connect integration for Home Assistant
 - [kyuoven/PY4E](https://github.com/kyuoven/PY4E) - Following along with some of the parts in this course, which is an intro to Python.
@@ -1284,7 +1287,7 @@
 - [tducret/revolut-python](https://github.com/tducret/revolut-python) - Non-official client for the Revolut Bank
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 - [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI
-- [dialoguemd/fastapi-sqla](https://github.com/dialoguemd/fastapi-sqla) - A highly opinionated SQLAlchemy extension for FastAPI.
+- [dialoguemd/fastapi-sqla](https://github.com/dialoguemd/fastapi-sqla) - SQLAlchemy extension for FastAPI with support for pagination, asyncio and pytest, ready for production.
 - [madkote/fastapi-plugins](https://github.com/madkote/fastapi-plugins) - FastAPI framework plugins
 - [cloudlinux/kuberdock-platform](https://github.com/cloudlinux/kuberdock-platform) - KuberDock - is a platform that allows users to run applications using Docker container images and create SaaS / PaaS based on these applications.
 - [faisalthaheem/open-lpr](https://github.com/faisalthaheem/open-lpr) - Open Source and Free License Plate Recognition Software
@@ -1561,6 +1564,7 @@
 ## Rust 
 
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Windmill: Open-source platform and runtime to turn any scripts into internal apps, integrations and workflows
 - [x2bool/xlite](https://github.com/x2bool/xlite) - SQLite extension for querying Excel (.xlsx, .xls, .ods) files as virtual tables
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -1597,6 +1601,7 @@
 
 ## Shell 
 
+- [jwilk/url.sh](https://github.com/jwilk/url.sh) - this URL is also malicious(?!) shell script
 - [fabito/htk8s](https://github.com/fabito/htk8s) - HTPC services running on Kubernetes
 - [simonthum/git-sync](https://github.com/simonthum/git-sync) - Safe and simple one-script git synchronization
 - [Francesco149/vfio-setup](https://github.com/Francesco149/vfio-setup) - my low latency pure qemu vfio setup
@@ -1710,10 +1715,10 @@
 ## Svelte 
 
 - [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Windmill: Open-source platform and runtime to turn any scripts into internal apps, integrations and workflows
 
 ## TypeScript 
 
+- [meienberger/runtipi](https://github.com/meienberger/runtipi) - ⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - fork of overseerr for jellyfin support
