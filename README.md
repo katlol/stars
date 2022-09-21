@@ -57,6 +57,7 @@
 - [Standard ML](#standard-ml)
 - [Starlark](#starlark)
 - [Svelte](#svelte)
+- [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Visual Basic](#visual-basic)
@@ -317,6 +318,9 @@
 
 ## Go 
 
+- [isaaguilar/terraform-operator](https://github.com/isaaguilar/terraform-operator) - A Kubernetes CRD to handle terraform operations
+- [GoogleCloudPlatform/k8s-config-connector](https://github.com/GoogleCloudPlatform/k8s-config-connector) - GCP Config Connector, a Kubernetes add-on for managing GCP resources
+- [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
 - [caddyserver/ingress](https://github.com/caddyserver/ingress) - WIP Caddy 2 ingress controller for Kubernetes
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
@@ -344,7 +348,7 @@
 - [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated.
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless cloud services
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless cloud services (SCS)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
@@ -740,6 +744,7 @@
 
 - [gruberdev/tf-free](https://github.com/gruberdev/tf-free) - Create cloud-native resources on all the major cloud providers, completely free of charge. This project is currently under heavy development.
 - [terraform-google-modules/terraform-google-project-factory](https://github.com/terraform-google-modules/terraform-google-project-factory) - Opinionated Google Cloud Platform project creation and configuration with Shared VPC, IAM, APIs, etc.
+- [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
 - [PropellerAero/eks-example](https://github.com/PropellerAero/eks-example) - A simplified example of the terraform configuration that Propeller uses to quickly deploy and set up new EKS clusters
 - [starise/ArchLinuxPi](https://github.com/starise/ArchLinuxPi) - Build and deploy Arch Linux ARM on Raspberry Pi 4 via Packer & Ansible.
 - [xunleii/terraform-module-k3s](https://github.com/xunleii/terraform-module-k3s) - Terraform module to install K3S on all given instances
@@ -840,7 +845,7 @@
 - [cracker0dks/Accelerator](https://github.com/cracker0dks/Accelerator) - Online Conference and Collaboration Tool
 - [D3vl0per/Twitch-watcher](https://github.com/D3vl0per/Twitch-watcher) - Automatic watching the twitch to get Valorant drop
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
-- [breck7/scroll](https://github.com/breck7/scroll) - An extensible alternative to Markdown.
+- [breck7/scroll](https://github.com/breck7/scroll) - Tools for thought.
 - [fanfare/googleimagesrestored](https://github.com/fanfare/googleimagesrestored) - This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019.
 - [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [ssb-junkyard/ssb-minimal-pub-server](https://github.com/ssb-junkyard/ssb-minimal-pub-server) - A minimal version of ssb-server aimed at pubs
@@ -1156,7 +1161,7 @@
 
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [roots/bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with Composer, easier configuration, and an improved folder structure
-- [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source eCommerce platform built on WordPress. Build any commerce solution you can imagine.
+- [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
 - [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕 - we stand with 🇺🇦
 - [jcnewell/ergast-f1-api](https://github.com/jcnewell/ergast-f1-api) - A PHP-based read-only API for the Ergast Formula One MySQL database
@@ -1279,7 +1284,6 @@
 - [Teekeks/pyTwitchAPI](https://github.com/Teekeks/pyTwitchAPI) - A Python 3.7 implementation of the Twitch API, EventSub and PubSub
 - [philippnormann/nvidia-sniper](https://github.com/philippnormann/nvidia-sniper) - 🎯 Autonomously buy Nvidia Founders Edition GPUs as soon as they become available.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
-- [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [Paperspace/gradient-cli](https://github.com/Paperspace/gradient-cli) - The command line interface for Gradient - https://gradient.paperspace.com
 - [Paperspace/paperspace-python](https://github.com/Paperspace/paperspace-python) - Paperspace API for python
@@ -1357,7 +1361,7 @@
 - [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
 - [sfanous/IPTVProxy](https://github.com/sfanous/IPTVProxy) - A playlist generator and PVR for IPTV providers written in Python 3
 - [capitalone/slackbot-destroyer](https://github.com/capitalone/slackbot-destroyer) - :mega: :x: Slack integration that can destroy all incoming messages from Slackbot.
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [alexdredmon/cuteuid](https://github.com/alexdredmon/cuteuid) - Generate cute UIDs
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
@@ -1405,6 +1409,7 @@
 - [open-policy-agent/rego-python](https://github.com/open-policy-agent/rego-python) - Python library for interacting with Rego ASTs.
 - [garabik/grc](https://github.com/garabik/grc) - generic colouriser
 - [bruj0/k8s_mcextfs](https://github.com/bruj0/k8s_mcextfs) - Midnight Commander extfs for kubernetes
+- [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
 - [vibhavp/dotty](https://github.com/vibhavp/dotty) - A python script to sync your dotfiles
 - [mikebryant/random-secret-operator](https://github.com/mikebryant/random-secret-operator) - Creates Secrets containing random data.
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules.
@@ -1428,7 +1433,7 @@
 - [ddragosd/python-rclone](https://github.com/ddragosd/python-rclone) - Python module for rclone
 - [marteinn/The-Big-Username-Blocklist](https://github.com/marteinn/The-Big-Username-Blocklist) - This is a opinionated blocklist of words that you might not like to see used as usernames in your service.
 - [pry0cc/ProxyDock](https://github.com/pry0cc/ProxyDock) - ProxyDock is a Dockerfile and Bash script that converts your OpenVPN files into local proxies.
-- [peeringdb/peeringdb](https://github.com/peeringdb/peeringdb) - Server code for https://peeringdb.com/
+- [peeringdb/peeringdb](https://github.com/peeringdb/peeringdb) - Server code for https://www.peeringdb.com/
 - [cgarciae/pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines in Python   &gt;&gt;&gt;
 - [mantl/mantl](https://github.com/mantl/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
@@ -1563,6 +1568,7 @@
 
 ## Rust 
 
+- [Ramilito/kubesess](https://github.com/Ramilito/kubesess) - Kubectl plugin managing sessions
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Windmill: Open-source platform and runtime to turn any scripts into internal apps, integrations and workflows
 - [x2bool/xlite](https://github.com/x2bool/xlite) - SQLite extension for querying Excel (.xlsx, .xls, .ods) files as virtual tables
@@ -1601,6 +1607,7 @@
 
 ## Shell 
 
+- [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
 - [jwilk/url.sh](https://github.com/jwilk/url.sh) - this URL is also malicious(?!) shell script
 - [fabito/htk8s](https://github.com/fabito/htk8s) - HTPC services running on Kubernetes
 - [simonthum/git-sync](https://github.com/simonthum/git-sync) - Safe and simple one-script git synchronization
@@ -1659,7 +1666,6 @@
 - [relvacode/x11vnc-chrome](https://github.com/relvacode/x11vnc-chrome) - Dockerized Chrome Browser
 - [andrewjfreyer/monitor](https://github.com/andrewjfreyer/monitor) - Distributed advertisement-based BTLE presence detection reported via mqtt
 - [andrewjfreyer/presence](https://github.com/andrewjfreyer/presence) - Distributed poll-based BTLE presence detection reported via mqtt
-- [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
 - [bigbluebutton/docker](https://github.com/bigbluebutton/docker) - Docker files for BigBlueButton
 - [metal3-io/metal3-docs](https://github.com/metal3-io/metal3-docs) - Architecture documentation that describes the components being built under Metal³.
 - [pieterlange/kube-backup](https://github.com/pieterlange/kube-backup) - :floppy_disk: Kubernetes resource state sync to git
@@ -1715,6 +1721,10 @@
 ## Svelte 
 
 - [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server
+
+## Swift 
+
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 
 ## TypeScript 
 
