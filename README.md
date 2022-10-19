@@ -284,7 +284,7 @@
 - [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://athensresearch.github.io/docs/
 - [jeremykross/konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
-- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
+- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 
 ## CoffeeScript 
 
@@ -297,6 +297,7 @@
 ## Dart 
 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+- [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 
 ## Dockerfile 
 
@@ -320,6 +321,7 @@
 
 ## Go 
 
+- [acorn-io/mink](https://github.com/acorn-io/mink) - Mink is not Kubernetes
 - [isaaguilar/terraform-operator](https://github.com/isaaguilar/terraform-operator) - A Kubernetes CRD to handle terraform operations
 - [GoogleCloudPlatform/k8s-config-connector](https://github.com/GoogleCloudPlatform/k8s-config-connector) - GCP Config Connector, a Kubernetes add-on for managing GCP resources
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
@@ -350,7 +352,6 @@
 - [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated.
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro Services
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
@@ -486,7 +487,7 @@
 - [mrzahrada/go-dd-lambda](https://github.com/mrzahrada/go-dd-lambda) - Package for sending datadog metrics from lambda
 - [spotahome/redis-operator](https://github.com/spotahome/redis-operator) - Redis Operator creates/configures/manages high availability redis with sentinel automatic failover atop Kubernetes.
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native management plane
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [lawrencegripper/tfoperatorbridge](https://github.com/lawrencegripper/tfoperatorbridge) - This was a hack that is currently in a broken state
 - [fluxcd/kustomize-controller](https://github.com/fluxcd/kustomize-controller) - The GitOps Toolkit Kustomize reconciler
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
@@ -694,7 +695,7 @@
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [uxbh/ztdns](https://github.com/uxbh/ztdns) - DNS server for a ZeroTier virtual network
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
-- [kubicorn/kubicorn](https://github.com/kubicorn/kubicorn) - Created by @kris-nova Kris Nóva. Simple, cloud native infrastructure for Kubernetes.
+- [kubicorn/kubicorn](https://github.com/kubicorn/kubicorn) - Simple, cloud native infrastructure for Kubernetes.
 - [ContainerSolutions/externalsecret-operator](https://github.com/ContainerSolutions/externalsecret-operator) - An operator to fetch secrets from cloud services and inject them in Kubernetes
 - [webhippie/terrastate](https://github.com/webhippie/terrastate) - Terraform HTTP remote state storage
 - [evilsocket/shellz](https://github.com/evilsocket/shellz) - shellz is a small utility to manage your ssh, telnet, kubernetes, winrm, web or any custom shell in a single place.
@@ -802,6 +803,7 @@
 - [GoogleCloudPlatform/pubsub](https://github.com/GoogleCloudPlatform/pubsub) - This repository contains open-source projects managed by the owners of Google Cloud Pub/Sub.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
 - [SBPrime/BlocksHub](https://github.com/SBPrime/BlocksHub) - API that provides easy access to block loggers and block access controls
+- [OpenVidu/openvidu](https://github.com/OpenVidu/openvidu) - OpenVidu Platform main repository
 - [dTsitsigkos/Amnesia](https://github.com/dTsitsigkos/Amnesia) - Amnesia
 - [dream-num/LuckysheetServer](https://github.com/dream-num/LuckysheetServer) - Luckysheet java backend
 - [tmobile/kardio](https://github.com/tmobile/kardio) - Service Health Dashboard for Kubernetes, Containers and more...
@@ -896,7 +898,7 @@
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [hampusborgos/country-flags](https://github.com/hampusborgos/country-flags) - SVG and PNG renders of all countries' flags.
 - [moeiscool/Shinobi](https://github.com/moeiscool/Shinobi) - :peace_symbol: :palestinian_territories: Shinobi CE - The Free Open Source CCTV platform written in Node.JS (Camera Recorder - Security Surveillance Software - Restreamer
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [calzoneman/sync](https://github.com/calzoneman/sync) - Node.JS Server and JavaScript/HTML Client for synchronizing online media
 - [alcideio/pipeline](https://github.com/alcideio/pipeline) - Alcide Kubernetes Advisor ... Cluster Hygiene & Security Scanner - Pipeline Integration
 - [jspenguin2017/uBlockProtector](https://github.com/jspenguin2017/uBlockProtector) - An anti-adblock defuser for Nano Adblocker and uBlock Origin
@@ -905,7 +907,7 @@
 - [astefanutti/kubebox](https://github.com/astefanutti/kubebox) - ⎈❏ Terminal and Web console for Kubernetes
 - [Edivad99/NJS-ErgastF1API](https://github.com/Edivad99/NJS-ErgastF1API) - Conversion of the ergast.com API from PHP to nodeJS
 - [qwebirc/qwebirc](https://github.com/qwebirc/qwebirc) - fast, easy to use, free and open source web IRC client
-- [WeebDev/chibisafe](https://github.com/WeebDev/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
+- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
 - [outsideris/slack-invite-automation](https://github.com/outsideris/slack-invite-automation) - A tiny web application to invite a user into your slack team.
 - [jure/pubsweet-blogger](https://github.com/jure/pubsweet-blogger) - Hackity hack
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
@@ -1233,6 +1235,7 @@
 
 ## Python 
 
+- [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
 - [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) - Stable Diffusion web UI
 - [neonsecret/stable-diffusion-webui](https://github.com/neonsecret/stable-diffusion-webui) - Stable Diffusion web UI (neonsecret fork)
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -1254,7 +1257,6 @@
 - [jerry-git/pytest-split](https://github.com/jerry-git/pytest-split) - Pytest plugin which splits the test suite to equally sized "sub suites" based on test execution time.
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch
-- [kyuoven/LearningMorePy](https://github.com/kyuoven/LearningMorePy) - Learning more Python the hard way.
 - [kyuoven/bunny](https://github.com/kyuoven/bunny) - ૮꒰ ˶• ༝ •˶꒱ა ♡
 - [hass-emulated-hue/core](https://github.com/hass-emulated-hue/core) - Hue Emulation for Home Assistant
 - [custom-components/alexa_media_player](https://github.com/custom-components/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
@@ -1354,7 +1356,6 @@
 - [bachya/py17track](https://github.com/bachya/py17track) - 📦 A simple API to track package info from 17track.com
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [yfauser/planespotter](https://github.com/yfauser/planespotter) - Demo App utilizing public Aircraft Tracking Data
-- [insurgency/aiosteamworksweb](https://github.com/insurgency/aiosteamworksweb) - :steam_locomotive: asyncio client wrapper for the Steamworks Web API
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [brettkromkamp/contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is an effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
@@ -1417,7 +1418,6 @@
 - [open-policy-agent/rego-python](https://github.com/open-policy-agent/rego-python) - Python library for interacting with Rego ASTs.
 - [garabik/grc](https://github.com/garabik/grc) - generic colouriser
 - [bruj0/k8s_mcextfs](https://github.com/bruj0/k8s_mcextfs) - Midnight Commander extfs for kubernetes
-- [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
 - [vibhavp/dotty](https://github.com/vibhavp/dotty) - A python script to sync your dotfiles
 - [mikebryant/random-secret-operator](https://github.com/mikebryant/random-secret-operator) - Creates Secrets containing random data.
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules.
@@ -1433,7 +1433,7 @@
 - [CalicoCatalyst/titletoimagebot](https://github.com/CalicoCatalyst/titletoimagebot) - rewrite of reddit bot for adding submission title to linked image
 - [threatexpress/subshell](https://github.com/threatexpress/subshell) - SubShell is a python command shell used to control and execute commands through HTTP requests to a webshell. SubShell acts as the interface to the remote webshells.
 - [singe/container-breakouts](https://github.com/singe/container-breakouts) - Testing/collecting some container breakouts
-- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters
 - [ContainerSolutions/timber](https://github.com/ContainerSolutions/timber) - Timber - The Training Companion App
 - [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
@@ -1506,7 +1506,7 @@
 - [lebinh/ngxtop](https://github.com/lebinh/ngxtop) - Real-time metrics for nginx server
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [Sceptre/sceptre](https://github.com/Sceptre/sceptre) - Build better AWS infrastructure
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [trevp/tlslite](https://github.com/trevp/tlslite) - TLS Library in python
 - [thilander/de-enp-ass](https://github.com/thilander/de-enp-ass) - Convert exported derpy txt file from enpass into better csv -files (made for importing to 1password but could work for more)
 - [jcutting/lambda-kinesis-s3](https://github.com/jcutting/lambda-kinesis-s3) - Lambda to read from a kinesis stream and write to firehose
@@ -1674,6 +1674,7 @@
 - [relvacode/x11vnc-chrome](https://github.com/relvacode/x11vnc-chrome) - Dockerized Chrome Browser
 - [andrewjfreyer/monitor](https://github.com/andrewjfreyer/monitor) - Distributed advertisement-based BTLE presence detection reported via mqtt
 - [andrewjfreyer/presence](https://github.com/andrewjfreyer/presence) - Distributed poll-based BTLE presence detection reported via mqtt
+- [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
 - [bigbluebutton/docker](https://github.com/bigbluebutton/docker) - Docker files for BigBlueButton
 - [metal3-io/metal3-docs](https://github.com/metal3-io/metal3-docs) - Architecture documentation that describes the components being built under Metal³.
 - [pieterlange/kube-backup](https://github.com/pieterlange/kube-backup) - :floppy_disk: Kubernetes resource state sync to git
@@ -1743,11 +1744,12 @@
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
+- [m3o/m3o](https://github.com/m3o/m3o) - Universal Micro Services
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [matias-kovero/tarkov](https://github.com/matias-kovero/tarkov) - A npm library for the Escape from Tarkov API
 - [underyx/visawhen](https://github.com/underyx/visawhen) - Data on US visa wait times at the National Visa Center and at US consulates.
 - [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 - [Renovamen/playground-macos](https://github.com/Renovamen/playground-macos) - My portfolio website simulating macOS's GUI, developed with React and UnoCSS.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
@@ -1766,7 +1768,6 @@
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [ottomated/CrewLink-server](https://github.com/ottomated/CrewLink-server) - Voice Relay server for CrewLink.
 - [ottomated/CrewLink](https://github.com/ottomated/CrewLink) - Free, open, Among Us Proximity Chat
-- [OpenVidu/openvidu](https://github.com/OpenVidu/openvidu) - OpenVidu Platform main repository
 - [matrix-org/matrix-appservice-bridge](https://github.com/matrix-org/matrix-appservice-bridge) - Bridging infrastructure for Application Services
 - [Mafrans/StadiaPlus](https://github.com/Mafrans/StadiaPlus) - Extends Google's Stadia gaming platform with additional features, such as custom filters and in game network monitoring.
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
@@ -1781,7 +1782,6 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [nwtgck/actions-comment-run](https://github.com/nwtgck/actions-comment-run) - Execute any script in a GitHub issue comment
 - [sighupio/permission-manager](https://github.com/sighupio/permission-manager) - Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW
-- [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and m
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [matrix-org/matrix-appservice-irc](https://github.com/matrix-org/matrix-appservice-irc) - Node.js IRC bridge for Matrix
