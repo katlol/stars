@@ -236,7 +236,7 @@
 - [sysown/proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [nullworks/cathook](https://github.com/nullworks/cathook) - Training Software for the game Team Fortress 2
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT and GB28181.
 - [StanfordSNR/puffer](https://github.com/StanfordSNR/puffer) - Puffer is a free live TV streaming website and a research study at Stanford using machine learning to improve video streaming
 - [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
@@ -570,7 +570,7 @@
 - [Boostport/kubernetes-vault](https://github.com/Boostport/kubernetes-vault) - Use Vault to store secrets for Kubernetes!
 - [kelseyhightower/vault-controller](https://github.com/kelseyhightower/vault-controller) - Automate the creation of unique Vault tokens for Kubernetes Pods using init containers.
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
-- [fluxcd/flux](https://github.com/fluxcd/flux) - Successor: https://github.com/fluxcd/flux2 — The GitOps Kubernetes operator
+- [fluxcd/flux](https://github.com/fluxcd/flux) - Successor: https://github.com/fluxcd/flux2
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [Mirantis/k8s-externalipcontroller](https://github.com/Mirantis/k8s-externalipcontroller) - External IP controller is k8s application which is deployed on top of k8s cluster and which configures External IPs on k8s worker node(s) to provide IP connectivity.
 - [zalando/skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress
@@ -836,6 +836,9 @@
 
 ## JavaScript 
 
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
+- [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generat
+- [Awesome-Technologies/synapse-admin](https://github.com/Awesome-Technologies/synapse-admin) - https://hub.docker.com/r/awesometechnologies/synapse-admin
 - [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
 - [rjackson/steal-hellofresh-pdfs](https://github.com/rjackson/steal-hellofresh-pdfs) - i want all of the recipe cards without waiting for all the boxes
 - [jawerty/myAlgorithm](https://github.com/jawerty/myAlgorithm) - A self hosted recommendation feed generated from your browsing habits
@@ -1240,6 +1243,7 @@
 
 ## Python 
 
+- [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth
 - [moan0s/matrix-registration-bot](https://github.com/moan0s/matrix-registration-bot) - A bot that is used to create and manage registration tokens for a matrix server
 - [matrix-org/synapse-s3-storage-provider](https://github.com/matrix-org/synapse-s3-storage-provider) - Synapse storage provider to fetch and store media in Amazon S3
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
@@ -1272,7 +1276,7 @@
 - [cyberjunky/home-assistant-p2000](https://github.com/cyberjunky/home-assistant-p2000) - :fire_engine: This component tracks P2000 emergency events in The Netherlands.
 - [leikoilja/ha-google-home](https://github.com/leikoilja/ha-google-home) - Home Assistant Google Home custom component
 - [EMPRI-DEVOPS/git-privacy](https://github.com/EMPRI-DEVOPS/git-privacy) - Redact Git author and committer dates to keep committing behaviour more private.
-- [thesadru/genshin.py](https://github.com/thesadru/genshin.py) - Modern API wrapper for Genshin Impact & Honkai Impact 3rd built on asyncio and pydantic. 原神和崩坏3
+- [thesadru/genshin.py](https://github.com/thesadru/genshin.py) - Modern API wrapper for Genshin Impact & Honkai Impact 3rd built on asyncio and pydantic. 原神 崩坏3
 - [PythonBalkan/pyconbalkan](https://github.com/PythonBalkan/pyconbalkan) - Website for PyCon Balkan
 - [kyuoven/python-learning](https://github.com/kyuoven/python-learning) - hi
 - [DaemonDude23/kube-inverter](https://github.com/DaemonDude23/kube-inverter) - Converts Kubernetes Ingress YAML objects with apiVersion: networking.k8s.io/v1beta1 to apiVersion: networking.k8s.io/v1
@@ -1562,6 +1566,7 @@
 
 ## Ruby 
 
+- [compumike/hairpin-proxy](https://github.com/compumike/hairpin-proxy) - PROXY protocol support for internal-to-LoadBalancer traffic for Kubernetes Ingress users. If you've had problems with ingress-nginx, cert-manager, LetsEncrypt ACME HTTP01 self-check failures, and the 
 - [bgeesaman/inspec-k8s](https://github.com/bgeesaman/inspec-k8s) - A Kubernetes Resource Pack for Chef Inspec
 - [inspec/inspec](https://github.com/inspec/inspec) - InSpec: Auditing and Testing Framework
 - [orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
@@ -1583,6 +1588,7 @@
 
 ## Rust 
 
+- [timokoesters/conduit](https://github.com/timokoesters/conduit) - A simple, fast and reliable Matrix server (mirror)
 - [TeamPiped/sponsorblock-mirror](https://github.com/TeamPiped/sponsorblock-mirror) - An implementation of a mirror SponsorBlock server in Rust.
 - [Ramilito/kubesess](https://github.com/Ramilito/kubesess) - Kubectl plugin managing sessions
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
@@ -1753,7 +1759,7 @@
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [m3o/m3o](https://github.com/m3o/m3o) - Universal Micro Services
+- [m3o/m3o](https://github.com/m3o/m3o) - Shared infrastructure & cloud services
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [matias-kovero/tarkov](https://github.com/matias-kovero/tarkov) - A npm library for the Escape from Tarkov API
 - [underyx/visawhen](https://github.com/underyx/visawhen) - Data on US visa wait times at the National Visa Center and at US consulates.
