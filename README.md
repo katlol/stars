@@ -213,6 +213,7 @@
 
 ## C++ 
 
+- [jvde-github/AIS-catcher](https://github.com/jvde-github/AIS-catcher) - AIS receiver for RTL SDR dongles, Airspy R2, Airspy Mini, Airspy HF+, HackRF, SDRplay and SoapySDR
 - [jontio/JAERO](https://github.com/jontio/JAERO) - Demodulate and decode Aero signals. These signals contain SatCom ACARS messages as used by planes beyond VHF ACARS range
 - [google/fuse-archive](https://github.com/google/fuse-archive) - FUSE file system for archives and compressed files (ZIP, RAR, 7Z, ISO, TGZ, XZ...)
 - [NVIDIA-Omniverse/PhysX](https://github.com/NVIDIA-Omniverse/PhysX) - NVIDIA PhysX SDK
@@ -341,6 +342,7 @@
 
 ## Go 
 
+- [jerbob92/hoppscotch-backend](https://github.com/jerbob92/hoppscotch-backend) - 
 - [vouch-opensource/containerd-healthcheck](https://github.com/vouch-opensource/containerd-healthcheck) - Simple daemon that performs health checks and auto-restart unhealthy container tasks
 - [Octops/gameserver-ingress-controller](https://github.com/Octops/gameserver-ingress-controller) - Automatic Ingress configuration for Game Servers managed by Agones
 - [cloudflare/goflow](https://github.com/cloudflare/goflow) - The high-scalability sFlow/NetFlow/IPFIX collector used internally at Cloudflare.
@@ -514,7 +516,7 @@
 - [giantswarm/loki-operator](https://github.com/giantswarm/loki-operator) - operator to manage loki log parsing configuration
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [jetstack/version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
-- [automuteus/galactus](https://github.com/automuteus/galactus) - The All-Knowing User and Token Provider Aggregator
+- [automuteus/galactus](https://github.com/automuteus/galactus) - The All-Powerful Socket.io Connection Aggregator
 - [powerman/structlog](https://github.com/powerman/structlog) - Structured logger for Go
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
@@ -808,7 +810,6 @@
 ## HTML 
 
 - [wiedehopf/mlat-server-sync-map](https://github.com/wiedehopf/mlat-server-sync-map) - Map and sync table to show sync status for mlat-server
-- [adsblol/api](https://github.com/adsblol/api) - 
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [ibuildthecloud/iwontbuyadomain](https://github.com/ibuildthecloud/iwontbuyadomain) - I won't buy a domain.
 - [LovelaceEngineering/lovelace.engineering](https://github.com/LovelaceEngineering/lovelace.engineering) - Lovelace Engineering website
@@ -856,7 +857,6 @@
 - [kvaster/iptv-proxy](https://github.com/kvaster/iptv-proxy) - Simple iptv restreamer
 - [prometheus/cloudwatch_exporter](https://github.com/prometheus/cloudwatch_exporter) - Metrics exporter for Amazon AWS CloudWatch
 - [GoogleCloudPlatform/pubsub](https://github.com/GoogleCloudPlatform/pubsub) - This repository contains open-source projects managed by the owners of Google Cloud Pub/Sub.
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 - [SBPrime/BlocksHub](https://github.com/SBPrime/BlocksHub) - API that provides easy access to block loggers and block access controls
 - [OpenVidu/openvidu](https://github.com/OpenVidu/openvidu) - OpenVidu Platform main repository
 - [dTsitsigkos/Amnesia](https://github.com/dTsitsigkos/Amnesia) - Amnesia
@@ -887,9 +887,11 @@
 
 ## JavaScript 
 
+- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
+- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [adsblol/infra](https://github.com/adsblol/infra) - GitOps Flux-based adsb.lol infrastructure - kubernetes, readsb, tar1090, mlat-server, api, history
 - [democratic-csi/democratic-csi](https://github.com/democratic-csi/democratic-csi) - csi storage for container orchestration systems
-- [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A ChatGPT implementation with support for Bing's GPT-4 version of ChatGPT, plus the official ChatGPT model via OpenAI's API. Available as a Node.js module, REST API server, and CLI app.
+- [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing. Available as a Node.js module, REST API server, and CLI app.
 - [acheong08/ChatGPT-API-agent](https://github.com/acheong08/ChatGPT-API-agent) - ChatGPT puppeteer for firefox
 - [AlaSQL/alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Ex
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
@@ -1152,6 +1154,7 @@
 
 ## Others 
 
+- [nelsonjchen/gargantuan-takeout-rocket](https://github.com/nelsonjchen/gargantuan-takeout-rocket) - 🚀 Backup Google Takeout archives (like your YouTube channel and Google Photos) at 1GB/s+ to Azure Storage periodically with minimal human toil and financial cost
 - [siderolabs/contrib](https://github.com/siderolabs/contrib) - talos/sidero setup examples
 - [SLKTH/rijksoverheidfonts](https://github.com/SLKTH/rijksoverheidfonts) - Fonts files used by Dutch Government (Rijksoverheid)
 - [OpenSourceEBike/TSDZ2_wiki](https://github.com/OpenSourceEBike/TSDZ2_wiki) - 
@@ -1310,6 +1313,8 @@
 
 ## Python 
 
+- [jb2170/better-adb-sync](https://github.com/jb2170/better-adb-sync) - Completely rewritten adbsync with proper --exclude
+- [ggoodloff/AircraftTracker-v2](https://github.com/ggoodloff/AircraftTracker-v2) - 
 - [openmaptiles/openmaptiles-tools](https://github.com/openmaptiles/openmaptiles-tools) - Tools to turn the schema into other formats
 - [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
 - [pyca/bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
@@ -1317,6 +1322,7 @@
 - [Sky360-Repository/simpletracker-ros2-ws](https://github.com/Sky360-Repository/simpletracker-ros2-ws) - 
 - [pogzyb/asyncwhois](https://github.com/pogzyb/asyncwhois) - asyncio-compatible Python module for retrieving and parsing WHOIS information for any domain.
 - [canonical/grafana-agent-k8s-operator](https://github.com/canonical/grafana-agent-k8s-operator) - Grafana Agent is a telemetry collector for sending metrics, logs, and trace data to the opinionated Grafana observability stack.
+- [adsblol/api](https://github.com/adsblol/api) - 
 - [claws/dump1090-exporter](https://github.com/claws/dump1090-exporter) - A Prometheus metrics exporter for the dump1090 Mode S decoder for RTLSDR
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emer
 - [wiedehopf/mlat-server](https://github.com/wiedehopf/mlat-server) - Mode S multilateration server
@@ -1408,6 +1414,7 @@
 - [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [anthonynsimon/timeflake](https://github.com/anthonynsimon/timeflake) - Timeflake is a 128-bit, roughly-ordered, URL-safe UUID.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [iann0036/aws-leastprivilege](https://github.com/iann0036/aws-leastprivilege) - Generates an IAM policy for the CloudFormation service role that adheres to least privilege.
 - [python-gitlab/python-gitlab](https://github.com/python-gitlab/python-gitlab) - A python wrapper for the GitLab API.
@@ -1609,7 +1616,7 @@
 - [deis/deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules.
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [Hellowlol/HTPC-Manager](https://github.com/Hellowlol/HTPC-Manager) - A fully responsive interface to manage all your favorite software on your Htpc.
-- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Next generation Python web server/framework | Build fast. Run fast.
+- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
 - [cablehead/python-consul](https://github.com/cablehead/python-consul) - Python client for Consul (http://www.consul.io/)
 - [agermanidis/autosub](https://github.com/agermanidis/autosub) - [NO LONGER MAINTAINED] Command-line utility for auto-generating subtitles for any video file
 - [epinna/tplmap](https://github.com/epinna/tplmap) - Server-Side Template Injection and Code Injection Detection and Exploitation Tool
@@ -1675,6 +1682,7 @@
 
 ## Rust 
 
+- [timvisee/lazymc](https://github.com/timvisee/lazymc) - 💤 Put your Minecraft server to rest when idle.
 - [rsadsb/adsb_deku](https://github.com/rsadsb/adsb_deku) - ✈️ Rust ADS-B decoder + tui radar application
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
 - [ShadowJonathan/variate](https://github.com/ShadowJonathan/variate) - (PoC/Alpha) A matrix server implementation migration tool
@@ -1718,9 +1726,11 @@
 
 ## Shell 
 
+- [Okazakee/mcserver-lazymc-docker](https://github.com/Okazakee/mcserver-lazymc-docker) - This is a Linux Docker image for creating Minecraft servers using lazymc with a lot of parameters.
+- [swarmlet/swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
-- [adsblol/feed](https://github.com/adsblol/feed) - Easy to use, container-based MLATADS-B multi feed client
+- [adsblol/feed](https://github.com/adsblol/feed) - Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client
 - [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
 - [sdr-enthusiasts/docker-readsb-protobuf](https://github.com/sdr-enthusiasts/docker-readsb-protobuf) - Multi-architecture readsb-protobuf container with support for RTLSDR, bladeRF and plutoSDR (x86_64, arm32v7, arm64v8)
@@ -1814,7 +1824,7 @@
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
 - [metral/restore_networking](https://github.com/metral/restore_networking) - Restores networking service in Ubuntu 14.04 with that of Ubuntu 13.10
-- [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, upon any Linux distro
+- [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
 - [dominictarr/deploy](https://github.com/dominictarr/deploy) - scripts to setup continuous deployment with git push
 
 ## Smarty 
@@ -1847,6 +1857,7 @@
 
 ## TypeScript 
 
+- [jettracker-org/jettracker](https://github.com/jettracker-org/jettracker) - Web interface  that can be used to track the jets of (wealthy) individuals and companies and hold them accountable for their flight CO2 emissions.
 - [ADSB-One/site](https://github.com/ADSB-One/site) - ADSB One site
 - [usimd/pi-gen-action](https://github.com/usimd/pi-gen-action) - Action to build Raspberry Pi images using official pi-gen tool
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
@@ -1861,7 +1872,7 @@
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [m3o/m3o](https://github.com/m3o/m3o) - Universal Micro services gateway
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services gateway
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [matias-kovero/tarkov](https://github.com/matias-kovero/tarkov) - A npm library for the Escape from Tarkov API
 - [underyx/visawhen](https://github.com/underyx/visawhen) - Data on US visa wait times at the National Visa Center and at US consulates.
@@ -1931,6 +1942,7 @@
 
 ## Vue 
 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [pixel-point/kube-forwarder](https://github.com/pixel-point/kube-forwarder) - Easy to use Kubernetes port forwarding manager
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
