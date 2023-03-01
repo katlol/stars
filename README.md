@@ -85,6 +85,8 @@
 
 ## C 
 
+- [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
+- [yvesf/andiodine](https://github.com/yvesf/andiodine) - Android VPN over DNS (no root required). Repo moved to gitlab
 - [vfreex/mdns-reflector](https://github.com/vfreex/mdns-reflector) - a lightweight and performant multicast DNS (mDNS) reflector with modern design, supports zone based reflection and IPv6
 - [TheMickeyMike/docker-mdns-repeater-mikrotik](https://github.com/TheMickeyMike/docker-mdns-repeater-mikrotik) - mdns-repeater in mikrotik container
 - [Mictronics/readsb-protobuf](https://github.com/Mictronics/readsb-protobuf) - Readsb is a Mode-S/ADSB/TIS decoder for RTLSDR, BladeRF, Modes-Beast and GNS5894 devices. Future development version with protocol buffer storage.
@@ -131,7 +133,7 @@
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
 - [charybdis-ircd/charybdis](https://github.com/charybdis-ircd/charybdis) - Scalable IRCv3.2 server for large, community-oriented networks
 - [TarlogicSecurity/tickey](https://github.com/TarlogicSecurity/tickey) - Tool to extract Kerberos tickets from Linux kernel keys.
-- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum
+- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 - [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [emersion/grim](https://github.com/emersion/grim) - Grab images from a Wayland compositor
@@ -150,7 +152,6 @@
 - [scumjr/idontgiveashell](https://github.com/scumjr/idontgiveashell) - Load a .so from network and execute it inside a seccomp sandbox
 - [jamesbarlow/icmptunnel](https://github.com/jamesbarlow/icmptunnel) - Tunnel IP over ICMP.
 - [BenWoodford/gmadconv](https://github.com/BenWoodford/gmadconv) - GMA Converter with Linux compatability
-- [johnno1962/mtar](https://github.com/johnno1962/mtar) - Multi-Threaded tar
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 - [juho-p/fatty](https://github.com/juho-p/fatty) - Tabbed terminal for Cygwin based on mintty
 - [FiloSottile/otherport](https://github.com/FiloSottile/otherport) - LD_PRELOAD hack to redirect connections to other ports
@@ -213,6 +214,7 @@
 
 ## C++ 
 
+- [opencurve/curve](https://github.com/opencurve/curve) - Curve is a high-performance, lightweight-operation, cloud-native open source distributed storage system. Curve can be applied to: 1) mainstream cloud-native infrastructure platforms OpenStack and Kube
 - [jvde-github/AIS-catcher](https://github.com/jvde-github/AIS-catcher) - AIS receiver for RTL SDR dongles, Airspy R2, Airspy Mini, Airspy HF+, HackRF, SDRplay and SoapySDR
 - [jontio/JAERO](https://github.com/jontio/JAERO) - Demodulate and decode Aero signals. These signals contain SatCom ACARS messages as used by planes beyond VHF ACARS range
 - [google/fuse-archive](https://github.com/google/fuse-archive) - FUSE file system for archives and compressed files (ZIP, RAR, 7Z, ISO, TGZ, XZ...)
@@ -342,6 +344,16 @@
 
 ## Go 
 
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
+- [dadrus/heimdall](https://github.com/dadrus/heimdall) - A cloud native Identity Aware Proxy and Access Control Decision service
+- [kubernetes-csi/csi-driver-nfs](https://github.com/kubernetes-csi/csi-driver-nfs) - This driver allows Kubernetes to access NFS server on Linux node.
+- [spiffe/spiffe-csi](https://github.com/spiffe/spiffe-csi) - Container Storage Interface components for SPIFFE
+- [opencurve/curveadm](https://github.com/opencurve/curveadm) - Deploy and manage Curve cluster
+- [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
+- [int128/ktunnels](https://github.com/int128/ktunnels) - Kubernetes controller for port-forwarding from your machine to remote hosts via Envoy TCP proxy
+- [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
+- [loxilb-io/kube-loxilb](https://github.com/loxilb-io/kube-loxilb) - Implementation of kubernetes service load-balancer spec for loxilb
+- [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native service load-balancer. Powering K8s|Edge|5G|IoT|XaaS Apps.
 - [jerbob92/hoppscotch-backend](https://github.com/jerbob92/hoppscotch-backend) - 
 - [vouch-opensource/containerd-healthcheck](https://github.com/vouch-opensource/containerd-healthcheck) - Simple daemon that performs health checks and auto-restart unhealthy container tasks
 - [Octops/gameserver-ingress-controller](https://github.com/Octops/gameserver-ingress-controller) - Automatic Ingress configuration for Game Servers managed by Agones
@@ -528,7 +540,6 @@
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [mission-liao/dingo](https://github.com/mission-liao/dingo) - An easy-to-use, distributed, extensible task/job queue framework for #golang
 - [denverquane/goblockshare](https://github.com/denverquane/goblockshare) - File-sharing torrent platform using blockchain for robust user reputation and reliability scoring
-- [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
 - [go-redis/cache](https://github.com/go-redis/cache) - Cache library with Redis backend for Golang
 - [kubernetes-operators-book/chapters](https://github.com/kubernetes-operators-book/chapters) - Source code for the examples in "Kubernetes Operators" by Jason Dobies and Joshua Wood, O'Reilly, 2020
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
@@ -543,7 +554,7 @@
 - [fluxcd/kustomize-controller](https://github.com/fluxcd/kustomize-controller) - The GitOps Toolkit Kustomize reconciler
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
 - [CentaurusInfra/arktos](https://github.com/CentaurusInfra/arktos) - Arktos for large-scale cloud platform
-- [dragonflyoss/Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly is an intelligent P2P based image and file distribution system.
+- [dragonflyoss/Dragonfly](https://github.com/dragonflyoss/Dragonfly) - This repository has be archived and moved to the new repository https://github.com/dragonflyoss/Dragonfly2.
 - [wunderio/csi-rclone](https://github.com/wunderio/csi-rclone) - CSI driver for rclone
 - [xcnt/kubernetes-update-manager](https://github.com/xcnt/kubernetes-update-manager) - A manager to update deployments with migration jobs in Kubernetes.
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
@@ -854,6 +865,7 @@
 
 ## Java 
 
+- [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [kvaster/iptv-proxy](https://github.com/kvaster/iptv-proxy) - Simple iptv restreamer
 - [prometheus/cloudwatch_exporter](https://github.com/prometheus/cloudwatch_exporter) - Metrics exporter for Amazon AWS CloudWatch
 - [GoogleCloudPlatform/pubsub](https://github.com/GoogleCloudPlatform/pubsub) - This repository contains open-source projects managed by the owners of Google Cloud Pub/Sub.
@@ -1154,6 +1166,9 @@
 
 ## Others 
 
+- [jettracker-org/flight-emissions](https://github.com/jettracker-org/flight-emissions) - An npm package that can be used to calculate the CO2 emissions of flights.
+- [jettracker-org/plane-finder](https://github.com/jettracker-org/plane-finder) - An npm package that can be used to find information about planes.
+- [ory/kratos-maester](https://github.com/ory/kratos-maester) - 
 - [nelsonjchen/gargantuan-takeout-rocket](https://github.com/nelsonjchen/gargantuan-takeout-rocket) - 🚀 Backup Google Takeout archives (like your YouTube channel and Google Photos) at 1GB/s+ to Azure Storage periodically with minimal human toil and financial cost
 - [siderolabs/contrib](https://github.com/siderolabs/contrib) - talos/sidero setup examples
 - [SLKTH/rijksoverheidfonts](https://github.com/SLKTH/rijksoverheidfonts) - Fonts files used by Dutch Government (Rijksoverheid)
@@ -1196,7 +1211,6 @@
 - [pcm-dpc/COVID-19](https://github.com/pcm-dpc/COVID-19) - COVID-19 Italia - Monitoraggio situazione
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
-- [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
 - [justinamiller/SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) - Path to a Software Architect
 - [operator-framework/awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
 - [alichnewsky/pixelbook-galliumos](https://github.com/alichnewsky/pixelbook-galliumos) - Getting my new chromebook to dual boot Linux (Gallium OS)
@@ -1313,6 +1327,12 @@
 
 ## Python 
 
+- [martin-kokos/pdf_api](https://github.com/martin-kokos/pdf_api) - PDF content extraction API
+- [ggoodloff/AnyFlightTracker](https://github.com/ggoodloff/AnyFlightTracker) - ADSB trackerbot that posts to Facebook and/or Twitter.  Heavily modified unattached fork of OverPutney
+- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
+- [icgood/proxy-protocol](https://github.com/icgood/proxy-protocol) - PROXY protocol library with asyncio server implementation
+- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
+- [wiedehopf/tar1090-db](https://github.com/wiedehopf/tar1090-db) - Database repo for tar1090 using the database maintained by https://github.com/Mictronics/readsb
 - [jb2170/better-adb-sync](https://github.com/jb2170/better-adb-sync) - Completely rewritten adbsync with proper --exclude
 - [ggoodloff/AircraftTracker-v2](https://github.com/ggoodloff/AircraftTracker-v2) - 
 - [openmaptiles/openmaptiles-tools](https://github.com/openmaptiles/openmaptiles-tools) - Tools to turn the schema into other formats
@@ -1322,12 +1342,12 @@
 - [Sky360-Repository/simpletracker-ros2-ws](https://github.com/Sky360-Repository/simpletracker-ros2-ws) - 
 - [pogzyb/asyncwhois](https://github.com/pogzyb/asyncwhois) - asyncio-compatible Python module for retrieving and parsing WHOIS information for any domain.
 - [canonical/grafana-agent-k8s-operator](https://github.com/canonical/grafana-agent-k8s-operator) - Grafana Agent is a telemetry collector for sending metrics, logs, and trace data to the opinionated Grafana observability stack.
-- [adsblol/api](https://github.com/adsblol/api) - 
+- [adsblol/api](https://github.com/adsblol/api) - ADSB.lol API - Live air traffic (ADS-B / MLAT / UAT)
 - [claws/dump1090-exporter](https://github.com/claws/dump1090-exporter) - A Prometheus metrics exporter for the dump1090 Mode S decoder for RTLSDR
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emer
 - [wiedehopf/mlat-server](https://github.com/wiedehopf/mlat-server) - Mode S multilateration server
 - [itsnebulalol/chatgpt-proxy](https://github.com/itsnebulalol/chatgpt-proxy) - Proxy for ChatGPT, handles auth and prompts
-- [vvanglro/cf-clearance](https://github.com/vvanglro/cf-clearance) - Purpose To make a cloudflare challenge pass successfully, Can be use cf_clearance bypassed by cloudflare, However, with the cf_clearance, make sure you use the same IP and UA as when you got it.
+- [vvanglro/cf-clearance](https://github.com/vvanglro/cf-clearance) - Purpose To make a cloudflare v2 challenge pass successfully, Can be use cf_clearance bypassed by cloudflare, However, with the cf_clearance, make sure you use the same IP and UA as when you got it.
 - [JurajNyiri/HomeAssistant-Tapo-Control](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control) - Control for Tapo cameras as a Home Assistant component
 - [paolo-projects/unlocker](https://github.com/paolo-projects/unlocker) - VMware Workstation macOS
 - [shanyungyang/esxi-unlocker](https://github.com/shanyungyang/esxi-unlocker) - VMware ESXi macOS
@@ -1473,7 +1493,6 @@
 - [rachmadaniHaryono/iqdb_tagger](https://github.com/rachmadaniHaryono/iqdb_tagger) - Search IQDB from CLI
 - [KichangKim/DeepDanbooru](https://github.com/KichangKim/DeepDanbooru) - AI based multi-label girl image classification system, implemented by using TensorFlow.
 - [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
-- [sfanous/IPTVProxy](https://github.com/sfanous/IPTVProxy) - A playlist generator and PVR for IPTV providers written in Python 3
 - [capitalone/slackbot-destroyer](https://github.com/capitalone/slackbot-destroyer) - :mega: :x: Slack integration that can destroy all incoming messages from Slackbot.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [alexdredmon/cuteuid](https://github.com/alexdredmon/cuteuid) - Generate cute UIDs
@@ -1682,6 +1701,8 @@
 
 ## Rust 
 
+- [NLnetLabs/krill](https://github.com/NLnetLabs/krill) - RPKI Certificate Authority and Publication Server written in Rust
+- [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [timvisee/lazymc](https://github.com/timvisee/lazymc) - 💤 Put your Minecraft server to rest when idle.
 - [rsadsb/adsb_deku](https://github.com/rsadsb/adsb_deku) - ✈️ Rust ADS-B decoder + tui radar application
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
@@ -1846,10 +1867,11 @@
 ## Svelte 
 
 - [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source web IDE, scalable runtime and platform for serverless, workflows and UIs
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 
 ## Swift 
 
+- [0x0XDev/JamWiFi](https://github.com/0x0XDev/JamWiFi) - A GUI, easy to use WiFi network jammer for Mac OS X
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
@@ -1857,10 +1879,14 @@
 
 ## TypeScript 
 
-- [jettracker-org/jettracker](https://github.com/jettracker-org/jettracker) - Web interface  that can be used to track the jets of (wealthy) individuals and companies and hold them accountable for their flight CO2 emissions.
+- [dfoxg/kratos-admin-ui](https://github.com/dfoxg/kratos-admin-ui) - A simple Admin-Interface for ory/kratos
+- [ory/kratos-selfservice-ui-react-nextjs](https://github.com/ory/kratos-selfservice-ui-react-nextjs) - A full reference implementation for designing your own login, registration, recovery, verification, ... pages using Ory Kratos' APIs.
+- [ory/hydra-login-consent-node](https://github.com/ory/hydra-login-consent-node) - This is an ExpressJS reference implementation for the ORY Hydra User Login and Consent interface written in TypeScript and ExpressJS.
+- [ory/kratos-selfservice-ui-node](https://github.com/ory/kratos-selfservice-ui-node) - 
+- [pixelomer/discord-fs](https://github.com/pixelomer/discord-fs) - Discord as a filesystem
 - [ADSB-One/site](https://github.com/ADSB-One/site) - ADSB One site
 - [usimd/pi-gen-action](https://github.com/usimd/pi-gen-action) - Action to build Raspberry Pi images using official pi-gen tool
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
