@@ -91,6 +91,10 @@
 
 ## C 
 
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+- [brendangregg/wss](https://github.com/brendangregg/wss) - Working Set Size tools
 - [nbs-system/naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
 - [swenson/sort](https://github.com/swenson/sort) - Sorting routine implementations in "template" C
 - [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
@@ -223,6 +227,7 @@
 
 ## C++ 
 
+- [facebookincubator/oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
 - [SpiderLabs/ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming langu
 - [opencurve/curve](https://github.com/opencurve/curve) - Curve is a high-performance, lightweight-operation, cloud-native open source distributed storage system. Curve can be applied to: 1) mainstream cloud-native infrastructure platforms OpenStack and Kube
 - [jvde-github/AIS-catcher](https://github.com/jvde-github/AIS-catcher) - AIS receiver for RTL SDR dongles, Airspy R2, Airspy Mini, Airspy HF+, HackRF, SDRplay and SoapySDR
@@ -305,6 +310,7 @@
 
 ## Clojure 
 
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [commsor/titanoboa](https://github.com/commsor/titanoboa) - Titanoboa makes complex workflows easy. It is a low-code workflow orchestration platform for JVM - distributed, highly scalable and fault tolerant.
 - [athensresearch/athens](https://github.com/athensresearch/athens) - ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
 - [jeremykross/konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
@@ -354,6 +360,17 @@
 
 ## Go 
 
+- [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
+- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Cloud-native Runtime Security Enforcement System. [CNCF Sandbox Project]
+- [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding
+- [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
+- [siderolabs/cluster-api-control-plane-provider-talos](https://github.com/siderolabs/cluster-api-control-plane-provider-talos) - A control plane provider for CAPI + Talos
+- [kubernetes-sigs/ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) - Convert Ingress resources to Gateway API resources
+- [mfuentesg/ksd](https://github.com/mfuentesg/ksd) - kubernetes secret decoder
+- [jianz/k8s-reset-terminating-pv](https://github.com/jianz/k8s-reset-terminating-pv) - Reset persistent volume status from terminating back to bound.
+- [jpbetz/auger](https://github.com/jpbetz/auger) - Directly access data objects stored in etcd by kubernetes.
+- [xetorthio/etcd-fs](https://github.com/xetorthio/etcd-fs) - Use etcd as a filesystem
+- [c4milo/github-release](https://github.com/c4milo/github-release) - Simple Github release command line tool
 - [vmware-archive/ironclad](https://github.com/vmware-archive/ironclad) - Web Application Firewall (WAF) on Kubernetes
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [dadrus/heimdall](https://github.com/dadrus/heimdall) - A cloud native Identity Aware Proxy and Access Control Decision service
@@ -364,7 +381,7 @@
 - [int128/ktunnels](https://github.com/int128/ktunnels) - Kubernetes controller for port-forwarding from your machine to remote hosts via Envoy TCP proxy
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [loxilb-io/kube-loxilb](https://github.com/loxilb-io/kube-loxilb) - Implementation of kubernetes service load-balancer spec for loxilb
-- [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native service load-balancer. Powering K8s|Edge|5G|IoT|XaaS Apps.
+- [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native load-balancer. Powering K8s|Edge|5G|IoT|XaaS Apps.
 - [jerbob92/hoppscotch-backend](https://github.com/jerbob92/hoppscotch-backend) - 
 - [vouch-opensource/containerd-healthcheck](https://github.com/vouch-opensource/containerd-healthcheck) - Simple daemon that performs health checks and auto-restart unhealthy container tasks
 - [Octops/gameserver-ingress-controller](https://github.com/Octops/gameserver-ingress-controller) - Automatic Ingress configuration for Game Servers managed by Agones
@@ -473,7 +490,7 @@
 - [nrvnrvn/secreter](https://github.com/nrvnrvn/secreter) - Kubernetes operator and CLI tool for encrypting and managing Kubernetes secrets
 - [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd.
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
-- [DaoDeCyrus/horoscope-api](https://github.com/DaoDeCyrus/horoscope-api) - An API server for The Onion's horoscopes
+- [CyrusOfEden/horoscope-api](https://github.com/CyrusOfEden/horoscope-api) - An API server for The Onion's horoscopes
 - [flynn/flynn](https://github.com/flynn/flynn) - [UNMAINTAINED] A next generation open source platform as a service (PaaS)
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [jamesog/scan](https://github.com/jamesog/scan) - Import and display Masscan data
@@ -518,7 +535,6 @@
 - [kubernetes-sigs/cluster-addons](https://github.com/kubernetes-sigs/cluster-addons) - Addon operators for Kubernetes clusters.
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [boypt/simple-torrent](https://github.com/boypt/simple-torrent) - ☁️ Simple Torrent: a self-hosted remote torrent client (rebranded from Cloud Torrent)
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [Rhymen/go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API
 - [mautrix/whatsapp](https://github.com/mautrix/whatsapp) - A Matrix-WhatsApp puppeting bridge
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
@@ -910,6 +926,8 @@
 
 ## JavaScript 
 
+- [rtts/photog](https://github.com/rtts/photog) - The static photography website generator used by Super Formosa Photography
+- [fratsloos/fr24_card](https://github.com/fratsloos/fr24_card) - Lovelace card for showing Dump1090 data from FR24 in Home Assistant
 - [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.
 - [FactorioBlueprints/factorio-prints](https://github.com/FactorioBlueprints/factorio-prints) - factorioprints.com
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
@@ -1139,7 +1157,6 @@
 
 ## Makefile 
 
-- [remyleone/crossplane-scaleway-provider](https://github.com/remyleone/crossplane-scaleway-provider) - Scaleway provider for Crossplane
 - [masipcat/wireguard-go-docker](https://github.com/masipcat/wireguard-go-docker) - Wireguard docker image
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [patrickod/docker-tor](https://github.com/patrickod/docker-tor) - A docker'ized internal-only tor relay.
@@ -1224,7 +1241,7 @@
 - [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
 - [nglgzz/awesome-clean-tech](https://github.com/nglgzz/awesome-clean-tech) - A community curated list of awesome clean tech companies
 - [maco2035/DiyHeliumHotspots](https://github.com/maco2035/DiyHeliumHotspots) - Here is a guide to build your own hotspots!
-- [zactly/handouts](https://github.com/zactly/handouts) - materials we hand out
+- [absoluteappsec/handouts](https://github.com/absoluteappsec/handouts) - materials we hand out
 - [climate-strike/license](https://github.com/climate-strike/license) - Prevent oil and gas companies from co-opting your work and extracting more fossil fuels with this software license.
 - [tdwyer/CVE-2020-8559](https://github.com/tdwyer/CVE-2020-8559) - This is a PoC exploit for CVE-2020-8559 Kubernetes Vulnerability
 - [ignis-sec/Pwdb-Public](https://github.com/ignis-sec/Pwdb-Public) - A collection of all the data i could extract from 1 billion leaked credentials from internet.
@@ -1347,6 +1364,15 @@
 
 ## Python 
 
+- [yizhongw/self-instruct](https://github.com/yizhongw/self-instruct) - Aligning pretrained language models with instruction data generated by themselves.
+- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
+- [jankais3r/LLaMA_MPS](https://github.com/jankais3r/LLaMA_MPS) - Run LLaMA inference on Apple Silicon GPUs.
+- [matrix-org/pantalaimon](https://github.com/matrix-org/pantalaimon) - E2EE aware proxy daemon for matrix clients.
+- [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
+- [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+- [qwopqwop200/GPTQ-for-LLaMa](https://github.com/qwopqwop200/GPTQ-for-LLaMa) - 4 bits quantization of LLaMa using GPTQ
+- [lshqqytiger/llama-directml](https://github.com/lshqqytiger/llama-directml) - [NOT TESTED!] Inference code for LLaMA models
+- [tloen/llama-int8](https://github.com/tloen/llama-int8) - Quantized inference code for LLaMA models
 - [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems
 - [EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f) - WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website.
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
@@ -1360,7 +1386,6 @@
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
 - [wiedehopf/tar1090-db](https://github.com/wiedehopf/tar1090-db) - Database repo for tar1090 using the database maintained by https://github.com/Mictronics/readsb
 - [jb2170/better-adb-sync](https://github.com/jb2170/better-adb-sync) - Completely rewritten adbsync with proper --exclude
-- [ggoodloff/AircraftTracker-v2](https://github.com/ggoodloff/AircraftTracker-v2) - 
 - [openmaptiles/openmaptiles-tools](https://github.com/openmaptiles/openmaptiles-tools) - Tools to turn the schema into other formats
 - [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
 - [pyca/bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers
@@ -1727,6 +1752,8 @@
 
 ## Rust 
 
+- [mrjackwills/adsbdb](https://github.com/mrjackwills/adsbdb) - public api for aircraft, airlines, & flightroutes
+- [linchpiner/cgroup-memory-manager](https://github.com/linchpiner/cgroup-memory-manager) - Force page reclaim in cgroups when their cache usage is higher than the specified threshold
 - [NLnetLabs/krill](https://github.com/NLnetLabs/krill) - RPKI Certificate Authority and Publication Server written in Rust
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [timvisee/lazymc](https://github.com/timvisee/lazymc) - 💤 Put your Minecraft server to rest when idle.
@@ -1952,6 +1979,7 @@
 - [game-ci/unity-builder](https://github.com/game-ci/unity-builder) - Build Unity projects for different platforms
 - [matrix-org/matrix-appservice-discord](https://github.com/matrix-org/matrix-appservice-discord) - A bridge between Matrix and Discord.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [ottomated/CrewLink-server](https://github.com/ottomated/CrewLink-server) - Voice Relay server for CrewLink.
 - [ottomated/CrewLink](https://github.com/ottomated/CrewLink) - Free, open, Among Us Proximity Chat
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
