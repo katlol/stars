@@ -13,6 +13,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
@@ -86,11 +87,13 @@
 
 ## Batchfile 
 
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
 - [brokenw1nter/VACErrorInstaFixer](https://github.com/brokenw1nter/VACErrorInstaFixer) - A very simple batch file which helps fix the Valve Anti-Cheat error message, "Disconnected by VAC: You cannot play on secured servers". Which can be caused by multiple things such as an anti-virus/mal
 
 ## C 
 
+- [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
@@ -290,6 +293,10 @@
 - [mmozeiko/aes-finder](https://github.com/mmozeiko/aes-finder) - Utility to find AES keys in running processes
 - [OrfeasZ/SteamLinkFilterDisabler](https://github.com/OrfeasZ/SteamLinkFilterDisabler) - Disables Steam's check for 'malicious' links, making it instantly launch any clicked link.
 
+## CMake 
+
+- [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - 
+
 ## CSS 
 
 - [deis/workflow](https://github.com/deis/workflow) - The open source PaaS for Kubernetes.
@@ -340,6 +347,7 @@
 
 ## Dockerfile 
 
+- [76rhodan/docker-virtualradarserver](https://github.com/76rhodan/docker-virtualradarserver) - Dockerized version of VirtualRadarServer
 - [ihadeed/pavlov-vr-server](https://github.com/ihadeed/pavlov-vr-server) - Docker image to run Pavlov VR Dedicated Server
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [odarriba/docker-timemachine](https://github.com/odarriba/docker-timemachine) - A docker container that compiles the lastest Netatalk to run a Time Machine server.
@@ -360,6 +368,11 @@
 
 ## Go 
 
+- [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
+- [go-skynet/llama-cli](https://github.com/go-skynet/llama-cli) - :camel: self-hosted, Simple LLaMA/alpaca API & CLI written in go
+- [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm) - Aggregator for issues filed against kubeadm
+- [SSLMate/certspotter](https://github.com/SSLMate/certspotter) - Certificate Transparency Log Monitor
+- [SierraSoftworks/honeypot](https://github.com/SierraSoftworks/honeypot) - A service designed to track malicious SSH login attempts
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Cloud-native Runtime Security Enforcement System. [CNCF Sandbox Project]
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding
@@ -483,6 +496,7 @@
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
 - [ory/oathkeeper-maester](https://github.com/ory/oathkeeper-maester) - Kuberenetes CRD Controller for Ory Oathkeeper. :warning: Maintained by the community, not an official Ory project!
 - [benjojo/sping](https://github.com/benjojo/sping) - Split ping, see what direction the loss or latency is on
+- [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [bitpoke/mysql-operator](https://github.com/bitpoke/mysql-operator) - Asynchronous MySQL Replication on Kubernetes using Percona Server and Openark's Orchestrator.
 - [bitpoke/wordpress-operator](https://github.com/bitpoke/wordpress-operator) - Bitpoke Kubernetes operator for WordPress
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
@@ -847,12 +861,12 @@
 
 ## HTML 
 
+- [Amsterdam/tiles](https://github.com/Amsterdam/tiles) - All sorts of vector and raster tiles for Amsterdam
 - [wiedehopf/mlat-server-sync-map](https://github.com/wiedehopf/mlat-server-sync-map) - Map and sync table to show sync status for mlat-server
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [ibuildthecloud/iwontbuyadomain](https://github.com/ibuildthecloud/iwontbuyadomain) - I won't buy a domain.
 - [LovelaceEngineering/lovelace.engineering](https://github.com/LovelaceEngineering/lovelace.engineering) - Lovelace Engineering website
 - [kyuoven/html-learning](https://github.com/kyuoven/html-learning) - Responsive Web Design course via freeCodeCamp.com
-- [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
@@ -926,6 +940,7 @@
 
 ## JavaScript 
 
+- [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers
 - [rtts/photog](https://github.com/rtts/photog) - The static photography website generator used by Super Formosa Photography
 - [fratsloos/fr24_card](https://github.com/fratsloos/fr24_card) - Lovelace card for showing Dump1090 data from FR24 in Home Assistant
 - [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.
@@ -1116,7 +1131,6 @@
 
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 - [PipelineAI/pipeline](https://github.com/PipelineAI/pipeline) - PipelineAI Kubeflow Distribution
-- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 
 ## Julia 
 
@@ -1124,6 +1138,7 @@
 
 ## Jupyter Notebook 
 
+- [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [88lex/safire](https://github.com/88lex/safire) - 
 - [TetsumichiUmada/text2emoji](https://github.com/TetsumichiUmada/text2emoji) - Predict an emoji that is associated with a text
@@ -1139,6 +1154,7 @@
 
 ## Kotlin 
 
+- [rrerrNet/Minetrix](https://github.com/rrerrNet/Minetrix) - A Spigot/PaperMC plug-in for connecting your Minecraft server with a Matrix room.
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [Jire/Charlatano](https://github.com/Jire/Charlatano) - Proves JVM cheats are viable on native games, and demonstrates the longevity against anti-cheat signature detection systems
 - [RatPoison-dev/RatPoison](https://github.com/RatPoison-dev/RatPoison) - Latest Ver: 1.7; Default Menu Key is F1; Charlatano's Successor; dn
@@ -1157,6 +1173,7 @@
 
 ## Makefile 
 
+- [giantswarm/cluster-api-monitoring-app](https://github.com/giantswarm/cluster-api-monitoring-app) - 
 - [masipcat/wireguard-go-docker](https://github.com/masipcat/wireguard-go-docker) - Wireguard docker image
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [patrickod/docker-tor](https://github.com/patrickod/docker-tor) - A docker'ized internal-only tor relay.
@@ -1201,12 +1218,14 @@
 
 ## Others 
 
+- [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group
+- [vradarserver/standing-data](https://github.com/vradarserver/standing-data) - Dumps of aviation data from Virtual Radar Server's SDM site.
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
 - [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
 - [jettracker-org/flight-emissions](https://github.com/jettracker-org/flight-emissions) - An npm package that can be used to calculate the CO2 emissions of flights.
 - [jettracker-org/plane-finder](https://github.com/jettracker-org/plane-finder) - An npm package that can be used to find information about planes.
 - [ory/kratos-maester](https://github.com/ory/kratos-maester) - 
-- [nelsonjchen/gargantuan-takeout-rocket](https://github.com/nelsonjchen/gargantuan-takeout-rocket) - 🚀 Backup Google Takeout archives (like your YouTube channel and Google Photos) at 1GB/s+ to Azure Storage periodically with minimal human toil and financial cost
+- [nelsonjchen/gargantuan-takeout-rocket](https://github.com/nelsonjchen/gargantuan-takeout-rocket) - 🚀 Backup Google Takeout archives (YouTube channel and Google Photos) at 1GB/s+ to Azure Storage periodically with minimal human toil and financial cost
 - [siderolabs/contrib](https://github.com/siderolabs/contrib) - talos/sidero setup examples
 - [SLKTH/rijksoverheidfonts](https://github.com/SLKTH/rijksoverheidfonts) - Fonts files used by Dutch Government (Rijksoverheid)
 - [OpenSourceEBike/TSDZ2_wiki](https://github.com/OpenSourceEBike/TSDZ2_wiki) - 
@@ -1364,9 +1383,12 @@
 
 ## Python 
 
+- [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source.
+- [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 - [yizhongw/self-instruct](https://github.com/yizhongw/self-instruct) - Aligning pretrained language models with instruction data generated by themselves.
 - [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
-- [jankais3r/LLaMA_MPS](https://github.com/jankais3r/LLaMA_MPS) - Run LLaMA inference on Apple Silicon GPUs.
+- [jankais3r/LLaMA_MPS](https://github.com/jankais3r/LLaMA_MPS) - Run LLaMA (and Stanford-Alpaca) inference on Apple Silicon GPUs.
 - [matrix-org/pantalaimon](https://github.com/matrix-org/pantalaimon) - E2EE aware proxy daemon for matrix clients.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
@@ -1752,6 +1774,7 @@
 
 ## Rust 
 
+- [setzer22/llama-rs](https://github.com/setzer22/llama-rs) - Run LLaMA inference on CPU, with Rust 🦀🚀🦙
 - [mrjackwills/adsbdb](https://github.com/mrjackwills/adsbdb) - public api for aircraft, airlines, & flightroutes
 - [linchpiner/cgroup-memory-manager](https://github.com/linchpiner/cgroup-memory-manager) - Force page reclaim in cgroups when their cache usage is higher than the specified threshold
 - [NLnetLabs/krill](https://github.com/NLnetLabs/krill) - RPKI Certificate Authority and Publication Server written in Rust
@@ -1800,7 +1823,9 @@
 
 ## Shell 
 
-- [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
+- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
+- [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
+- [sdr-enthusiasts/docker-virtualradarserver](https://github.com/sdr-enthusiasts/docker-virtualradarserver) - 
 - [kboghdady/youTube_ads_4_pi-hole](https://github.com/kboghdady/youTube_ads_4_pi-hole) - YouTube script to add the new Ads list for Pi-hole
 - [ketilmo/balena-ads-b](https://github.com/ketilmo/balena-ads-b) - ADS-B Flight Tracker running on balena with support for FlightAware, Flightradar24, PlaneFinder, OpenSky Network, RadarBox, ADSB Exchange, and UAT.
 - [Okazakee/mcserver-lazymc-docker](https://github.com/Okazakee/mcserver-lazymc-docker) - This is a Linux Docker image for creating Minecraft servers using lazymc with a lot of parameters.
@@ -1935,6 +1960,7 @@
 
 ## TypeScript 
 
+- [giantswarm/happa](https://github.com/giantswarm/happa) - Web user interface for Giant Swarm – Beyond managed Kubernetes
 - [NicoKandut/factorio-solar-art](https://github.com/NicoKandut/factorio-solar-art) - Converts pictures into blueprints for solar farms.
 - [matrixgpt/matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - Talk to ChatGPT via any Matrix client!
 - [matrix-org/conference-bot](https://github.com/matrix-org/conference-bot) - The conductor for your orchestra^Wconference
@@ -2010,6 +2036,7 @@
 - [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [GoogleCloudPlatform/policy-library](https://github.com/GoogleCloudPlatform/policy-library) - A library of constraint templates and sample constraints for Constraint Framework tools
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Simplify your code production through the world’s largest open-source feature management platform.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
