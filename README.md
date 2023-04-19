@@ -79,6 +79,7 @@
 
 ## Adblock Filter List 
 
+- [mchangrh/yt-neuter](https://github.com/mchangrh/yt-neuter) - uBlock filter(s) list for blocking unwanted YouTube elements
 - [AdguardTeam/AdGuardSDNSFilter](https://github.com/AdguardTeam/AdGuardSDNSFilter) - AdGuard Simplified Domain names filter
 - [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 
@@ -375,6 +376,11 @@
 
 ## Go 
 
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
+- [pharmer/pharmer](https://github.com/pharmer/pharmer) - 🌾 Kubernetes Cluster Manager using Kubeadm & Cluster API
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
+- [oracle/cluster-api-provider-oci](https://github.com/oracle/cluster-api-provider-oci) - Kubernetes Cluster API Provider for Oracle Cloud Infrastructure
+- [derwiki/go-chatgpt](https://github.com/derwiki/go-chatgpt) - A Go CLI program sends a prompt to the ChatGPT API for several models, prints the generated response for each, and then sends all the responses to chatgpt-3.5-turbo to ask which is best.
 - [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger
 - [donuts-are-good/shhhbb](https://github.com/donuts-are-good/shhhbb) - bbs based on SSH
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -386,7 +392,7 @@
 - [solo-io/unik](https://github.com/solo-io/unik) - The Unikernel & MicroVM Compilation and Deployment Platform
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
-- [go-skynet/llama-cli](https://github.com/go-skynet/llama-cli) - :camel: self-hosted, Simple LLaMA/alpaca/gpt4all API & CLI written in go
+- [go-skynet/llama-cli](https://github.com/go-skynet/llama-cli) - :camel: self-hosted, Simple LLaMA/alpaca/gpt4all OpenAI compatible API & CLI written in go
 - [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm) - Aggregator for issues filed against kubeadm
 - [SSLMate/certspotter](https://github.com/SSLMate/certspotter) - Certificate Transparency Log Monitor
 - [SierraSoftworks/honeypot](https://github.com/SierraSoftworks/honeypot) - A service designed to track malicious SSH login attempts
@@ -525,7 +531,7 @@
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [jamesog/scan](https://github.com/jamesog/scan) - Import and display Masscan data
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
-- [fluxcd/terraform-provider-flux](https://github.com/fluxcd/terraform-provider-flux) - Terraform provider for Flux version 2
+- [fluxcd/terraform-provider-flux](https://github.com/fluxcd/terraform-provider-flux) - Terraform provider for bootstrapping Flux
 - [openelb/openelb](https://github.com/openelb/openelb) - Load Balancer Implementation for Kubernetes in Bare-Metal, Edge, and Virtualization
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
@@ -534,7 +540,7 @@
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
 - [keel-hq/keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
-- [inlets/inlets-operator](https://github.com/inlets/inlets-operator) - Get public LoadBalancers on your local Kubernetes clusters
+- [inlets/inlets-operator](https://github.com/inlets/inlets-operator) - Get public TCP LoadBalancers for local Kubernetes clusters
 - [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 - [caos/orbos](https://github.com/caos/orbos) - ORBOS - GitOps everything
 - [caos/boom](https://github.com/caos/boom) - Operator to deploy a defined toolsets into K8s, think paas but less lock-in
@@ -849,7 +855,7 @@
 - [eliukblau/pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
 - [irccloud/irccat](https://github.com/irccloud/irccat) - cat to IRC
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
-- [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
+- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
 - [longhorn/longhorn-engine](https://github.com/longhorn/longhorn-engine) - World's smallest storage controller
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -878,6 +884,7 @@
 
 ## HTML 
 
+- [gaul/object-store-comparison](https://github.com/gaul/object-store-comparison) - Compare cost, durability, and region support of public cloud object stores, e.g., Amazon S3
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [Amsterdam/tiles](https://github.com/Amsterdam/tiles) - All sorts of vector and raster tiles for Amsterdam
 - [wiedehopf/mlat-server-sync-map](https://github.com/wiedehopf/mlat-server-sync-map) - Map and sync table to show sync status for mlat-server
@@ -1014,7 +1021,6 @@
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [trailofbits/tubertc](https://github.com/trailofbits/tubertc) - Peer-to-Peer Video Chat for Corporate LANs
 - [gjovanov/roomler](https://github.com/gjovanov/roomler) - Roomler - Multi-party Video Conferencing & Team Collaboration Tool using WebRTC (Janus Gateway)
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
 - [dosyago/DiskerNet](https://github.com/dosyago/DiskerNet) - 💾 DiskerNet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect 
@@ -1160,6 +1166,7 @@
 
 ## Jupyter Notebook 
 
+- [kw2828/Dolly-2.0-Series](https://github.com/kw2828/Dolly-2.0-Series) - Resources for running, fine-tuning, and inferencing Dolly 2.0
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
@@ -1190,6 +1197,7 @@
 
 - [ntop/nProbe](https://github.com/ntop/nProbe) - Open source components and extensions for nProbe
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [gawen/WireHub](https://github.com/gawen/WireHub) - 🌍 Decentralized, peer-to-peer and secure overlay networks
 - [stevesloka/kubecraft](https://github.com/stevesloka/kubecraft) - Kubernetes + Minecraft = Kubecraft
@@ -1246,13 +1254,12 @@
 
 ## Others 
 
+- [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
 - [open-product-data/digital-cameras](https://github.com/open-product-data/digital-cameras) - The most complete and accurate digital camera* data on the internet, assembled and maintained by the community.
 - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group
 - [vradarserver/standing-data](https://github.com/vradarserver/standing-data) - Dumps of aviation data from Virtual Radar Server's SDM site.
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
 - [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
-- [jettracker-org/flight-emissions](https://github.com/jettracker-org/flight-emissions) - An npm package that can be used to calculate the CO2 emissions of flights.
-- [jettracker-org/plane-finder](https://github.com/jettracker-org/plane-finder) - An npm package that can be used to find information about planes.
 - [ory/kratos-maester](https://github.com/ory/kratos-maester) - 
 - [nelsonjchen/gargantuan-takeout-rocket](https://github.com/nelsonjchen/gargantuan-takeout-rocket) - 🚀 Backup Google Takeout archives (YouTube channel and Google Photos) at 1GB/s+ to Azure Storage periodically with minimal human toil and financial cost
 - [siderolabs/contrib](https://github.com/siderolabs/contrib) - talos/sidero setup examples
@@ -1412,8 +1419,13 @@
 
 ## Python 
 
+- [empath-nirvana/magic-happens](https://github.com/empath-nirvana/magic-happens) - A kubernetes operator you should never run under any circumstances
+- [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
+- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
+- [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
+- [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [thammegowda/nllb-serve](https://github.com/thammegowda/nllb-serve) - Meta's "No Language Left Behind" models served as web app and REST API
-- [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [RedisLabs/redis-fs](https://github.com/RedisLabs/redis-fs) - Distributed in memory filesystem
 - [mpaepper/llm_agents](https://github.com/mpaepper/llm_agents) - Build agents which are controlled by LLMs
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
@@ -1999,9 +2011,10 @@
 
 ## TypeScript 
 
+- [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [vector-im/element-call](https://github.com/vector-im/element-call) - Group calls powered by Matrix
-- [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - RedisInsight
+- [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Official and free cross-platform GUI for Redis. RedisInsight provides an intuitive and efficient UI for Redis and Redis Stack and supports CLI interaction in a fully-featured desktop UI client.
 - [giantswarm/happa](https://github.com/giantswarm/happa) - Web user interface for Giant Swarm – Beyond managed Kubernetes
 - [NicoKandut/factorio-solar-art](https://github.com/NicoKandut/factorio-solar-art) - Converts pictures into blueprints for solar farms.
 - [matrixgpt/matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - Talk to ChatGPT via any Matrix client!
