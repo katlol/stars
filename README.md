@@ -95,6 +95,7 @@
 
 ## C 
 
+- [daanx/mimalloc-bench](https://github.com/daanx/mimalloc-bench) - Suite for benchmarking malloc implementations.
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.4 semi-tethered checkm8 jailbreak
 - [JoeDog/siege](https://github.com/JoeDog/siege) - Siege is an http load tester and benchmarking utility
 - [brainhub/SHA3IUF](https://github.com/brainhub/SHA3IUF) - C implementation of the SHA-3 and Keccak with Init/Update/Finalize hashing API (NIST FIPS 202/Etherium)
@@ -376,6 +377,11 @@
 
 ## Go 
 
+- [realyixuan/gsubpy](https://github.com/realyixuan/gsubpy) - An interpreter of subset of Python in Go
+- [giantswarm/etcd-backup-operator](https://github.com/giantswarm/etcd-backup-operator) - Creates etcd backups and uploads them to AWS S3
+- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily.
+- [weaveworks-liquidmetal/cluster-api-provider-microvm](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm) - The Cluster API provider for creating microvm (i.e. Firecracker, Cloud Hypervisor) clusters
+- [kubernetes-sigs/cluster-api-provider-nested](https://github.com/kubernetes-sigs/cluster-api-provider-nested) - Cluster API Provider for Nested Clusters
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [pharmer/pharmer](https://github.com/pharmer/pharmer) - 🌾 Kubernetes Cluster Manager using Kubeadm & Cluster API
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
@@ -392,7 +398,7 @@
 - [solo-io/unik](https://github.com/solo-io/unik) - The Unikernel & MicroVM Compilation and Deployment Platform
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
-- [go-skynet/llama-cli](https://github.com/go-skynet/llama-cli) - :camel: self-hosted, Simple LLaMA/alpaca/gpt4all OpenAI compatible API & CLI written in go
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml comp
 - [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm) - Aggregator for issues filed against kubeadm
 - [SSLMate/certspotter](https://github.com/SSLMate/certspotter) - Certificate Transparency Log Monitor
 - [SierraSoftworks/honeypot](https://github.com/SierraSoftworks/honeypot) - A service designed to track malicious SSH login attempts
@@ -441,7 +447,7 @@
 - [acorn-io/baaah](https://github.com/acorn-io/baaah) - Controller framework born out of frustration
 - [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [gearnode/terraform-kubernetes-get-secret](https://github.com/gearnode/terraform-kubernetes-get-secret) - Terraform module to get value in Kubernetes secrets store
 - [go-webauthn/webauthn](https://github.com/go-webauthn/webauthn) - Webauthn/FIDO2 library in golang
@@ -754,7 +760,7 @@
 - [ameier38/onepassword](https://github.com/ameier38/onepassword) - Thin wrapper around the 1Password CLI for use in Golang
 - [GoogleCloudPlatform/terraform-validator](https://github.com/GoogleCloudPlatform/terraform-validator) - Terraform Validator is not an officially supported Google product; it is a library for conversion of Terraform plan data to CAI Assets. If you have been using terraform-validator directly in the past,
 - [google/cloudprober](https://github.com/google/cloudprober) - [Moved to cloudprober/cloudprober] An active monitoring software to detect failures before your customers do.
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [ipfs-inactive/kubernetes-ipfs](https://github.com/ipfs-inactive/kubernetes-ipfs) - [ARCHIVED] kubernetes-ipfs
 - [kragniz/tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - Gatekeeper - Policy Controller for Kubernetes
@@ -884,6 +890,8 @@
 
 ## HTML 
 
+- [lazyweirdo/osm-ipfs-proxy](https://github.com/lazyweirdo/osm-ipfs-proxy) - Map tile system IPFS based
+- [dirkhh/adsb-pi-setup](https://github.com/dirkhh/adsb-pi-setup) - 
 - [gaul/object-store-comparison](https://github.com/gaul/object-store-comparison) - Compare cost, durability, and region support of public cloud object stores, e.g., Amazon S3
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [Amsterdam/tiles](https://github.com/Amsterdam/tiles) - All sorts of vector and raster tiles for Amsterdam
@@ -966,6 +974,7 @@
 
 ## JavaScript 
 
+- [Thom-x/docker-fr24feed-piaware-dump1090](https://github.com/Thom-x/docker-fr24feed-piaware-dump1090) - Docker image of dump1090-fa, fr24feed, FlightAware, adsbexchange and Plane Finder.
 - [adryd325/oneko.js](https://github.com/adryd325/oneko.js) - cat follow mouse (real). Browser port of the classic xneko/oneko program.
 - [wiedehopf/ol-rollup](https://github.com/wiedehopf/ol-rollup) - OpenLayers + Rollup
 - [kubevirt-ui/kube-gateway](https://github.com/kubevirt-ui/kube-gateway) - Access k8s API using time limited access tokens.
@@ -1419,6 +1428,8 @@
 
 ## Python 
 
+- [kadalu/kadalu](https://github.com/kadalu/kadalu) - A lightweight Persistent storage solution for Kubernetes / OpenShift / Nomad using GlusterFS in background.
+- [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [empath-nirvana/magic-happens](https://github.com/empath-nirvana/magic-happens) - A kubernetes operator you should never run under any circumstances
 - [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
@@ -1438,7 +1449,7 @@
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source.
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 - [yizhongw/self-instruct](https://github.com/yizhongw/self-instruct) - Aligning pretrained language models with instruction data generated by themselves.
-- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
+- [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
 - [jankais3r/LLaMA_MPS](https://github.com/jankais3r/LLaMA_MPS) - Run LLaMA (and Stanford-Alpaca) inference on Apple Silicon GPUs.
 - [matrix-org/pantalaimon](https://github.com/matrix-org/pantalaimon) - E2EE aware proxy daemon for matrix clients.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
@@ -1874,6 +1885,7 @@
 
 ## Shell 
 
+- [dirkhh/adsb-feeder-image](https://github.com/dirkhh/adsb-feeder-image) - Easy to use turn-key SD card image for a number of popular single board computers to run a complete ADS-B feeder
 - [jamesmacwhite/squidguard-adblock](https://github.com/jamesmacwhite/squidguard-adblock) - Converts Adblock Plus lists into expression files that are compatible with squidGuard and ufdbGuard
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
@@ -2014,7 +2026,7 @@
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [vector-im/element-call](https://github.com/vector-im/element-call) - Group calls powered by Matrix
-- [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Official and free cross-platform GUI for Redis. RedisInsight provides an intuitive and efficient UI for Redis and Redis Stack and supports CLI interaction in a fully-featured desktop UI client.
+- [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
 - [giantswarm/happa](https://github.com/giantswarm/happa) - Web user interface for Giant Swarm – Beyond managed Kubernetes
 - [NicoKandut/factorio-solar-art](https://github.com/NicoKandut/factorio-solar-art) - Converts pictures into blueprints for solar farms.
 - [matrixgpt/matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - Talk to ChatGPT via any Matrix client!
