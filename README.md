@@ -96,10 +96,10 @@
 ## C 
 
 - [wiedehopf/s6wrap](https://github.com/wiedehopf/s6wrap) - wrapper to prepend to text output and linewise merge stdout / stderr to either stderr or stdout.
-- [cnlohr/rv003usb](https://github.com/cnlohr/rv003usb) - WIP DOES NOT WORK Bit banged USB stack for the RISC-V WCH CH32V003
+- [cnlohr/rv003usb](https://github.com/cnlohr/rv003usb) - CH32V003 RISC-V Pure Software USB Controller
 - [antirez/protoview](https://github.com/antirez/protoview) - Flipper Zero app to display known and unknown signals
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
-- [cnlohr/ch32v003fun](https://github.com/cnlohr/ch32v003fun) - An open source software development stack for the CH32V003, a 10 cent 48 MHz RISC-V Microcontroller
+- [cnlohr/ch32v003fun](https://github.com/cnlohr/ch32v003fun) - An open source software development stack for the CH32V003, a 10¢ 48 MHz RISC-V Microcontroller
 - [kaniini/envsubst](https://github.com/kaniini/envsubst) - 
 - [daanx/mimalloc-bench](https://github.com/daanx/mimalloc-bench) - Suite for benchmarking malloc implementations.
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.5 semi-tethered checkm8 jailbreak
@@ -199,6 +199,7 @@
 
 ## C# # 
 
+- [MinBZK/woo-besluit-broncode-digid-app](https://github.com/MinBZK/woo-besluit-broncode-digid-app) - 
 - [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
 - [Webreaper/SonarrAutoImport](https://github.com/Webreaper/SonarrAutoImport) - Scan video files and submit them to import into Sonarr, Drone-factory style.
 - [GoogleCloudPlatform/iap-desktop](https://github.com/GoogleCloudPlatform/iap-desktop) - IAP Desktop is a Windows application that provides zero-trust Remote Desktop and SSH access to Linux and Windows VMs on Google Cloud.
@@ -277,7 +278,7 @@
 - [epoupon/lms](https://github.com/epoupon/lms) - Lightweight Music Server. Access your self-hosted music using a web interface.
 - [danielkrupinski/Osiris](https://github.com/danielkrupinski/Osiris) - Free open-source game cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by Dear ImGui.
 - [Francesco149/tos-tools](https://github.com/Francesco149/tos-tools) - a big mess of scripts I used to archive TempleOS
-- [Gramps/GodotSteam](https://github.com/Gramps/GodotSteam) - An open-source and fully functional Steamworks SDK / API module and plug-in for the Godot Game Engine.
+- [CoaguCo-Industries/GodotSteam](https://github.com/CoaguCo-Industries/GodotSteam) - An open-source and fully functional Steamworks SDK / API module and plug-in for the Godot Game Engine.
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [AirenSoft/OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine) - OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
 - [Inori/GPCS4](https://github.com/Inori/GPCS4) - A work-in-progress PlayStation 4 emulator.
@@ -385,6 +386,8 @@
 
 ## Go 
 
+- [emcfarlane/kubestar](https://github.com/emcfarlane/kubestar) - Kubernetes config without all the YAML
+- [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
 - [dvcrn/csi-rclone-reloaded](https://github.com/dvcrn/csi-rclone-reloaded) - CSI driver for rclone
@@ -451,7 +454,7 @@
 - [loft-sh/cluster-api-provider-vcluster](https://github.com/loft-sh/cluster-api-provider-vcluster) - 
 - [23technologies/gardener-extension-provider-hcloud](https://github.com/23technologies/gardener-extension-provider-hcloud) - Gardener Extension for Hetzner Cloud provider
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
-- [clastix/kamaji](https://github.com/clastix/kamaji) - Build and operate Kubernetes at scale with a fraction of operational burden.
+- [clastix/kamaji](https://github.com/clastix/kamaji) - Run Kubernetes at scale with a fraction of operational burden.
 - [siderolabs/cluster-api-bootstrap-provider-talos](https://github.com/siderolabs/cluster-api-bootstrap-provider-talos) - A cluster-api bootstrap provider for deploying Talos clusters.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -908,6 +911,8 @@
 
 ## HTML 
 
+- [cnlohr/espwebc3](https://github.com/cnlohr/espwebc3) - An in-browser integrated development platform for the ESP32-C3
+- [CalyxOS/calyxos](https://github.com/CalyxOS/calyxos) - 
 - [lazyweirdo/osm-ipfs-proxy](https://github.com/lazyweirdo/osm-ipfs-proxy) - Map tile system IPFS based
 - [dirkhh/adsb-pi-setup](https://github.com/dirkhh/adsb-pi-setup) - 
 - [gaul/object-store-comparison](https://github.com/gaul/object-store-comparison) - Compare cost, durability, and region support of public cloud object stores, e.g., Amazon S3
@@ -958,6 +963,7 @@
 
 ## Java 
 
+- [apache/incubator-baremaps](https://github.com/apache/incubator-baremaps) - Create custom vector tiles from OpenStreetMap and other data sources with Postgis and Java.
 - [gbif/geocode](https://github.com/gbif/geocode) - Geocode webservice and client
 - [ma1co/OpenMemories-Tweak](https://github.com/ma1co/OpenMemories-Tweak) - Unlock your Sony camera's settings
 - [LINBIT/linstor-server](https://github.com/LINBIT/linstor-server) - High Performance Software-Defined Block Storage for container, cloud and virtualisation. Fully integrated with Docker, Kubernetes, Openstack, Proxmox etc.
@@ -1027,7 +1033,7 @@
 - [jawerty/myAlgorithm](https://github.com/jawerty/myAlgorithm) - A self hosted recommendation feed generated from your browsing habits
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [mthenw/frontail](https://github.com/mthenw/frontail) - 📝 streaming logs to the browser. Sponsored by https://cloudash.dev
-- [vasanthv/tlk](https://github.com/vasanthv/tlk) - Group video call for the web. No signups. No downloads.
+- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
 - [0x0FB0/pulsar](https://github.com/0x0FB0/pulsar) - Network footprint scanner platform. Discover domains and run your custom checks periodically.
 - [elpatronaco/pccomponentes-buy-bot](https://github.com/elpatronaco/pccomponentes-buy-bot) - A script made to buy any out-of-stock product off spanish stores
 - [juvian/discord-image-dupe](https://github.com/juvian/discord-image-dupe) - Bot that detects image duplicates posted in a server
@@ -1245,7 +1251,7 @@
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [patrickod/docker-tor](https://github.com/patrickod/docker-tor) - A docker'ized internal-only tor relay.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 
 ## Markdown 
 
@@ -1454,6 +1460,8 @@
 
 ## Python 
 
+- [h44z/gitlab_to_gitea](https://github.com/h44z/gitlab_to_gitea) - Gitlab to Gitea migration script.
+- [TheNerdlist/nerdlist](https://github.com/TheNerdlist/nerdlist) - list of passwords more likely to be used by sysadmins, general nerds, and folk with access
 - [breizhn/DTLN](https://github.com/breizhn/DTLN) - Tensorflow 2.x implementation of the DTLN real time speech denoising model. With TF-lite, ONNX and real-time audio processing support.
 - [Rikorose/DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
 - [dask/fastparquet](https://github.com/dask/fastparquet) - python implementation of the parquet columnar file format.
@@ -1473,7 +1481,7 @@
 - [mpaepper/llm_agents](https://github.com/mpaepper/llm_agents) - Build agents which are controlled by LLMs
 - [blag/humanhash](https://github.com/blag/humanhash) - Human-readable digests.
 - [zacharyvoase/humanhash](https://github.com/zacharyvoase/humanhash) - Human-readable digests.
-- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
+- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
 - [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
@@ -2052,6 +2060,7 @@
 
 ## TypeScript 
 
+- [kdrag0n/adevtool](https://github.com/kdrag0n/adevtool) - Android ROM device support and bringup tool, designed for maximum automation and speed.
 - [StrandedKitty/streets-gl](https://github.com/StrandedKitty/streets-gl) - 🗺 OpenStreetMap 3D renderer powered by WebGL2
 - [xSNOWM4Nx/react-flight-tracker](https://github.com/xSNOWM4Nx/react-flight-tracker) - ✈️ An open-source real-time flight tracker with React, TypeScript, Mapbox and data from the OpenSky Network API.
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
@@ -2070,7 +2079,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [ADSB-One/site](https://github.com/ADSB-One/site) - ADSB One site
 - [usimd/pi-gen-action](https://github.com/usimd/pi-gen-action) - Action to build Raspberry Pi images using official pi-gen tool
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
@@ -2083,7 +2092,7 @@
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services cloud
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services gateway
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [matias-kovero/tarkov](https://github.com/matias-kovero/tarkov) - A npm library for the Escape from Tarkov API
 - [underyx/visawhen](https://github.com/underyx/visawhen) - Data on US visa wait times at the National Visa Center and at US consulates.
