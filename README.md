@@ -98,12 +98,23 @@
 
 ## C 
 
+- [sm00th/bitlbee-discord](https://github.com/sm00th/bitlbee-discord) - Bitlbee plugin for Discord (http://discordapp.com)
+- [benjojo/iptables-uwu](https://github.com/benjojo/iptables-uwu) - iptables target that uwu's outgoing packets
+- [MidnightBlueLabs/TETRA_crypto](https://github.com/MidnightBlueLabs/TETRA_crypto) - 
+- [eggheads/eggdrop](https://github.com/eggheads/eggdrop) - The Eggdrop IRC Bot
+- [lucavallin/barco](https://github.com/lucavallin/barco) - Linux containers from scratch in C.
+- [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
+- [furrtek/PrecIR](https://github.com/furrtek/PrecIR) - You know what this is for ;-)
+- [TLeconte/acarsdec](https://github.com/TLeconte/acarsdec) - ACARS SDR decoder
+- [dynup/kpatch](https://github.com/dynup/kpatch) - kpatch - live kernel patching
+- [0xchocolate/flipperzero-wifi-marauder](https://github.com/0xchocolate/flipperzero-wifi-marauder) - Flipper Zero WiFi Marauder companion app
+- [spheeere98/mifare_fuzzer](https://github.com/spheeere98/mifare_fuzzer) - 
+- [xMasterX/all-the-plugins](https://github.com/xMasterX/all-the-plugins) - Big plugins pack built for latest flipper firmware
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster Flipper Zero Firmware
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
-- [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with large language models locally
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [cathugger/mkp224o](https://github.com/cathugger/mkp224o) - vanity address generator for tor onion v3 (ed25519) hidden services
 - [wiedehopf/s6wrap](https://github.com/wiedehopf/s6wrap) - wrapper to prepend to text output and linewise merge stdout / stderr to either stderr or stdout.
@@ -258,6 +269,12 @@
 
 ## C++ 
 
+- [olav-st/screencloud](https://github.com/olav-st/screencloud) - Screenshot sharing application for Windows, Mac and Linux.
+- [amyreese/znc-push](https://github.com/amyreese/znc-push) - Push notification service module for ZNC
+- [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
+- [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
+- [0xchocolate/flipperzero-esp-flasher](https://github.com/0xchocolate/flipperzero-esp-flasher) - Flipper Zero app to flash ESP chips from the device (no computer connection needed!)
 - [r4d10n/retrogram-rtlsdr](https://github.com/r4d10n/retrogram-rtlsdr) - Spectrum analyzer on your terminal/ssh console with ASCII art ~ RTLSDR
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
@@ -280,7 +297,7 @@
 - [kentjhall/mizu](https://github.com/kentjhall/mizu) - Services / GPU emulation / loader for apps to run under Horizon Linux; adapted from the yuzu emulator
 - [devWaves/SwitchBot-MQTT-BLE-ESP32](https://github.com/devWaves/SwitchBot-MQTT-BLE-ESP32) - Allows for multiple SwitchBot bots and curtains to be controlled via MQTT sent to ESP32. ESP32 will send BLE commands to switchbots and return MQTT responses to the broker. Also supports Temperature, 
 - [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
-- [zorggish/FractalCryptGUI](https://github.com/zorggish/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
+- [zorggomat/FractalCryptGUI](https://github.com/zorggomat/FractalCryptGUI) - Free cross-platform deniable encryption cryptoarchiver
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
 - [chrxh/alien](https://github.com/chrxh/alien) - ALIEN is a CUDA-powered artificial life simulation program.
@@ -378,6 +395,7 @@
 
 ## Dart 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 
@@ -414,6 +432,10 @@
 
 ## Go 
 
+- [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
+- [substratusai/substratus](https://github.com/substratusai/substratus) - Your cross-cloud AI substrate
+- [GoogleContainerTools/kpt-config-sync](https://github.com/GoogleContainerTools/kpt-config-sync) - ConfigSync - used to sync Git, OCI and Helm charts to your clusters.
+- [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - Automate Kubernetes Configuration Editing
 - [ripta/ssp](https://github.com/ripta/ssp) - Simple Storage Proxy for the simple storage service (S3)
 - [Kriechi/aws-s3-reverse-proxy](https://github.com/Kriechi/aws-s3-reverse-proxy) - reverse-proxy all incoming S3 API calls to the public AWS S3 backend
 - [qinguoyi/osproxy](https://github.com/qinguoyi/osproxy) - 对象存储分布式代理(object storage distrbuted proxy)，支持Docker一键部署
@@ -474,7 +496,7 @@
 - [solo-io/unik](https://github.com/solo-io/unik) - The Unikernel & MicroVM Compilation and Deployment Platform
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs g
 - [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm) - Aggregator for issues filed against kubeadm
 - [SSLMate/certspotter](https://github.com/SSLMate/certspotter) - Certificate Transparency Log Monitor
 - [SierraSoftworks/honeypot](https://github.com/SierraSoftworks/honeypot) - A service designed to track malicious SSH login attempts
@@ -815,7 +837,7 @@
 - [solo-io/gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
-- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator for Multi-Instance Multi-tenancy
+- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator for Multi-Instance Multi-tenancy (SaaS)
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) - A Bridge between SDN and Cloud Native (Project under CNCF)
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
@@ -840,7 +862,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [ipfs-inactive/kubernetes-ipfs](https://github.com/ipfs-inactive/kubernetes-ipfs) - [ARCHIVED] kubernetes-ipfs
 - [kragniz/tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - Gatekeeper - Policy Controller for Kubernetes
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
@@ -883,7 +905,7 @@
 - [influxdata/wirey](https://github.com/influxdata/wirey) - Manage local wireguard interfaces in a distributed system
 - [meshbird/meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
 - [hoeghh/k8s-minecraft-operator](https://github.com/hoeghh/k8s-minecraft-operator) - A Kubernetes operator for minecraft
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [gphotosuploader/gphotos-uploader-cli](https://github.com/gphotosuploader/gphotos-uploader-cli) - Command line tool to mass upload media folders to your google photos account(s) (Mac OS / Linux)
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -914,7 +936,6 @@
 - [stitchfix/flotilla-os](https://github.com/stitchfix/flotilla-os) - Open source Flotilla
 - [gobuild/gobuild](https://github.com/gobuild/gobuild) - Compile your github Go repo into binary. (still in beta)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [benjojo/dubstep-data](https://github.com/benjojo/dubstep-data) - Put data inside dubstep drops
 - [benjojo/totp-ssh-fluxer](https://github.com/benjojo/totp-ssh-fluxer) - Take security by obscurity to the next level (this is a bad idea, don't really use this please)
@@ -969,6 +990,9 @@
 
 ## HTML 
 
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
+- [bigbrodude6119/flipper-zero-evil-portal](https://github.com/bigbrodude6119/flipper-zero-evil-portal) - Evil portal app for the flipper zero + WiFi dev board
+- [redteamguides/redteamguides.github.io](https://github.com/redteamguides/redteamguides.github.io) - Red Team Guides
 - [cnlohr/espwebc3](https://github.com/cnlohr/espwebc3) - An in-browser integrated development platform for the ESP32-C3
 - [CalyxOS/calyxos](https://github.com/CalyxOS/calyxos) - 
 - [lazyweirdo/osm-ipfs-proxy](https://github.com/lazyweirdo/osm-ipfs-proxy) - Map tile system IPFS based
@@ -1020,6 +1044,7 @@
 
 ## Java 
 
+- [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - Rclone for Android
 - [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 - [apache/incubator-baremaps](https://github.com/apache/incubator-baremaps) - Create custom vector tiles from OpenStreetMap and other data sources with Postgis and Java.
 - [gbif/geocode](https://github.com/gbif/geocode) - Geocode webservice and client
@@ -1071,7 +1096,7 @@
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [engineer-man/piston](https://github.com/engineer-man/piston) - A high performance general purpose code execution engine.
 - [Thom-x/docker-fr24feed-piaware-dump1090](https://github.com/Thom-x/docker-fr24feed-piaware-dump1090) - Docker image of dump1090-fa, fr24feed, FlightAware, adsbexchange, Plane Finder, OpenskyNetwork, adsb.fi and Radarbox.
-- [adryd325/oneko.js](https://github.com/adryd325/oneko.js) - cat follow mouse (real). Browser port of the classic xneko/oneko program.
+- [adryd325/oneko.js](https://github.com/adryd325/oneko.js) - cat follow mouse (real). Browser port of the classic xneko/oneko program. Issues temporarily disabled due to mental health issues related to maintaining open source projects.
 - [wiedehopf/ol-rollup](https://github.com/wiedehopf/ol-rollup) - OpenLayers + Rollup
 - [kubevirt-ui/kube-gateway](https://github.com/kubevirt-ui/kube-gateway) - Access k8s API using time limited access tokens.
 - [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers
@@ -1127,10 +1152,8 @@
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [trailofbits/tubertc](https://github.com/trailofbits/tubertc) - Peer-to-Peer Video Chat for Corporate LANs
 - [gjovanov/roomler](https://github.com/gjovanov/roomler) - Roomler - Multi-party Video Conferencing & Team Collaboration Tool using WebRTC (Janus Gateway)
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
-- [dosyago/DiskerNet](https://github.com/dosyago/DiskerNet) - 💾 DiskerNet - Your Internet Archived to Your Disk
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox
 - [ananace/matrix-puppet-steam](https://github.com/ananace/matrix-puppet-steam) - Puppeting Steam bridge for Matrix
@@ -1244,7 +1267,7 @@
 - [SteamDatabase/SteamTracking](https://github.com/SteamDatabase/SteamTracking) - 🕵 Tracking things, so you don't have to
 - [LorenzGardner/nexe](https://github.com/LorenzGardner/nexe) - create a single executable out of your node.js apps
 - [thedjpetersen/subway](https://github.com/thedjpetersen/subway) - ABANDONED - A web based IRC client
-- [mephux/komanda](https://github.com/mephux/komanda) - The IRC Client For Developers
+- [djcas9/komanda](https://github.com/djcas9/komanda) - The IRC Client For Developers
 - [slate/slate](https://github.com/slate/slate) - Slate IRC client
 - [alex7kom/storekeeper](https://github.com/alex7kom/storekeeper) - Steam bot with JSON-RPC interface - **NO LONGER MAINTAINED, DO NOT USE** - Thanks everyone! This was an amusing experiment, but I never considered this bot production-ready. I advise everyone to use n
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
@@ -1272,6 +1295,7 @@
 
 ## Jupyter Notebook 
 
+- [justLV/onju-voice](https://github.com/justLV/onju-voice) - A hackable AI home assistant platform
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
@@ -1290,6 +1314,7 @@
 
 ## Kotlin 
 
+- [simondankelmann/SubMarine](https://github.com/simondankelmann/SubMarine) - 
 - [rrerrNet/Minetrix](https://github.com/rrerrNet/Minetrix) - A Spigot/PaperMC plug-in for connecting your Minecraft server with a Matrix room.
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [Jire/Charlatano](https://github.com/Jire/Charlatano) - Proves JVM cheats are viable on native games, and demonstrates the longevity against anti-cheat signature detection systems
@@ -1303,6 +1328,7 @@
 
 - [ntop/nProbe](https://github.com/ntop/nProbe) - Open source components and extensions for nProbe
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [gawen/WireHub](https://github.com/gawen/WireHub) - 🌍 Decentralized, peer-to-peer and secure overlay networks
 - [stevesloka/kubecraft](https://github.com/stevesloka/kubecraft) - Kubernetes + Minecraft = Kubecraft
@@ -1318,6 +1344,7 @@
 ## Makefile 
 
 - [giantswarm/cluster-api-monitoring-app](https://github.com/giantswarm/cluster-api-monitoring-app) - 
+- [siderolabs/contrib](https://github.com/siderolabs/contrib) - talos/sidero setup examples
 - [masipcat/wireguard-go-docker](https://github.com/masipcat/wireguard-go-docker) - Wireguard docker image
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [patrickod/docker-tor](https://github.com/patrickod/docker-tor) - A docker'ized internal-only tor relay.
@@ -1349,6 +1376,7 @@
 
 ## Objective-C 
 
+- [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [mxswd/dump1090-mac-app](https://github.com/mxswd/dump1090-mac-app) - A Dump1090 BEAST Server macOS App
 - [eczarny/spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
 - [mdonoughe/neko-mac](https://github.com/mdonoughe/neko-mac) - Oneko in Cocoa (Neko for Mac OS X)
@@ -1365,6 +1393,7 @@
 
 ## Others 
 
+- [MidnightBlueLabs/TETRA_burst](https://github.com/MidnightBlueLabs/TETRA_burst) - 
 - [logickworkshop/Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB) - A collective of different IRs for the Flipper
 - [Lucaslhm/Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB) - A collective of different IRs for the Flipper
 - [UberGuidoZ/Flipper-IRDB](https://github.com/UberGuidoZ/Flipper-IRDB) - A collective of different IRs for the Flipper (maintained)
@@ -1383,8 +1412,8 @@
 - [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
 - [ory/kratos-maester](https://github.com/ory/kratos-maester) - 
 - [nelsonjchen/gargantuan-takeout-rocket](https://github.com/nelsonjchen/gargantuan-takeout-rocket) - 🚀 Backup Google Takeout archives (YouTube channel and Google Photos) at 1GB/s+ to Azure Storage periodically with minimal human toil and financial cost
-- [siderolabs/contrib](https://github.com/siderolabs/contrib) - talos/sidero setup examples
 - [SLKTH/rijksoverheidfonts](https://github.com/SLKTH/rijksoverheidfonts) - Fonts files used by Dutch Government (Rijksoverheid)
+- [vvanglro/cf-clearance](https://github.com/vvanglro/cf-clearance) - Purpose To make a cloudflare v2 challenge pass successfully, Can be use cf_clearance bypassed by cloudflare, However, with the cf_clearance, make sure you use the same IP and UA as when you got it.
 - [OpenSourceEBike/TSDZ2_wiki](https://github.com/OpenSourceEBike/TSDZ2_wiki) - 
 - [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - 🛰️ List of satellite image training datasets with annotations for computer vision and deep learning
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
@@ -1512,7 +1541,7 @@
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [ivkos/Pushbullet-for-PHP](https://github.com/ivkos/Pushbullet-for-PHP) - PHP library for the Pushbullet API
 - [petewarden/ParallelCurl](https://github.com/petewarden/ParallelCurl) - A PHP class providing an easy interface for running multiple concurrent CURL requests
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 
 ## PLpgSQL 
 
@@ -1539,11 +1568,18 @@
 
 ## PowerShell 
 
+- [alexfrancow/badusb_botnet](https://github.com/alexfrancow/badusb_botnet) - :busts_in_silhouette::smiling_imp: Infect a pc with badusb and establish a connection through telegram.
 - [nocomp/Flipper_Zero_Badusb_hack5_payloads](https://github.com/nocomp/Flipper_Zero_Badusb_hack5_payloads) - hack5 badusb payloads moded for be played with flipper zero
 - [giMini/PowerMemory](https://github.com/giMini/PowerMemory) - Exploit the credentials present in files and memory
 
 ## Python 
 
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - lightweight package to simplify LLM API calls - Azure, OpenAI, Cohere, Anthropic, Replicate. Manages input/output translation
+- [poljar/weechat-matrix](https://github.com/poljar/weechat-matrix) - Weechat Matrix protocol script written in python
+- [system-storage-manager/ssm](https://github.com/system-storage-manager/ssm) - A single tool to manage your storage.
+- [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [katlol/awesome-flipperzero-pack](https://github.com/katlol/awesome-flipperzero-pack) - Always fresh, downloadable zip files for all awesome-flipperzero resources ready to put in your microsd.
 - [miyuchina/mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python.
@@ -1651,7 +1687,6 @@
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emer
 - [wiedehopf/mlat-server](https://github.com/wiedehopf/mlat-server) - Mode S multilateration server
 - [itsnebulalol/chatgpt-proxy](https://github.com/itsnebulalol/chatgpt-proxy) - Proxy for ChatGPT, handles auth and prompts
-- [vvanglro/cf-clearance](https://github.com/vvanglro/cf-clearance) - Purpose To make a cloudflare v2 challenge pass successfully, Can be use cf_clearance bypassed by cloudflare, However, with the cf_clearance, make sure you use the same IP and UA as when you got it.
 - [JurajNyiri/HomeAssistant-Tapo-Control](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control) - Control for Tapo cameras as a Home Assistant component
 - [paolo-projects/unlocker](https://github.com/paolo-projects/unlocker) - VMware Workstation macOS
 - [shanyungyang/esxi-unlocker](https://github.com/shanyungyang/esxi-unlocker) - VMware ESXi macOS
@@ -1997,6 +2032,9 @@
 
 ## Rust 
 
+- [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
+- [obviyus/HamVerBot](https://github.com/obviyus/HamVerBot) - #f1's favourite F1 bot
+- [poljar/weechat-matrix-rs](https://github.com/poljar/weechat-matrix-rs) - Rust rewrite of the python weechat-matrix script.
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust
 - [libsql/sqld](https://github.com/libsql/sqld) - LibSQL with extended capabilities like HTTP protocol, replication, and more.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
@@ -2054,7 +2092,7 @@
 - [rikgale/VRSOperatorFlags](https://github.com/rikgale/VRSOperatorFlags) - Operator Flags / Silhouettes for Virtual Radar Server
 - [dhruvvyas90/qemu-rpi-kernel](https://github.com/dhruvvyas90/qemu-rpi-kernel) - Qemu kernel for emulating Rpi on QEMU
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
-- [adsblol/globe_history](https://github.com/adsblol/globe_history) - Historical data for all aircrafts known to adsb.lol. Freely available under ODbL. Hosted by GitHub.
+- [adsblol/globe_history](https://github.com/adsblol/globe_history) - Historical data for all aircrafts traces known to adsb.lol. Openly licensed.
 - [tobiasmcvey/rclonesetup](https://github.com/tobiasmcvey/rclonesetup) - How to setup and mount rclone remote drives on boot using Linux and Mac
 - [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check if your VPS's IP is available for various OTT platforms
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -2082,7 +2120,6 @@
 - [fabito/htk8s](https://github.com/fabito/htk8s) - HTPC services running on Kubernetes
 - [simonthum/git-sync](https://github.com/simonthum/git-sync) - Safe and simple one-script git synchronization
 - [Francesco149/vfio-setup](https://github.com/Francesco149/vfio-setup) - my low latency pure qemu vfio setup
-- [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
 - [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files
 - [88lex/sa-gen](https://github.com/88lex/sa-gen) - Create projects, service accounts, jsons and a group list in csv using gcloud sdk
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
@@ -2188,6 +2225,8 @@
 
 ## Swift 
 
+- [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
+- [castdrian/ishare](https://github.com/castdrian/ishare) - forget sharex, experience the clean and unbloated screen capture utility for macOS
 - [0x0XDev/JamWiFi](https://github.com/0x0XDev/JamWiFi) - A GUI, easy to use WiFi network jammer for Mac OS X
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
@@ -2196,13 +2235,14 @@
 
 ## TypeScript 
 
+- [MagicCap/MagicCap](https://github.com/MagicCap/MagicCap) - MagicCap is an image/GIF capture suite for Mac and Linux.
+- [battlebitjs/battlebit.js](https://github.com/battlebitjs/battlebit.js) - A javascript battlebit community server api client
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - Hosting read-only SQLite databases on static file hosters like Github Pages
 - [Shakahs/flightglobe](https://github.com/Shakahs/flightglobe) - 
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [FozzieHi/FormulaOne](https://github.com/FozzieHi/FormulaOne) - The Formula One Discord Bot for the r/formula1 Discord Server.
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [ornicar/zulip-remind](https://github.com/ornicar/zulip-remind) - Zulip bot that posts messages in a stream at a fixed date.
 - [kheina-com/Blue-Blocker](https://github.com/kheina-com/Blue-Blocker) - Blocks all Twitter Blue verified users on twitter.com
 - [kdrag0n/adevtool](https://github.com/kdrag0n/adevtool) - Android ROM device support and bringup tool, designed for maximum automation and speed.
