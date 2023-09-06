@@ -99,6 +99,10 @@
 
 ## C 
 
+- [mnakada/atomcam_tools](https://github.com/mnakada/atomcam_tools) - 
+- [OpenIPC/firmware](https://github.com/OpenIPC/firmware) - Alternative IP Camera firmware from an open community
+- [openmiko/openmiko](https://github.com/openmiko/openmiko) - Open source firmware for Ingenic T20 based devices such as WyzeCam V2, Xiaomi Xiaofang 1S, iSmartAlarm's Spot+ and others.
+- [Esdenera/mcast-proxy](https://github.com/Esdenera/mcast-proxy) - Multicast Proxy for OpenBSD
 - [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
 - [equipter/mfkey32v2](https://github.com/equipter/mfkey32v2) - Mifare Classic Key Calculator v2
 - [sm00th/bitlbee-discord](https://github.com/sm00th/bitlbee-discord) - Bitlbee plugin for Discord (http://discordapp.com)
@@ -117,7 +121,6 @@
 - [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster Flipper Zero Firmware
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [cathugger/mkp224o](https://github.com/cathugger/mkp224o) - vanity address generator for tor onion v3 (ed25519) hidden services
 - [wiedehopf/s6wrap](https://github.com/wiedehopf/s6wrap) - wrapper to prepend to text output and linewise merge stdout / stderr to either stderr or stdout.
@@ -225,6 +228,7 @@
 
 ## C# # 
 
+- [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN）
 - [DanielKami/PasiveRadar2](https://github.com/DanielKami/PasiveRadar2) - 
 - [MirrorNetworking/Mirror](https://github.com/MirrorNetworking/Mirror) - #1 Open Source Unity Networking Library
 - [MinBZK/woo-besluit-broncode-digid-app](https://github.com/MinBZK/woo-besluit-broncode-digid-app) - 
@@ -272,6 +276,7 @@
 
 ## C++ 
 
+- [bobcamera/bobcamera](https://github.com/bobcamera/bobcamera) - 
 - [mpromonet/v4l2rtspserver](https://github.com/mpromonet/v4l2rtspserver) - RTSP Server for V4L2 device capture supporting HEVC/H264/JPEG/VP8/VP9
 - [olav-st/screencloud](https://github.com/olav-st/screencloud) - Screenshot sharing application for Windows, Mac and Linux.
 - [amyreese/znc-push](https://github.com/amyreese/znc-push) - Push notification service module for ZNC
@@ -356,6 +361,7 @@
 
 ## CSS 
 
+- [hTobi02/f1tv-rtmp](https://github.com/hTobi02/f1tv-rtmp) - Play live content from F1TV with any RTMP Player
 - [deis/workflow](https://github.com/deis/workflow) - The open source PaaS for Kubernetes.
 - [Pavion/tvstreamrecord](https://github.com/Pavion/tvstreamrecord) - Timed TV stream recording for Python
 - [wg-dashboard/wg-dashboard](https://github.com/wg-dashboard/wg-dashboard) - an (unmaintained) easy-to-use dashboard for wireguard vpn
@@ -405,6 +411,7 @@
 
 ## Dockerfile 
 
+- [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container) - Run the Backblaze personal backup client in a docker container
 - [thelounge/thelounge-docker](https://github.com/thelounge/thelounge-docker) - 🐳 ‎ ‎Docker image for The Lounge, a self-hosted web IRC client
 - [lukechilds/dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
 - [imagegenius/docker-immich](https://github.com/imagegenius/docker-immich) - Monolithic (Single) Docker Container for Immich
@@ -437,6 +444,7 @@
 
 ## Go 
 
+- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure.
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [pufferffish/wireproxy](https://github.com/pufferffish/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
@@ -460,6 +468,7 @@
 - [rystaf/mlmym](https://github.com/rystaf/mlmym) - a familiar desktop experience for lemmy
 - [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/sentinel mode setup on top of the Kubernetes.
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple CI engine with great extensibility.
 - [hashicorp/vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) - The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.
 - [clastix/cluster-api-control-plane-provider-kamaji](https://github.com/clastix/cluster-api-control-plane-provider-kamaji) - The Kamaji Control Plane provider implementation of the Cluster Management API
@@ -999,6 +1008,7 @@
 
 ## HTML 
 
+- [wereket78/dotfiles](https://github.com/wereket78/dotfiles) - 
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [bigbrodude6119/flipper-zero-evil-portal](https://github.com/bigbrodude6119/flipper-zero-evil-portal) - Evil portal app for the flipper zero + WiFi dev board
 - [redteamguides/redteamguides.github.io](https://github.com/redteamguides/redteamguides.github.io) - Red Team Guides
@@ -1093,6 +1103,7 @@
 
 ## JavaScript 
 
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [yuvadm/cidr.xyz](https://github.com/yuvadm/cidr.xyz) - Web-based CIDR / netmask / IP address visualizer
 - [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
 - [v0l/adsb-overlay](https://github.com/v0l/adsb-overlay) - ADS-B Camera overlay for tracking and displaying aircraft information
@@ -1122,7 +1133,7 @@
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [rafalp/Misago](https://github.com/rafalp/Misago) - Misago is fully featured modern forum application that is fast, scalable and responsive.
-- [adsblol/infra](https://github.com/adsblol/infra) - GitOps Flux-based adsb.lol infrastructure - kubernetes, readsb, tar1090, mlat-server, api, history
+- [adsblol/infra](https://github.com/adsblol/infra) - ☸️🐋 GitOps Flux-based adsb.lol infrastructure - kubernetes, readsb, tar1090, mlat-server, api, history
 - [democratic-csi/democratic-csi](https://github.com/democratic-csi/democratic-csi) - csi storage for container orchestration systems
 - [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [acheong08/ChatGPT-API-agent](https://github.com/acheong08/ChatGPT-API-agent) - ChatGPT puppeteer for firefox
@@ -1308,13 +1319,13 @@
 
 ## Jupyter Notebook 
 
+- [open-space-collective/open-space-toolkit](https://github.com/open-space-collective/open-space-toolkit) - Collection of versatile software libraries for space engineering applications.
 - [IQTLabs/SkyScan](https://github.com/IQTLabs/SkyScan) - Automatically photograph planes that fly by!
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - lightweight package to simplify LLM API calls - Azure, OpenAI, Cohere, Anthropic, Replicate. Manages input/output translation
 - [justLV/onju-voice](https://github.com/justLV/onju-voice) - A hackable AI home assistant platform
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [88lex/safire](https://github.com/88lex/safire) - 
 - [TetsumichiUmada/text2emoji](https://github.com/TetsumichiUmada/text2emoji) - Predict an emoji that is associated with a text
 - [J535D165/CoronaWatchNL](https://github.com/J535D165/CoronaWatchNL) - Numbers concerning COVID-19 disease cases in The Netherlands by RIVM, LCPS, NICE, ECML, and Rijksoverheid.
@@ -1408,6 +1419,7 @@
 
 ## Others 
 
+- [opentffoundation/roadmap](https://github.com/opentffoundation/roadmap) - 
 - [MidnightBlueLabs/TETRA_burst](https://github.com/MidnightBlueLabs/TETRA_burst) - 
 - [logickworkshop/Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB) - A collective of different IRs for the Flipper
 - [Lucaslhm/Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB) - A collective of different IRs for the Flipper
@@ -1590,11 +1602,15 @@
 
 ## Python 
 
+- [krakenrf/krakensdr_doa](https://github.com/krakenrf/krakensdr_doa) - 
+- [quatanium/python-onvif](https://github.com/quatanium/python-onvif) - ONVIF Client Implementation in Python
+- [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 - [snstac/adsbcot](https://github.com/snstac/adsbcot) - ADS-B to Cursor on Target Gateway for TAK Products, including ATAK, WinTAK & iTAK.
 - [AutoPTZ/autoptz](https://github.com/AutoPTZ/autoptz) - AI Tracking Solution for Any PTZ Cameras
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [ma1co/Sony-PMCA-RE](https://github.com/ma1co/Sony-PMCA-RE) - Reverse Engineering Sony Digital Cameras
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - lightweight package to simplify LLM API calls - Azure, OpenAI, Cohere, Anthropic, Replicate. Manages input/output translation
 - [poljar/weechat-matrix](https://github.com/poljar/weechat-matrix) - Weechat Matrix protocol script written in python
 - [system-storage-manager/ssm](https://github.com/system-storage-manager/ssm) - A single tool to manage your storage.
 - [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
@@ -1645,8 +1661,8 @@
 - [ConorWilliams/rsinc](https://github.com/ConorWilliams/rsinc) - A tiny, hackable, two-way cloud synchronisation client for Linux
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
-- [adsblol/api](https://github.com/adsblol/api) - ADSB.lol API - Live air traffic, plausible aircraft routes, per-feeder map, embed images
-- [adsblol/vrs-standing-data](https://github.com/adsblol/vrs-standing-data) - VRS standing-data, served by GitHub Pages for querying a single route. Updated hourly.
+- [adsblol/api](https://github.com/adsblol/api) - 🤖🔥 ADSB.lol API - Live air traffic, plausible aircraft routes, per-feeder map, embed images
+- [adsblol/vrs-standing-data](https://github.com/adsblol/vrs-standing-data) - 🧍📀 VRS standing-data, served by GitHub Pages for querying a single route. Updated hourly.
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [h44z/gitlab_to_gitea](https://github.com/h44z/gitlab_to_gitea) - Gitlab to Gitea migration script.
 - [TheNerdlist/nerdlist](https://github.com/TheNerdlist/nerdlist) - list of passwords more likely to be used by sysadmins, general nerds, and folk with access
@@ -1666,7 +1682,6 @@
 - [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [thammegowda/nllb-serve](https://github.com/thammegowda/nllb-serve) - Meta's "No Language Left Behind" models served as web app and REST API
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [RedisLabs/redis-fs](https://github.com/RedisLabs/redis-fs) - Distributed in memory filesystem
 - [mpaepper/llm_agents](https://github.com/mpaepper/llm_agents) - Build agents which are controlled by LLMs
 - [blag/humanhash](https://github.com/blag/humanhash) - Human-readable digests.
@@ -2109,12 +2124,15 @@
 
 ## Shell 
 
+- [Fluent-networks/tailscale-mikrotik](https://github.com/Fluent-networks/tailscale-mikrotik) - Tailscale for Mikrotik Container
+- [gtxaspec/wz_mini_hacks](https://github.com/gtxaspec/wz_mini_hacks) - wz camera mods... make your camera better.
+- [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
 - [efrecon/docker-s3fs-client](https://github.com/efrecon/docker-s3fs-client) - Alpine-based s3fs client: mount from container, make available to other containers
 - [sdr-enthusiasts/docker-shipxplorer](https://github.com/sdr-enthusiasts/docker-shipxplorer) - AIS feeder for ShipXplorer, VesselFinder, MarineTraffic, etc. based on AIS-Catcher. Multi-architecture (amd64, armhf, arm64)
 - [rikgale/VRSOperatorFlags](https://github.com/rikgale/VRSOperatorFlags) - Operator Flags / Silhouettes for Virtual Radar Server
 - [dhruvvyas90/qemu-rpi-kernel](https://github.com/dhruvvyas90/qemu-rpi-kernel) - Qemu kernel for emulating Rpi on QEMU
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
-- [adsblol/globe_history](https://github.com/adsblol/globe_history) - Historical data for all aircrafts traces known to adsb.lol. Openly licensed.
+- [adsblol/globe_history](https://github.com/adsblol/globe_history) - ✈️🗄 Historical data for all aircrafts traces known to adsb.lol. Openly licensed.
 - [tobiasmcvey/rclonesetup](https://github.com/tobiasmcvey/rclonesetup) - How to setup and mount rclone remote drives on boot using Linux and Mac
 - [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check if your VPS's IP is available for various OTT platforms
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -2131,7 +2149,7 @@
 - [swarmlet/swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
-- [adsblol/feed](https://github.com/adsblol/feed) - Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client
+- [adsblol/feed](https://github.com/adsblol/feed) - 📡🛰 Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client
 - [guysoft/CustomPiOS](https://github.com/guysoft/CustomPiOS) - A Raspberry Pi and other ARM devices distribution builder
 - [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
 - [sdr-enthusiasts/docker-readsb-protobuf](https://github.com/sdr-enthusiasts/docker-readsb-protobuf) - Multi-architecture readsb-protobuf container with support for RTLSDR, bladeRF and plutoSDR (x86_64, arm32v7, arm64v8)
@@ -2283,6 +2301,7 @@
 - [vector-im/element-call](https://github.com/vector-im/element-call) - Group calls powered by Matrix
 - [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
 - [giantswarm/happa](https://github.com/giantswarm/happa) - Web user interface for Giant Swarm – Beyond managed Kubernetes
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [NicoKandut/factorio-solar-art](https://github.com/NicoKandut/factorio-solar-art) - Converts pictures into blueprints for solar farms.
 - [matrixgpt/matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - Talk to ChatGPT via any Matrix client!
 - [matrix-org/conference-bot](https://github.com/matrix-org/conference-bot) - The conductor for your orchestra^Wconference
