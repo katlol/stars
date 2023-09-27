@@ -100,6 +100,7 @@
 
 ## C 
 
+- [pmacct/pmacct](https://github.com/pmacct/pmacct) - pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry].
 - [FindMyCat/embedded-software](https://github.com/FindMyCat/embedded-software) - Embedded Software Monorepo for FindMyCat
 - [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
 - [dgiardini/rtl-ais](https://github.com/dgiardini/rtl-ais) - A simple AIS tuner and generic dual-frequency FM demodulator
@@ -128,7 +129,7 @@
 - [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster Flipper Zero Firmware
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
-- [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [cathugger/mkp224o](https://github.com/cathugger/mkp224o) - vanity address generator for tor onion v3 (ed25519) hidden services
 - [wiedehopf/s6wrap](https://github.com/wiedehopf/s6wrap) - wrapper to prepend to text output and linewise merge stdout / stderr to either stderr or stdout.
 - [cnlohr/rv003usb](https://github.com/cnlohr/rv003usb) - CH32V003 RISC-V Pure Software USB Controller
@@ -167,7 +168,6 @@
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 - [CalcProgrammer1/openrazer-win32](https://github.com/CalcProgrammer1/openrazer-win32) - Wrapper to build OpenRazer Linux driver as a Windows DLL
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
-- [Amitie10g/loic-cli](https://github.com/Amitie10g/loic-cli) - A command line version of the LOIC for UNIX
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
@@ -283,6 +283,7 @@
 
 ## C++ 
 
+- [tenzir/tenzir](https://github.com/tenzir/tenzir) - Open source data pipelines for security teams.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [bobcamera/bobcamera](https://github.com/bobcamera/bobcamera) - 
 - [mpromonet/v4l2rtspserver](https://github.com/mpromonet/v4l2rtspserver) - RTSP Server for V4L2 device capture supporting HEVC/H264/JPEG/VP8/VP9
@@ -452,6 +453,7 @@
 
 ## Go 
 
+- [netsampler/goflow2](https://github.com/netsampler/goflow2) - High performance sFlow/IPFIX/NetFlow Collector
 - [aaomidi/ContainerScale](https://github.com/aaomidi/ContainerScale) - ContainerScale is a CNI plugin to automatically attach containers to your tailscale network
 - [berops/claudie](https://github.com/berops/claudie) - Cloud-agnostic managed Kubernetes
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
@@ -528,7 +530,7 @@
 - [solo-io/unik](https://github.com/solo-io/unik) - The Unikernel & MicroVM Compilation and Deployment Platform
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
 - [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) - Home for Cluster API Operator, a subproject of sig-cluster-lifecycle
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs g
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm) - Aggregator for issues filed against kubeadm
 - [SSLMate/certspotter](https://github.com/SSLMate/certspotter) - Certificate Transparency Log Monitor
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
@@ -794,7 +796,7 @@
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [pomerium/pomerium-operator](https://github.com/pomerium/pomerium-operator) - An operator for running Pomerium on a Kubernetes cluster.
-- [XiovV/Golty](https://github.com/XiovV/Golty) - Golty is a service you can host yourself that automatically detects and downloads new uploads on YouTube channels and playlists + more
+- [XiovV/Golty](https://github.com/XiovV/Golty) - A selfhostable service that automatically detects and downloads new uploads on YouTube channels and playlists + more
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [bitsbeats/prometheus-acls](https://github.com/bitsbeats/prometheus-acls) - prometheus oauth acl reverse proxy
 - [virtual-kubelet/aws-fargate](https://github.com/virtual-kubelet/aws-fargate) - 
@@ -987,7 +989,7 @@
 - [ovh/tat](https://github.com/ovh/tat) - Tat Engine - Text And Tags
 - [oreqizer/slack-leet](https://github.com/oreqizer/slack-leet) - :rice_cracker: A script made for writing 13:37 every day at 13:37 to a given slack channel.
 - [dtan4/k8sec](https://github.com/dtan4/k8sec) - CLI tool to manage Kubernetes Secrets easily
-- [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
+- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [eliukblau/pixterm](https://github.com/eliukblau/pixterm) - Draw images in your ANSI terminal with true color
 - [irccloud/irccat](https://github.com/irccloud/irccat) - cat to IRC
@@ -1121,6 +1123,7 @@
 
 ## JavaScript 
 
+- [thomasjacquin/allsky](https://github.com/thomasjacquin/allsky) - A Raspberry Pi operated Wireless Allsky Camera
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [yuvadm/cidr.xyz](https://github.com/yuvadm/cidr.xyz) - Web-based CIDR / netmask / IP address visualizer
 - [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
@@ -1138,7 +1141,7 @@
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [engineer-man/piston](https://github.com/engineer-man/piston) - A high performance general purpose code execution engine.
 - [Thom-x/docker-fr24feed-piaware-dump1090](https://github.com/Thom-x/docker-fr24feed-piaware-dump1090) - Docker image of dump1090-fa, fr24feed, FlightAware, adsbexchange, Plane Finder, OpenskyNetwork, adsb.fi and Radarbox.
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [adryd325/oneko.js](https://github.com/adryd325/oneko.js) - cat follow mouse (real). Browser port of the classic xneko/oneko program. Issues temporarily disabled due to mental health issues related to maintaining open source projects.
 - [wiedehopf/ol-rollup](https://github.com/wiedehopf/ol-rollup) - OpenLayers + Rollup
 - [kubevirt-ui/kube-gateway](https://github.com/kubevirt-ui/kube-gateway) - Access k8s API using time limited access tokens.
@@ -1437,6 +1440,7 @@
 
 ## Others 
 
+- [mig4ng/ublock-origin-filters](https://github.com/mig4ng/ublock-origin-filters) - My personal and very opinionated uBlock Origin filters
 - [FindMyCat/hardware-files](https://github.com/FindMyCat/hardware-files) - Hardware files for FindMyCat.
 - [hetznercloud/awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud
 - [opentofu/roadmap](https://github.com/opentofu/roadmap) - 
@@ -1590,10 +1594,11 @@
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [ivkos/Pushbullet-for-PHP](https://github.com/ivkos/Pushbullet-for-PHP) - PHP library for the Pushbullet API
 - [petewarden/ParallelCurl](https://github.com/petewarden/ParallelCurl) - A PHP class providing an easy interface for running multiple concurrent CURL requests
-- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 
 ## PLpgSQL 
 
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - PostgreSQL in Great STYle, Battery-Included Free RDS Alternative!
 - [turbo/pg-shortkey](https://github.com/turbo/pg-shortkey) - YouTube-like Short IDs as Postgres Primary Keys
 
 ## Pascal 
@@ -1623,6 +1628,8 @@
 
 ## Python 
 
+- [flyitalyadsb/flarm-ogn-to-sbs](https://github.com/flyitalyadsb/flarm-ogn-to-sbs) - A powerful small and light utility that captures data from the Flarm OGN (Open Glider Network) and transforms it into a Basestation SBS stream
+- [nfstream/nfstream](https://github.com/nfstream/nfstream) - NFStream: a Flexible Network Data Analysis Framework.
 - [fjwillemsen/Apple-Store-Stock-Notifier](https://github.com/fjwillemsen/Apple-Store-Stock-Notifier) - Apple Store Stock Notifier monitors the availability of selected Apple devices in selected Apple stores, and sends you a notification when devices are available!
 - [kr8s-org/kr8s](https://github.com/kr8s-org/kr8s) - A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl
 - [muccc/iridium-toolkit](https://github.com/muccc/iridium-toolkit) - A set of tools to parse Iridium frames
@@ -1661,7 +1668,7 @@
 - [kanflo/ADS-B-funhouse](https://github.com/kanflo/ADS-B-funhouse) - A collection of scripts for playing with ADS-B data
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Build Production-Grade AI Applications
 - [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Multimodal AI services & pipelines with cloud-native stack: gRPC, Kubernetes, Docker, OpenTelemetry, Prometheus, Jaeger, etc.
+- [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
 - [allegroai/clearml](https://github.com/allegroai/clearml) - ClearML - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management
 - [eon01/kubernetes-workshop](https://github.com/eon01/kubernetes-workshop) - ⚙️ A Gentle introduction to Kubernetes with more than just the basics. 🌟 Give it a star if you like it.
 - [akpw/mktxp](https://github.com/akpw/mktxp) - Prometheus Exporter for  Mikrotik RouterOS devices
@@ -1704,7 +1711,7 @@
 - [empath-nirvana/magic-happens](https://github.com/empath-nirvana/magic-happens) - A kubernetes operator you should never run under any circumstances
 - [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
-- [kw2828/guardrail-ml](https://github.com/kw2828/guardrail-ml) - 🛡️Build LLM applications safely and reliably🛡️
+- [guardrail-ml/guardrail](https://github.com/guardrail-ml/guardrail) - Build LLM apps safely and securely🛡️
 - [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [thammegowda/nllb-serve](https://github.com/thammegowda/nllb-serve) - Meta's "No Language Left Behind" models served as web app and REST API
@@ -1741,7 +1748,7 @@
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [Sky360-Repository/simpletracker-ros2-ws](https://github.com/Sky360-Repository/simpletracker-ros2-ws) - 
 - [pogzyb/asyncwhois](https://github.com/pogzyb/asyncwhois) - asyncio-friendly Python module for retrieving and parsing WHOIS or RDAP information for any domain.
-- [canonical/grafana-agent-k8s-operator](https://github.com/canonical/grafana-agent-k8s-operator) - Grafana Agent is a telemetry collector for sending metrics, logs, and trace data to the opinionated Grafana observability stack.
+- [canonical/grafana-agent-k8s-operator](https://github.com/canonical/grafana-agent-k8s-operator) - This charmed operator automates the operational procedures of running Grafana Agent, an open-soruce telemetry collector.
 - [claws/dump1090-exporter](https://github.com/claws/dump1090-exporter) - A Prometheus metrics exporter for the dump1090 Mode S decoder for RTLSDR
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emer
 - [wiedehopf/mlat-server](https://github.com/wiedehopf/mlat-server) - Mode S multilateration server
@@ -2067,6 +2074,7 @@
 
 ## Ruby 
 
+- [macOScontainers/homebrew-formula](https://github.com/macOScontainers/homebrew-formula) - 
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [airframesio/data](https://github.com/airframesio/data) - Centralization of source data for Airframes/Acars projects
@@ -2091,6 +2099,7 @@
 
 ## Rust 
 
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [martinmroz/iata_bcbp](https://github.com/martinmroz/iata_bcbp) - IATA Bar Coded Boarding Pass (BCBP) Parsing Library in Rust
 - [systeminit/si](https://github.com/systeminit/si) - The System Initiative software
@@ -2312,6 +2321,8 @@
 
 ## TypeScript 
 
+- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
+- [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS an
 - [airframesio/acars-decoder-typescript](https://github.com/airframesio/acars-decoder-typescript) - ACARS Message Decoder for TypeScript / JavaScript
 - [sdr-enthusiasts/docker-acarshub](https://github.com/sdr-enthusiasts/docker-acarshub) - Docker container to utilize RTLSDR dongle(s) to view/stream ACARS/VDLM2 aircraft data transmissions
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
