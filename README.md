@@ -100,6 +100,7 @@
 
 ## C 
 
+- [infinet/xt_wgobfs](https://github.com/infinet/xt_wgobfs) - Iptables WireGuard obfuscation extension
 - [pmacct/pmacct](https://github.com/pmacct/pmacct) - pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry].
 - [FindMyCat/embedded-software](https://github.com/FindMyCat/embedded-software) - Embedded Software Monorepo for FindMyCat
 - [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
@@ -139,7 +140,7 @@
 - [kaniini/envsubst](https://github.com/kaniini/envsubst) - 
 - [daanx/mimalloc-bench](https://github.com/daanx/mimalloc-bench) - Suite for benchmarking malloc implementations.
 - [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.5.1 semi-tethered checkm8 jailbreak
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for arm64 devices on iOS 15.0+
 - [JoeDog/siege](https://github.com/JoeDog/siege) - Siege is an http load tester and benchmarking utility
 - [brainhub/SHA3IUF](https://github.com/brainhub/SHA3IUF) - C implementation of the SHA-3 and Keccak with Init/Update/Finalize hashing API (NIST FIPS 202/Etherium)
 - [msantos/libproxyproto](https://github.com/msantos/libproxyproto) - Proxy protocol v1 and v2 support via an LD_PRELOAD library
@@ -283,6 +284,8 @@
 
 ## C++ 
 
+- [vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream) - Stable Diffusion XL 1.0 Base on a Raspberry Pi Zero 2 (or in 298MB of RAM)
+- [google/graph-mining](https://github.com/google/graph-mining) - 
 - [tenzir/tenzir](https://github.com/tenzir/tenzir) - Open source data pipelines for security teams.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [bobcamera/bobcamera](https://github.com/bobcamera/bobcamera) - 
@@ -453,6 +456,10 @@
 
 ## Go 
 
+- [lupinelab/kproximate](https://github.com/lupinelab/kproximate) - A Kubernetes node autoscaler for Proxmox
+- [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
+- [m1k1o/neko-rooms](https://github.com/m1k1o/neko-rooms) - Selfhosted collaborative browser - room management for n.eko
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [netsampler/goflow2](https://github.com/netsampler/goflow2) - High performance sFlow/IPFIX/NetFlow Collector
 - [aaomidi/ContainerScale](https://github.com/aaomidi/ContainerScale) - ContainerScale is a CNI plugin to automatically attach containers to your tailscale network
 - [berops/claudie](https://github.com/berops/claudie) - Cloud-agnostic managed Kubernetes
@@ -570,7 +577,7 @@
 - [siderolabs/cluster-api-bootstrap-provider-talos](https://github.com/siderolabs/cluster-api-bootstrap-provider-talos) - A cluster-api bootstrap provider for deploying Talos clusters.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
-- [syself/hetzner-cloud-controller-manager](https://github.com/syself/hetzner-cloud-controller-manager) - Kubernetes cloud-controller-manager for Hetzner Cloud
+- [syself/hetzner-cloud-controller-manager](https://github.com/syself/hetzner-cloud-controller-manager) - Kubernetes cloud-controller-manager for Hetzner Cloud & Hetzner Robot. Enables the usage of Hetzner Dedicated Servers and Hetzner Cloud Servers
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [syself/cluster-api-provider-hetzner](https://github.com/syself/cluster-api-provider-hetzner) - Kubernetes Cluster API Provider Hetzner provides a consistent deployment and day 2 operations of "self-managed" Kubernetes clusters on Hetzner.
@@ -1123,6 +1130,8 @@
 
 ## JavaScript 
 
+- [alicescfernandes/fitibt-minimal-clock](https://github.com/alicescfernandes/fitibt-minimal-clock) - A clock face compatible with Fitbit Sense and Versa 3 that shows a couple of info. It was made by eye so don't mind the position of the UI elements and some weather icons on the clock. With HTML & a t
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [thomasjacquin/allsky](https://github.com/thomasjacquin/allsky) - A Raspberry Pi operated Wireless Allsky Camera
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [yuvadm/cidr.xyz](https://github.com/yuvadm/cidr.xyz) - Web-based CIDR / netmask / IP address visualizer
@@ -1440,6 +1449,7 @@
 
 ## Others 
 
+- [Fitbit/ossapps](https://github.com/Fitbit/ossapps) - A non-exhaustive list of open sourced clock faces, applications and modules from the community.
 - [mig4ng/ublock-origin-filters](https://github.com/mig4ng/ublock-origin-filters) - My personal and very opinionated uBlock Origin filters
 - [FindMyCat/hardware-files](https://github.com/FindMyCat/hardware-files) - Hardware files for FindMyCat.
 - [hetznercloud/awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud
@@ -1598,7 +1608,6 @@
 
 ## PLpgSQL 
 
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - PostgreSQL in Great STYle, Battery-Included Free RDS Alternative!
 - [turbo/pg-shortkey](https://github.com/turbo/pg-shortkey) - YouTube-like Short IDs as Postgres Primary Keys
 
 ## Pascal 
@@ -1628,6 +1637,11 @@
 
 ## Python 
 
+- [toxinu/pyping](https://github.com/toxinu/pyping) - A pure python ICMP ping implementation using raw sockets
+- [20c/vaping](https://github.com/20c/vaping) - vaping is a healthy alternative to SmokePing!
+- [jaraco/irc](https://github.com/jaraco/irc) - Full-featured Python IRC library for Python.
+- [numberoverzero/bottom](https://github.com/numberoverzero/bottom) - asyncio-based rfc2812-compliant IRC Client
+- [Shizmob/pydle](https://github.com/Shizmob/pydle) - An IRCv3-compliant Python 3 IRC library.
 - [flyitalyadsb/flarm-ogn-to-sbs](https://github.com/flyitalyadsb/flarm-ogn-to-sbs) - A powerful small and light utility that captures data from the Flarm OGN (Open Glider Network) and transforms it into a Basestation SBS stream
 - [nfstream/nfstream](https://github.com/nfstream/nfstream) - NFStream: a Flexible Network Data Analysis Framework.
 - [fjwillemsen/Apple-Store-Stock-Notifier](https://github.com/fjwillemsen/Apple-Store-Stock-Notifier) - Apple Store Stock Notifier monitors the availability of selected Apple devices in selected Apple stores, and sends you a notification when devices are available!
@@ -1643,7 +1657,7 @@
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [ma1co/Sony-PMCA-RE](https://github.com/ma1co/Sony-PMCA-RE) - Reverse Engineering Sony Digital Cameras
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Use any LLM as a drop in replacement for GPT. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [poljar/weechat-matrix](https://github.com/poljar/weechat-matrix) - Weechat Matrix protocol script written in python
 - [system-storage-manager/ssm](https://github.com/system-storage-manager/ssm) - A single tool to manage your storage.
 - [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
@@ -1661,7 +1675,7 @@
 - [litements/s3sqlite](https://github.com/litements/s3sqlite) - Query SQLite files in S3 using s3fs
 - [sdr-enthusiasts/acars_router](https://github.com/sdr-enthusiasts/acars_router) - Route ACARS/VDLM2 messages between various services
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [Softcatala/whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - Whisper command line client compatible with original OpenAI client based on CTranslate2.
 - [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) - Faster Whisper transcription with CTranslate2
@@ -1719,7 +1733,7 @@
 - [mpaepper/llm_agents](https://github.com/mpaepper/llm_agents) - Build agents which are controlled by LLMs
 - [blag/humanhash](https://github.com/blag/humanhash) - Human-readable digests.
 - [zacharyvoase/humanhash](https://github.com/zacharyvoase/humanhash) - Human-readable digests.
-- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
@@ -2021,7 +2035,7 @@
 - [kootenpv/loco](https://github.com/kootenpv/loco) - Share localhost through SSH. Local/Remote port forwarding made safe and easy.
 - [aio-libs/aiocache](https://github.com/aio-libs/aiocache) - Asyncio cache manager for redis, memcached and memory
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
-- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
 - [alexk307/cache_deco](https://github.com/alexk307/cache_deco) - Backend agnostic cache decorator
 - [jeffknupp/sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database. No code required!
 - [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
@@ -2158,6 +2172,8 @@
 
 ## Shell 
 
+- [su-haris/simple-network-speedtest](https://github.com/su-haris/simple-network-speedtest) - A simple script to bench network performance
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - PostgreSQL in Great STYle, Battery-Included Free RDS Alternative!
 - [MathiasPius/kronform](https://github.com/MathiasPius/kronform) - Public configuration for Kubernetes cluster hosted with Hetzner.
 - [wiedehopf/adsb-wiki](https://github.com/wiedehopf/adsb-wiki) - Solutions to common problems using dump1090 variants and ADS-B feeders
 - [cocus/t31-test-tar-upgrader](https://github.com/cocus/t31-test-tar-upgrader) - 
@@ -2361,7 +2377,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [ADSB-One/site](https://github.com/ADSB-One/site) - ADSB One site
 - [usimd/pi-gen-action](https://github.com/usimd/pi-gen-action) - Action to build Raspberry Pi images using official pi-gen tool
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
