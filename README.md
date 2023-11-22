@@ -58,7 +58,6 @@
 - [Perl](#perl)
 - [Pony](#pony)
 - [PowerShell](#powershell)
-- [PureBasic](#purebasic)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -302,6 +301,8 @@
 
 ## C++ 
 
+- [30hours/blah2](https://github.com/30hours/blah2) - A real-time passive radar
+- [tandasat/CVE-2023-36427](https://github.com/tandasat/CVE-2023-36427) - Report and exploit of CVE-2023-36427
 - [openzim/zim-tools](https://github.com/openzim/zim-tools) - Various ZIM command line tools
 - [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
@@ -449,6 +450,7 @@
 
 ## Dockerfile 
 
+- [anujdatar/cups-docker](https://github.com/anujdatar/cups-docker) - CUPS server running in a docker container
 - [alpine-ros/alpine-ros](https://github.com/alpine-ros/alpine-ros) - Docker image of ROS (Robot Operating System) on Alpine Linux
 - [JonathanTreffler/backblaze-personal-wine-container](https://github.com/JonathanTreffler/backblaze-personal-wine-container) - Run the Backblaze personal backup client in a docker container
 - [thelounge/thelounge-docker](https://github.com/thelounge/thelounge-docker) - 🐳 ‎ ‎Docker image for The Lounge, a self-hosted web IRC client
@@ -483,6 +485,9 @@
 
 ## Go 
 
+- [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
+- [cybozu-go/moco](https://github.com/cybozu-go/moco) - MySQL operator on Kubernetes using GTID-based semi-synchronous replication.
+- [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [poseidon/matchbox](https://github.com/poseidon/matchbox) - Network boot and provision Fedora CoreOS and Flatcar Linux clusters
 - [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes
@@ -516,7 +521,7 @@
 - [awslabs/node-latency-for-k8s](https://github.com/awslabs/node-latency-for-k8s) - The node-latency-for-k8s tool provides process-level telemetry via prometheus metrics, cloudwatch metrics, and markdown timing charts to optimized K8s node launch times.
 - [bwagner5/karpenter-k3d](https://github.com/bwagner5/karpenter-k3d) - k3d provider for Karpenter
 - [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
-- [substratusai/substratus](https://github.com/substratusai/substratus) - Deploy and finetune LLMs on K8s
+- [substratusai/runbooks](https://github.com/substratusai/runbooks) - Finetune LLMs on K8s by using Runbooks
 - [GoogleContainerTools/kpt-config-sync](https://github.com/GoogleContainerTools/kpt-config-sync) - Config Sync - used to sync Git, OCI and Helm charts to your clusters.
 - [kptdev/kpt](https://github.com/kptdev/kpt) - Automate Kubernetes Configuration Editing
 - [ripta/ssp](https://github.com/ripta/ssp) - Simple Storage Proxy for the simple storage service (S3)
@@ -612,7 +617,6 @@
 - [cloudflare/goflow](https://github.com/cloudflare/goflow) - The high-scalability sFlow/NetFlow/IPFIX collector used internally at Cloudflare.
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 - [acheong08/ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server) - API server for ChatGPT
-- [loft-sh/cluster-api-provider-vcluster](https://github.com/loft-sh/cluster-api-provider-vcluster) - 
 - [23technologies/gardener-extension-provider-hcloud](https://github.com/23technologies/gardener-extension-provider-hcloud) - Gardener Extension for Hetzner Cloud provider
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Kubernetes Control Plane Manager.
@@ -890,6 +894,7 @@
 - [upmc-enterprises/elasticsearch-operator](https://github.com/upmc-enterprises/elasticsearch-operator) - manages elasticsearch clusters
 - [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - A Kubernetes controller for Elastic Load Balancers
 - [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
 - [cppforlife/knctl](https://github.com/cppforlife/knctl) - Knative CLI
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
@@ -1205,7 +1210,7 @@
 - [engineer-man/piston](https://github.com/engineer-man/piston) - A high performance general purpose code execution engine.
 - [Thom-x/docker-fr24feed-piaware-dump1090](https://github.com/Thom-x/docker-fr24feed-piaware-dump1090) - Docker image of dump1090-fa, fr24feed, FlightAware, adsbexchange, Plane Finder, OpenskyNetwork, adsb.fi, ADSBHub and Radarbox.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
-- [adryd325/oneko.js](https://github.com/adryd325/oneko.js) - cat follow mouse (real). Browser port of the classic xneko/oneko program. Issues temporarily disabled due to mental health issues related to maintaining open source projects.
+- [adryd325/oneko.js](https://github.com/adryd325/oneko.js) - A hacky script I wrote to put a cat on my site.
 - [wiedehopf/ol-rollup](https://github.com/wiedehopf/ol-rollup) - OpenLayers + Rollup
 - [kubevirt-ui/kube-gateway](https://github.com/kubevirt-ui/kube-gateway) - Access k8s API using time limited access tokens.
 - [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers
@@ -1261,7 +1266,7 @@
 - [trailofbits/tubertc](https://github.com/trailofbits/tubertc) - Peer-to-Peer Video Chat for Corporate LANs
 - [gjovanov/roomler](https://github.com/gjovanov/roomler) - Roomler - Multi-party Video Conferencing & Team Collaboration Tool using WebRTC (Janus Gateway)
 - [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
-- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
+- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox
 - [ananace/matrix-puppet-steam](https://github.com/ananace/matrix-puppet-steam) - Puppeting Steam bridge for Matrix
@@ -1704,12 +1709,11 @@
 - [nocomp/Flipper_Zero_Badusb_hack5_payloads](https://github.com/nocomp/Flipper_Zero_Badusb_hack5_payloads) - hack5 badusb payloads moded for be played with flipper zero
 - [giMini/PowerMemory](https://github.com/giMini/PowerMemory) - Exploit the credentials present in files and memory
 
-## PureBasic 
-
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
-
 ## Python 
 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
+- [mmcc-xx/BirdCAGE](https://github.com/mmcc-xx/BirdCAGE) - 
+- [pyapril/pyapril](https://github.com/pyapril/pyapril) - Passive radar signal processing library for python
 - [opengeos/maxar-open-data](https://github.com/opengeos/maxar-open-data) - The Maxar Open Data STAC Catalog in CSV, GeoJSON, and MosaicJSON formats
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
@@ -1773,11 +1777,10 @@
 - [michalc/sqlite-s3-query](https://github.com/michalc/sqlite-s3-query) - Python functions to query SQLite files stored on S3
 - [uktrade/sqlite-s3vfs](https://github.com/uktrade/sqlite-s3vfs) - Python writable virtual filesystem for SQLite on S3
 - [litements/s3sqlite](https://github.com/litements/s3sqlite) - Query SQLite files in S3 using s3fs
-- [sdr-enthusiasts/acars_router](https://github.com/sdr-enthusiasts/acars_router) - Route ACARS/VDLM2 messages between various services
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [Softcatala/whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - Whisper command line client compatible with original OpenAI client based on CTranslate2.
-- [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) - Faster Whisper transcription with CTranslate2
+- [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [kanflo/ADS-B-funhouse](https://github.com/kanflo/ADS-B-funhouse) - A collection of scripts for playing with ADS-B data
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Build Production-Grade AI Applications
 - [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
@@ -1934,7 +1937,7 @@
 - [l3uddz/cloudplow](https://github.com/l3uddz/cloudplow) - Automatic rclone remote uploader, with support for multiple remote/folder pairings.  UnionFS Cleaner functionality: Deletion of UnionFS whiteout files  and their corresponding files on rclone remotes.
 - [CuddleBear92/Hydrus-Presets-and-Scripts](https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts) - collection of presets and scripts for Hydrus
 - [Kelwing/aiotwitch](https://github.com/Kelwing/aiotwitch) - An asyncio API Wrapper for the Twitch Helix API
-- [Teekeks/pyTwitchAPI](https://github.com/Teekeks/pyTwitchAPI) - A Python 3.7 implementation of the Twitch API, EventSub, PubSub and Chat
+- [Teekeks/pyTwitchAPI](https://github.com/Teekeks/pyTwitchAPI) - A Python 3.7 compatible implementation of the Twitch API, EventSub, PubSub and Chat
 - [philippnormann/nvidia-sniper](https://github.com/philippnormann/nvidia-sniper) - 🎯 Autonomously buy Nvidia Founders Edition GPUs as soon as they become available.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
@@ -2228,6 +2231,7 @@
 - [obviyus/HamVerBot](https://github.com/obviyus/HamVerBot) - #f1's favourite F1 bot
 - [poljar/weechat-matrix-rs](https://github.com/poljar/weechat-matrix-rs) - Rust rewrite of the python weechat-matrix script.
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust
+- [sdr-enthusiasts/acars_router](https://github.com/sdr-enthusiasts/acars_router) - Route ACARS/VDLM2 messages between various services
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [mrjackwills/adsbdb](https://github.com/mrjackwills/adsbdb) - public api for aircraft, airlines, & flightroutes
@@ -2509,7 +2513,7 @@
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
-- [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - fork of overseerr for jellyfin support
+- [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
@@ -2590,6 +2594,7 @@
 
 ## Vue 
 
+- [Jont828/cluster-api-visualizer](https://github.com/Jont828/cluster-api-visualizer) - Multicluster resource visualization tool for Cluster API
 - [assetto-corsa-web/accweb](https://github.com/assetto-corsa-web/accweb) - Assetto Corsa Competizione Server Management Tool via Web Interface.
 - [QianheYu/headscale-panel-ui](https://github.com/QianheYu/headscale-panel-ui) - Front-end implementation of headscale-panel with cross-domain support and front- and back-end separation
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
