@@ -106,6 +106,7 @@
 
 ## C 
 
+- [solanum-ircd/solanum](https://github.com/solanum-ircd/solanum) - An IRCd for unified networks
 - [d4ckard/spray](https://github.com/d4ckard/spray) - A x86_64 Linux debugger 🐛🐛🐛
 - [egzumer/uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
 - [YellowRoseCx/koboldcpp-rocm](https://github.com/YellowRoseCx/koboldcpp-rocm) - AI Inferencing at the Edge. A simple one-file way to run various GGML models with KoboldAI's UI with AMD ROCm offloading
@@ -139,6 +140,7 @@
 - [furrtek/PrecIR](https://github.com/furrtek/PrecIR) - You know what this is for ;-)
 - [TLeconte/acarsdec](https://github.com/TLeconte/acarsdec) - ACARS SDR decoder
 - [dynup/kpatch](https://github.com/dynup/kpatch) - kpatch - live kernel patching
+- [0xchocolate/flipperzero-esp-flasher](https://github.com/0xchocolate/flipperzero-esp-flasher) - Flipper Zero app to flash ESP chips from the device (no computer connection needed!)
 - [0xchocolate/flipperzero-wifi-marauder](https://github.com/0xchocolate/flipperzero-wifi-marauder) - Flipper Zero WiFi Marauder companion app
 - [spheeere98/mifare_fuzzer](https://github.com/spheeere98/mifare_fuzzer) - 
 - [xMasterX/all-the-plugins](https://github.com/xMasterX/all-the-plugins) - Big plugins pack built for latest flipper firmware
@@ -180,7 +182,7 @@
 - [NyaMisty/AltServer-Linux](https://github.com/NyaMisty/AltServer-Linux) - AltServer for AltStore, but on-device
 - [tlalexander/large_format_laser_cutter](https://github.com/tlalexander/large_format_laser_cutter) - A laser cutter designed for cutting fabric. Because it is so large, it can hide under your rug when not in use.
 - [kentjhall/horizon-linux](https://github.com/kentjhall/horizon-linux) - arm64 Linux patched to run programs for the Nintendo Switch’s Horizon OS
-- [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT&gt;IP and other formats through the unix pipe as input sources.
+- [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT&gt;IP and unix pipe input sources
 - [EsotericSoftware/clippy](https://github.com/EsotericSoftware/clippy) - Multifunctional Windows productivity tool for programmers and other power users
 - [umurmur/umurmur](https://github.com/umurmur/umurmur) - Minimalistic Murmur
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
@@ -262,7 +264,7 @@
 - [Webreaper/SonarrAutoImport](https://github.com/Webreaper/SonarrAutoImport) - Scan video files and submit them to import into Sonarr, Drone-factory style.
 - [GoogleCloudPlatform/iap-desktop](https://github.com/GoogleCloudPlatform/iap-desktop) - IAP Desktop is a Windows application that provides zero-trust Remote Desktop and SSH access to Linux and Windows VMs on Google Cloud.
 - [Dradonhunter11/tModLoader64bit](https://github.com/Dradonhunter11/tModLoader64bit) - 
-- [akiver/CSGO-Demos-Manager](https://github.com/akiver/CSGO-Demos-Manager) - 
+- [akiver/cs-demo-manager](https://github.com/akiver/cs-demo-manager) - 
 - [josdion/subbuzz](https://github.com/josdion/subbuzz) - Subtitles plugin for emby and jellyfin
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [xTCry/automuteus-plugin](https://github.com/xTCry/automuteus-plugin) - Impostor plugin for automuteus
@@ -301,6 +303,8 @@
 
 ## C++ 
 
+- [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux)
+- [bobcamera/bobcamera](https://github.com/bobcamera/bobcamera) - 
 - [30hours/blah2](https://github.com/30hours/blah2) - A real-time passive radar
 - [tandasat/CVE-2023-36427](https://github.com/tandasat/CVE-2023-36427) - Report and exploit of CVE-2023-36427
 - [openzim/zim-tools](https://github.com/openzim/zim-tools) - Various ZIM command line tools
@@ -310,14 +314,12 @@
 - [google/graph-mining](https://github.com/google/graph-mining) - 
 - [tenzir/tenzir](https://github.com/tenzir/tenzir) - Open source data pipelines for security teams.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [bobcamera/bobcamera](https://github.com/bobcamera/bobcamera) - 
 - [mpromonet/v4l2rtspserver](https://github.com/mpromonet/v4l2rtspserver) - RTSP Server for V4L2 device capture supporting HEVC/H264/JPEG/VP8/VP9
 - [olav-st/screencloud](https://github.com/olav-st/screencloud) - Screenshot sharing application for Windows, Mac and Linux.
 - [amyreese/znc-push](https://github.com/amyreese/znc-push) - Push notification service module for ZNC
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 - [systemed/tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
-- [0xchocolate/flipperzero-esp-flasher](https://github.com/0xchocolate/flipperzero-esp-flasher) - Flipper Zero app to flash ESP chips from the device (no computer connection needed!)
 - [r4d10n/retrogram-rtlsdr](https://github.com/r4d10n/retrogram-rtlsdr) - Spectrum analyzer on your terminal/ssh console with ASCII art ~ RTLSDR
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
@@ -485,6 +487,7 @@
 
 ## Go 
 
+- [OpenFactorioServerManager/factorio-server-manager](https://github.com/OpenFactorioServerManager/factorio-server-manager) - A tool to help manage Factorio multiplayer servers including mods and save games.
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
 - [cybozu-go/moco](https://github.com/cybozu-go/moco) - MySQL operator on Kubernetes using GTID-based semi-synchronous replication.
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
@@ -848,7 +851,6 @@
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [pomerium/pomerium-operator](https://github.com/pomerium/pomerium-operator) - An operator for running Pomerium on a Kubernetes cluster.
-- [XiovV/Golty](https://github.com/XiovV/Golty) - A selfhostable service that automatically detects and downloads new uploads on YouTube channels and playlists + more
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [bitsbeats/prometheus-acls](https://github.com/bitsbeats/prometheus-acls) - prometheus oauth acl reverse proxy
 - [virtual-kubelet/aws-fargate](https://github.com/virtual-kubelet/aws-fargate) - 
@@ -1209,7 +1211,7 @@
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [engineer-man/piston](https://github.com/engineer-man/piston) - A high performance general purpose code execution engine.
 - [Thom-x/docker-fr24feed-piaware-dump1090](https://github.com/Thom-x/docker-fr24feed-piaware-dump1090) - Docker image of dump1090-fa, fr24feed, FlightAware, adsbexchange, Plane Finder, OpenskyNetwork, adsb.fi, ADSBHub and Radarbox.
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [adryd325/oneko.js](https://github.com/adryd325/oneko.js) - A hacky script I wrote to put a cat on my site.
 - [wiedehopf/ol-rollup](https://github.com/wiedehopf/ol-rollup) - OpenLayers + Rollup
 - [kubevirt-ui/kube-gateway](https://github.com/kubevirt-ui/kube-gateway) - Access k8s API using time limited access tokens.
@@ -1391,6 +1393,7 @@
 
 ## Jinja 
 
+- [githubixx/ansible-role-cilium-kubernetes](https://github.com/githubixx/ansible-role-cilium-kubernetes) - Ansible role to install Cilium network on a Kubernetes cluster
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [wearep3r/apollo](https://github.com/wearep3r/apollo) - apollo - Platform as a Service toolkit
 - [GoogleCloudPlatform/deploymentmanager-samples](https://github.com/GoogleCloudPlatform/deploymentmanager-samples) - Deployment Manager samples and templates.
@@ -1711,6 +1714,7 @@
 
 ## Python 
 
+- [dirkbeer/adsb-analysis](https://github.com/dirkbeer/adsb-analysis) - 
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [mmcc-xx/BirdCAGE](https://github.com/mmcc-xx/BirdCAGE) - 
 - [pyapril/pyapril](https://github.com/pyapril/pyapril) - Passive radar signal processing library for python
@@ -1905,7 +1909,7 @@
 - [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch
 - [kyuoven/bunny](https://github.com/kyuoven/bunny) - ૮꒰ ˶• ༝ •˶꒱ა ♡
 - [hass-emulated-hue/core](https://github.com/hass-emulated-hue/core) - Hue Emulation for Home Assistant
-- [custom-components/alexa_media_player](https://github.com/custom-components/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
+- [alandtse/alexa_media_player](https://github.com/alandtse/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
 - [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
 - [cyberjunky/home-assistant-p2000](https://github.com/cyberjunky/home-assistant-p2000) - :fire_engine: This component tracks P2000 emergency events in The Netherlands.
@@ -2283,6 +2287,7 @@
 
 ## Shell 
 
+- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [goofball222/unifi](https://github.com/goofball222/unifi) - UniFi Docker Container
@@ -2316,7 +2321,7 @@
 - [76rhodan/docker-virtualradarserver](https://github.com/76rhodan/docker-virtualradarserver) - Dockerized version of VirtualRadarServer
 - [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
 - [kboghdady/youTube_ads_4_pi-hole](https://github.com/kboghdady/youTube_ads_4_pi-hole) - YouTube script to add the new Ads list for Pi-hole
-- [ketilmo/balena-ads-b](https://github.com/ketilmo/balena-ads-b) - ADS-B Flight Tracker running on balena with support for FlightAware, Flightradar24, PlaneFinder, OpenSky Network, RadarBox, ADSB Exchange, and UAT.
+- [ketilmo/balena-ads-b](https://github.com/ketilmo/balena-ads-b) - ADS-B Flight Tracker running on balena with support for FlightAware, Flightradar24, PlaneFinder, OpenSky Network, RadarBox, ADSB Exchange, Wingbits, and UAT.
 - [Okazakee/mcserver-lazymc-docker](https://github.com/Okazakee/mcserver-lazymc-docker) - This is a Linux Docker image for creating Minecraft servers using lazymc with a lot of parameters.
 - [swarmlet/swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
@@ -2537,7 +2542,7 @@
 - [game-ci/unity-builder](https://github.com/game-ci/unity-builder) - Build Unity projects for different platforms
 - [matrix-org/matrix-appservice-discord](https://github.com/matrix-org/matrix-appservice-discord) - A bridge between Matrix and Discord.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run  https://sealos.io
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [ottomated/CrewLink-server](https://github.com/ottomated/CrewLink-server) - Voice Relay server for CrewLink.
 - [ottomated/CrewLink](https://github.com/ottomated/CrewLink) - Free, open, Among Us Proximity Chat
@@ -2557,6 +2562,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [nwtgck/actions-comment-run](https://github.com/nwtgck/actions-comment-run) - Execute any script in a GitHub issue comment
 - [sighupio/permission-manager](https://github.com/sighupio/permission-manager) - Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW
+- [XiovV/Golty](https://github.com/XiovV/Golty) - A selfhostable service that automatically detects and downloads new uploads on YouTube channels and playlists + more
 - [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and m
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [matrix-org/matrix-appservice-irc](https://github.com/matrix-org/matrix-appservice-irc) - Node.js IRC bridge for Matrix
