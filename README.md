@@ -106,6 +106,9 @@
 
 ## C 
 
+- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [espressif/esp-csi](https://github.com/espressif/esp-csi) - Applications based on Wi-Fi CSI (Channel state information), such as indoor positioning, human detection
+- [stevenj/lzjbbench](https://github.com/stevenj/lzjbbench) - LZJB (from ZFS) vs LZ4 benchmark and test suite.  Includes experimental lzjb decompressor that is at least 150% the speed of stock lzjb decompression
 - [solanum-ircd/solanum](https://github.com/solanum-ircd/solanum) - An IRCd for unified networks
 - [d4ckard/spray](https://github.com/d4ckard/spray) - A x86_64 Linux debugger 🐛🐛🐛
 - [egzumer/uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
@@ -255,6 +258,7 @@
 
 ## C# # 
 
+- [wpbrown/oakproxy](https://github.com/wpbrown/oakproxy) - An open source cloud identity-aware proxy for OpenID Connect and OAuth 2
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
 - [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN）
 - [DanielKami/PasiveRadar2](https://github.com/DanielKami/PasiveRadar2) - 
@@ -264,7 +268,6 @@
 - [Webreaper/SonarrAutoImport](https://github.com/Webreaper/SonarrAutoImport) - Scan video files and submit them to import into Sonarr, Drone-factory style.
 - [GoogleCloudPlatform/iap-desktop](https://github.com/GoogleCloudPlatform/iap-desktop) - IAP Desktop is a Windows application that provides zero-trust Remote Desktop and SSH access to Linux and Windows VMs on Google Cloud.
 - [Dradonhunter11/tModLoader64bit](https://github.com/Dradonhunter11/tModLoader64bit) - 
-- [akiver/cs-demo-manager](https://github.com/akiver/cs-demo-manager) - 
 - [josdion/subbuzz](https://github.com/josdion/subbuzz) - Subtitles plugin for emby and jellyfin
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [xTCry/automuteus-plugin](https://github.com/xTCry/automuteus-plugin) - Impostor plugin for automuteus
@@ -303,6 +306,7 @@
 
 ## C++ 
 
+- [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux)
 - [bobcamera/bobcamera](https://github.com/bobcamera/bobcamera) - 
 - [30hours/blah2](https://github.com/30hours/blah2) - A real-time passive radar
@@ -487,6 +491,7 @@
 
 ## Go 
 
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams.
 - [OpenFactorioServerManager/factorio-server-manager](https://github.com/OpenFactorioServerManager/factorio-server-manager) - A tool to help manage Factorio multiplayer servers including mods and save games.
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
 - [cybozu-go/moco](https://github.com/cybozu-go/moco) - MySQL operator on Kubernetes using GTID-based semi-synchronous replication.
@@ -546,7 +551,7 @@
 - [hashicorp/vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) - The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.
 - [clastix/cluster-api-control-plane-provider-kamaji](https://github.com/clastix/cluster-api-control-plane-provider-kamaji) - The Kamaji Control Plane provider implementation of the Cluster Management API
 - [topolvm/pvc-autoresizer](https://github.com/topolvm/pvc-autoresizer) - Auto-resize PersistentVolumeClaim objects based on Prometheus metrics
-- [aws/karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [deepset-ai/prompthub](https://github.com/deepset-ai/prompthub) - 
 - [kube-green/kube-green](https://github.com/kube-green/kube-green) - A K8s operator to reduce CO2 footprint of your clusters
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
@@ -1139,6 +1144,7 @@
 
 ## Java 
 
+- [Shakahs/absb.lol-b2-sync](https://github.com/Shakahs/absb.lol-b2-sync) - 
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [moseoridev/WarpShare](https://github.com/moseoridev/WarpShare) - An Open-source AirDrop Alternative
 - [jvde-github/AIS-catcher-for-Android](https://github.com/jvde-github/AIS-catcher-for-Android) - Android AIS receiver for RTL SDR dongles, Airspy R2, Airspy Mini, Airspy HF+ and TCP (RTL-TCP and SpyServer). Output is send via UDP and visualized on the built-in map
@@ -1183,10 +1189,11 @@
 
 ## JavaScript 
 
+- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
-- [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - Removes The "Ad blocker are not allowed on Youtube"
+- [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [nedrysoft/regex101](https://github.com/nedrysoft/regex101) - A cross platform (macOS, Linux & Windows) unofficial "offline" version of the regex101.com website.  Uses the users own database (any qt supported backend - sqlite, mysql, postgresql etc) to store exp
 - [toptal/haste-server](https://github.com/toptal/haste-server) - open source pastebin written in node.js
@@ -1411,6 +1418,7 @@
 
 ## Jupyter Notebook 
 
+- [lyogavin/Anima](https://github.com/lyogavin/Anima) - 33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [open-space-collective/open-space-toolkit](https://github.com/open-space-collective/open-space-toolkit) - Collection of versatile software libraries for space engineering applications.
@@ -1471,7 +1479,6 @@
 - [masipcat/wireguard-go-docker](https://github.com/masipcat/wireguard-go-docker) - Wireguard docker image
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [patrickod/docker-tor](https://github.com/patrickod/docker-tor) - A docker'ized internal-only tor relay.
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 
 ## Markdown 
 
@@ -1520,6 +1527,8 @@
 
 ## Others 
 
+- [jlas1/Klicky-Probe](https://github.com/jlas1/Klicky-Probe) - Microswitch probe with magnetic attachement, primarily aimed at CoreXY 3d printers
+- [VoronDesign/Voron-2](https://github.com/VoronDesign/Voron-2) - Voron 2 CoreXY 3D Printer design
 - [satellite-image-deep-learning/techniques](https://github.com/satellite-image-deep-learning/techniques) - Techniques for deep learning with satellite & aerial imagery
 - [Fitbit/ossapps](https://github.com/Fitbit/ossapps) - A non-exhaustive list of open sourced clock faces, applications and modules from the community.
 - [mig4ng/ublock-origin-filters](https://github.com/mig4ng/ublock-origin-filters) - My personal and very opinionated uBlock Origin filters
@@ -1626,6 +1635,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [eBay/restcommander](https://github.com/eBay/restcommander) - Fast Parallel Async HTTP client as a Service to monitor and manage 10,000 web servers. (Java+Akka)
 - [omemo/gajim-omemo](https://github.com/omemo/gajim-omemo) - Gajim plugin for OMEMO Multi-End Message and Object Encryption
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [Xyl2k/TSA-Travel-Sentry-master-keys](https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys) - 3D reproduction of TSA Master keys
 - [cn-nytimes/mirrors](https://github.com/cn-nytimes/mirrors) - 
 - [IonicaBizau/reset-your-facebook-account](https://github.com/IonicaBizau/reset-your-facebook-account) - :older_man: Some scripts to delete your Facebook posts, comments and likes.
@@ -1714,6 +1724,7 @@
 
 ## Python 
 
+- [mmcc-xx/WhosAtMyFeeder](https://github.com/mmcc-xx/WhosAtMyFeeder) - 
 - [dirkbeer/adsb-analysis](https://github.com/dirkbeer/adsb-analysis) - 
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [mmcc-xx/BirdCAGE](https://github.com/mmcc-xx/BirdCAGE) - 
@@ -1781,7 +1792,7 @@
 - [michalc/sqlite-s3-query](https://github.com/michalc/sqlite-s3-query) - Python functions to query SQLite files stored on S3
 - [uktrade/sqlite-s3vfs](https://github.com/uktrade/sqlite-s3vfs) - Python writable virtual filesystem for SQLite on S3
 - [litements/s3sqlite](https://github.com/litements/s3sqlite) - Query SQLite files in S3 using s3fs
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [Softcatala/whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - Whisper command line client compatible with original OpenAI client based on CTranslate2.
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
@@ -2195,6 +2206,7 @@
 
 ## Ruby 
 
+- [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [macOScontainers/homebrew-formula](https://github.com/macOScontainers/homebrew-formula) - 
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
@@ -2220,6 +2232,7 @@
 
 ## Rust 
 
+- [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [oxidecomputer/omicron](https://github.com/oxidecomputer/omicron) - Omicron: Oxide control plane
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [exein-io/pulsar](https://github.com/exein-io/pulsar) - A modular and blazing fast runtime security framework for the IoT, powered by eBPF.
@@ -2287,6 +2300,8 @@
 
 ## Shell 
 
+- [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .doc
+- [k3s-io/k3s-upgrade](https://github.com/k3s-io/k3s-upgrade) - 
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
@@ -2466,6 +2481,7 @@
 
 ## TypeScript 
 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-Use
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [yacineMTB/talk](https://github.com/yacineMTB/talk) - Let's make sand talk
 - [obviyus/chanson.live](https://github.com/obviyus/chanson.live) - An ultra low-latency WebRTC radio
@@ -2497,7 +2513,7 @@
 - [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
 - [giantswarm/happa](https://github.com/giantswarm/happa) - Web user interface for Giant Swarm – Beyond managed Kubernetes
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
-- [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.
+- [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
 - [NicoKandut/factorio-solar-art](https://github.com/NicoKandut/factorio-solar-art) - Converts pictures into blueprints for solar farms.
 - [matrixgpt/matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - Talk to ChatGPT via any Matrix client!
 - [matrix-org/conference-bot](https://github.com/matrix-org/conference-bot) - The conductor for your orchestra^Wconference
@@ -2525,6 +2541,7 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [matias-kovero/tarkov](https://github.com/matias-kovero/tarkov) - A npm library for the Escape from Tarkov API
 - [underyx/visawhen](https://github.com/underyx/visawhen) - Data on US visa wait times at the National Visa Center and at US consulates.
+- [akiver/cs-demo-manager](https://github.com/akiver/cs-demo-manager) - 
 - [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
@@ -2542,7 +2559,7 @@
 - [game-ci/unity-builder](https://github.com/game-ci/unity-builder) - Build Unity projects for different platforms
 - [matrix-org/matrix-appservice-discord](https://github.com/matrix-org/matrix-appservice-discord) - A bridge between Matrix and Discord.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run  https://sealos.io
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [ottomated/CrewLink-server](https://github.com/ottomated/CrewLink-server) - Voice Relay server for CrewLink.
 - [ottomated/CrewLink](https://github.com/ottomated/CrewLink) - Free, open, Among Us Proximity Chat
