@@ -80,6 +80,7 @@
 - [Visual Basic](#visual-basic)
 - [Vue](#vue)
 - [YARA](#yara)
+- [Zig](#zig)
 
 ## AGS Script 
 
@@ -494,6 +495,7 @@
 - [rfvgyhn/tmodloader-docker](https://github.com/rfvgyhn/tmodloader-docker) - Terraria server with tModLoader
 - [ironpeakservices/iron-debian](https://github.com/ironpeakservices/iron-debian) - Hardened debian linux baseimage for Docker.
 - [imtbl/hydrus-server-docker](https://github.com/imtbl/hydrus-server-docker) - hydrus server running on Debian
+- [masipcat/wireguard-go-docker](https://github.com/masipcat/wireguard-go-docker) - Wireguard docker image
 - [utensils/docker-opengl](https://github.com/utensils/docker-opengl) - Multi-Arch Docker - Mesa 3D OpenGL Software Rendering (Gallium) - LLVMpipe, and OpenSWR Drivers
 - [shyd/docker-instagram-scraper](https://github.com/shyd/docker-instagram-scraper) - Docker image with instagram-scraper in it.
 - [tiredofit/docker-jitsi-meet](https://github.com/tiredofit/docker-jitsi-meet) - Docker Jitsi Meet WebRTC conferencing system w/Prosody XMPP and s6 overlay
@@ -537,7 +539,7 @@
 - [netrisai/netris-operator](https://github.com/netrisai/netris-operator) - The Kubernetes Operator for Netris
 - [containernetworking/cni](https://github.com/containernetworking/cni) - Container Network Interface - networking for Linux containers
 - [beeper/imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge.
-- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and the IETF draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
+- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [OpenFactorioServerManager/factorio-server-manager](https://github.com/OpenFactorioServerManager/factorio-server-manager) - A tool to help manage Factorio multiplayer servers including mods and save games.
@@ -1130,6 +1132,7 @@
 
 ## HTML 
 
+- [inulute/unlim-cloud](https://github.com/inulute/unlim-cloud) - UnlimCloud provides unlimited cloud storage for your files, utilizing Telegram as the storage solution. Simply log in using your Telegram ID, and you are good to go.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [vasturiano/globe.gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
 - [jiep/offensive-ai-compilation](https://github.com/jiep/offensive-ai-compilation) - A curated list of useful resources that cover Offensive AI.
@@ -1158,7 +1161,6 @@
 - [littleblah/senior-engineer-checklist](https://github.com/littleblah/senior-engineer-checklist) - Senior Engineer CheckList
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [FikaWorks/website](https://github.com/FikaWorks/website) - FikaWorks website
-- [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from github, bitbucket and gitlab, but with the correct content types
 - [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
 - [caffeine-overload/bandinchina](https://github.com/caffeine-overload/bandinchina) - Naming and shaming companies who kowtow to Chinese censorship requests
 - [koutsie/vac.fail](https://github.com/koutsie/vac.fail) - Valve Anti Cheat revolution!
@@ -1216,6 +1218,7 @@
 - [tmobile/kardio](https://github.com/tmobile/kardio) - Service Health Dashboard for Kubernetes, Containers and more...
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 - [shzlw/poli](https://github.com/shzlw/poli) - An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights.
+- [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from github, bitbucket and gitlab, but with the correct content types
 - [ant-media/Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server) - Ant Media Server is a live streaming engine software that provides adaptive, ultra low latency streaming by using WebRTC technology with ~0.5 seconds latency. Ant Media Server is auto-scalable and it 
 - [Erudika/scoold](https://github.com/Erudika/scoold) - A Stack Overflow clone for teams (self-hosted or hosted)
 - [futurice/meeting-room-tablet](https://github.com/futurice/meeting-room-tablet) - Google Apps compatible meeting room reservator
@@ -1239,7 +1242,7 @@
 
 ## JavaScript 
 
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - The Internet OS!
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS!
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 - [ArchiveTeam/universal-tracker](https://github.com/ArchiveTeam/universal-tracker) - A configurable, reusable tracker with dashboard
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
@@ -1541,7 +1544,6 @@
 
 - [giantswarm/cluster-api-monitoring-app](https://github.com/giantswarm/cluster-api-monitoring-app) - 
 - [siderolabs/contrib](https://github.com/siderolabs/contrib) - talos/sidero setup examples
-- [masipcat/wireguard-go-docker](https://github.com/masipcat/wireguard-go-docker) - Wireguard docker image
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [patrickod/docker-tor](https://github.com/patrickod/docker-tor) - A docker'ized internal-only tor relay.
 
@@ -1600,6 +1602,7 @@
 
 ## Others 
 
+- [WHTJEON/narrowvine-reborn](https://github.com/WHTJEON/narrowvine-reborn) - The Ultimate Widevine Content Ripper (KEY Extract + Download + Decrypt) is REBORN
 - [Tengo10/framework-usb-to-uart](https://github.com/Tengo10/framework-usb-to-uart) - USB to UART Expansion Card for the Framework Laptop
 - [obviyus/k3s](https://github.com/obviyus/k3s) - 
 - [mbianchidev/financial-cool](https://github.com/mbianchidev/financial-cool) - A list of financial cool resources, projects and products
@@ -1785,6 +1788,8 @@
 
 ## Perl 
 
+- [hinrik/poe-component-irc-plugin-hailo](https://github.com/hinrik/poe-component-irc-plugin-hailo) - PoCo-IRC plugin which provides acess to a Hailo conversation simulator
+- [Amsterdam-bene/poe-component-irc-plugin-recallback](https://github.com/Amsterdam-bene/poe-component-irc-plugin-recallback) - Map regular expressions to JSON microservices
 - [convos-chat/convos](https://github.com/convos-chat/convos) - Convos :busts_in_silhouette: is the simplest way to use IRC in your browser
 - [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system
 - [molo1134/qrmbot](https://github.com/molo1134/qrmbot) - qrm ham radio IRC bot and associated scripts
@@ -1807,6 +1812,20 @@
 
 ## Python 
 
+- [sopel-irc/sopel](https://github.com/sopel-irc/sopel) - :robot::speech_balloon: An easy-to-use and highly extensible IRC Bot framework. Formerly Willie.
+- [bitbot-irc/bitbot](https://github.com/bitbot-irc/bitbot) - https://bitbot.dev | Python3 event-driven modular IRCv3 bot 🤖
+- [knrd1/chatgpt](https://github.com/knrd1/chatgpt) - ChatGPT IRC bot
+- [matheusfillipe/g4firc](https://github.com/matheusfillipe/g4firc) - gpt4free irc bot
+- [pr3d4t0r/sopel_ai](https://github.com/pr3d4t0r/sopel_ai) - m0toko Perplexity AI/Ollama/llama.cpp plug-in for the Sopel bot
+- [Amsterdam-bene/blablabla](https://github.com/Amsterdam-bene/blablabla) - A chatbot service bene.
+- [dillonwilliams/signal-chatgpt](https://github.com/dillonwilliams/signal-chatgpt) - Signal-ChatGPT relay via OpenAI API, live at +1-775-235-2686
+- [cycneuramus/signal-aichat](https://github.com/cycneuramus/signal-aichat) - An AI chatbot for Signal powered by Google Bard, Bing Chat, ChatGPT, HuggingChat, and llama.cpp
+- [wiedehopf/docker-acars2pos](https://github.com/wiedehopf/docker-acars2pos) - Ingest ACARS, VDLM2, and HFDL message as JSON and output aircraft positions as SBS.
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
+- [mattsta/redisfuse](https://github.com/mattsta/redisfuse) - FUSE File System for Redis specializing in CRUDing strings and hashes (and R of everything else)
+- [devine-dl/pywidevine](https://github.com/devine-dl/pywidevine) - Python implementation of Google's Widevine DRM CDM (Content Decryption Module)
+- [devine-dl/devine](https://github.com/devine-dl/devine) - Modular Movie, TV, and Music Archival Software
+- [WHTJEON/narrowvine](https://github.com/WHTJEON/narrowvine) - The Ultimate Widevine Content Ripper (KEY Extract + Download + Decrypt)
 - [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq) - Distributed task queue with full async support
 - [Tengo10/pinout-overview](https://github.com/Tengo10/pinout-overview) - A simple Python tool to create pinout overviews of ICs.
 - [starise/vice-download](https://github.com/starise/vice-download) - Bulk Save articles from Vice using the contributor page
@@ -1972,7 +1991,7 @@
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 - [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
 - [yizhongw/self-instruct](https://github.com/yizhongw/self-instruct) - Aligning pretrained language models with instruction data generated by themselves.
-- [moymix/TaskMatrix](https://github.com/moymix/TaskMatrix) - 
+- [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
 - [jankais3r/LLaMA_MPS](https://github.com/jankais3r/LLaMA_MPS) - Run LLaMA (and Stanford-Alpaca) inference on Apple Silicon GPUs.
 - [matrix-org/pantalaimon](https://github.com/matrix-org/pantalaimon) - E2EE aware proxy daemon for matrix clients.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
@@ -2321,7 +2340,7 @@
 
 ## Ruby 
 
-- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, and managed Postgres services in public alpha.
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [macOScontainers/homebrew-formula](https://github.com/macOScontainers/homebrew-formula) - 
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
@@ -2348,12 +2367,12 @@
 
 ## Rust 
 
+- [Chleba/netscanner](https://github.com/Chleba/netscanner) - Network scanner
 - [C10udburst/chunkdrive](https://github.com/C10udburst/chunkdrive) - Tool that allows you to store vast amounts of data by splitting it into chunks and uploading them to services that offer free storage.
-- [inulute/unlim-cloud](https://github.com/inulute/unlim-cloud) - UnlimCloud provides unlimited cloud storage for your files, utilizing Telegram as the storage solution. Simply log in using your Telegram ID, and you are good to go.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [ricott1/sshattrick](https://github.com/ricott1/sshattrick) - Play Hattrick in your terminal over SSH
-- [xoolive/rs1090](https://github.com/xoolive/rs1090) - Decode Mode S and ADS-B signals in Rust
+- [xoolive/rs1090](https://github.com/xoolive/rs1090) - Decode Mode S, ADS-B and FLARM signals in Rust/Python
 - [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the 
 - [duo/telegram-fuse](https://github.com/duo/telegram-fuse) - A FUSE filesystem for Telegram storage
 - [SoftbearStudios/mk48](https://github.com/SoftbearStudios/mk48) - Mk48.io ship combat game
@@ -2644,7 +2663,7 @@
 - [yacineMTB/talk](https://github.com/yacineMTB/talk) - Let's make sand talk
 - [obviyus/chanson.live](https://github.com/obviyus/chanson.live) - An ultra low-latency WebRTC radio
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
-- [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS an
+- [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
 - [airframesio/acars-decoder-typescript](https://github.com/airframesio/acars-decoder-typescript) - ACARS Message Decoder for TypeScript / JavaScript
 - [sdr-enthusiasts/docker-acarshub](https://github.com/sdr-enthusiasts/docker-acarshub) - Docker container to utilize RTLSDR dongle(s) to view/stream ACARS/VDLM2 aircraft data transmissions
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
@@ -2696,7 +2715,7 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
+- [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [matias-kovero/tarkov](https://github.com/matias-kovero/tarkov) - A npm library for the Escape from Tarkov API
 - [underyx/visawhen](https://github.com/underyx/visawhen) - Data on US visa wait times at the National Visa Center and at US consulates.
 - [akiver/cs-demo-manager](https://github.com/akiver/cs-demo-manager) - Companion application for your Counter-Strike demos.
@@ -2737,7 +2756,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [nwtgck/actions-comment-run](https://github.com/nwtgck/actions-comment-run) - Execute any script in a GitHub issue comment
 - [sighupio/permission-manager](https://github.com/sighupio/permission-manager) - Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW
-- [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and m
+- [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them 
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [matrix-org/matrix-appservice-irc](https://github.com/matrix-org/matrix-appservice-irc) - Node.js IRC bridge for Matrix
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -2786,6 +2805,10 @@
 ## YARA 
 
 - [CYB3RMX/Qu1cksc0pe](https://github.com/CYB3RMX/Qu1cksc0pe) - All-in-One malware analysis tool.
+
+## Zig 
+
+- [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
 
 
 ## License
